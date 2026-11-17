@@ -1,0 +1,13 @@
+# source data (large, download separately)
+data/raw/
+*.zip
+*.xml.gz
+
+# generated intermediates
+data/sets.json.gz
+*.pkl
+
+# python
+__pycache__/
+*.pyc
+.venv/

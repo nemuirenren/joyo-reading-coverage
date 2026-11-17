@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this data or analysis, please cite this repository."
+title: "2,964 Words: The Minimum Vocabulary to Cover Every Jōyō Kanji Reading"
+abstract: "Minimum set cover over JMdict and KANJIDIC2: 2,964 kanji-containing words cover all 5,840 coverable readings of the 2,136 jōyō kanji, proven optimal within 2,962-2,964."
+authors:
+  - alias: nemuirenren
+    name: nemuirenren
+repository-code: "https://github.com/nemuirenren/joyo-reading-coverage"
+license: MIT
+date-released: "2026-11-17"
