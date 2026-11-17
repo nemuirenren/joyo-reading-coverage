@@ -19,8 +19,8 @@ Ini bukan daftar hafalan yang disusun feeling; ini minimum matematis dari model 
 | Bacaan yang bisa ditutup | **5.840** |
 | **Jumlah kata minimum** | **2.964** |
 | Batas bawah terbukti | 2.962 |
-| Efisiensi | 2,48 bacaan per kata |
-| Kata yang mengajarkan 1 bacaan saja | 580 |
+| Efisiensi | 2,26 bacaan per kata |
+| Kata yang mengajarkan 1 bacaan saja | 917 |
 | Bacaan terbanyak dari satu kata | 14 |
 
 ---
@@ -73,21 +73,21 @@ Detail lengkap: [`docs/metode.md`](docs/metode.md) · laporan panjang: [`docs/la
 
 | Bacaan tertutup | Kata dibutuhkan |
 |---|---|
-| 50% | 792 |
-| 70% | 1.298 |
-| 80% | 1.527 |
-| 90% | 1.758 |
-| 95% | 1.858 |
-| 99% | 2.060 |
+| 50% | 954 |
+| 70% | 1.538 |
+| 80% | 1.830 |
+| 90% | 2.380 |
+| 95% | 2.672 |
+| 99% | 2.906 |
 | **100%** | **2.964** |
 
-1% terakhir (58 bacaan) menelan ± **900 kata**. Itu bacaan arkais/ateji yang hanya hidup di kosakata langka.
+Di atas 90%, tiap 1% tambahan menelan ± 60 kata: 584 bacaan terakhir butuh 584 kata — hampir satu kata per bacaan, karena bacaan itu hanya punya satu-dua saksi kata.
 
 ### Bentuk daftarnya
 
 - 2.964 kata, 2.930 unik (34 kata muncul dua kali dengan bacaan berbeda, mis. 生 き / 生 なま).
-- 580 kata mengajarkan tepat satu bacaan; 1.282 mengajarkan dua; maksimum 14.
-- ± 430 entri berupa frasa (mis. 真偽を確かめる), karena JMdict memuat ungkapan multi-kata.
+- 917 kata mengajarkan tepat satu bacaan; 1.156 mengajarkan dua; maksimum 14.
+- ± 320 entri berupa frasa (mis. 真偽を確かめる), karena JMdict memuat ungkapan multi-kata.
 - Kata umum seperti 食べる atau 学校 **tidak** ada di daftar — bacaannya sudah tertutup kata lain yang lebih efisien.
 
 ### Kyōiku saja

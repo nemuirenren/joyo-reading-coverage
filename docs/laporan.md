@@ -16,7 +16,7 @@
 | **Jumlah kosakata minimum** | **2.964 kata** |
 | Batas bawah terbukti | 2.962 |
 | Status optimalitas | Optimum ∈ {2.962, 2.963, 2.964}, gap < 0,1% |
-| Efisiensi | 2,48 bacaan per kata |
+| Efisiensi | 2,26 bacaan per kata |
 | Cakupan | 100% bacaan yang bisa ditutup, untuk 2.136 kanji jōyō |
 
 Angka **2.964** adalah jumlah minimum kata berkanji yang harus dihafal agar seluruh bacaan kanji jōyō (termasuk kyōiku) tertutup, jika belajar dengan metode "hafalan kosakata berkanji".
@@ -124,29 +124,29 @@ Proses reduksi (dominasi) aman secara matematis: himpunan yang merupakan subset 
 |---|---|
 | Jumlah kata | 2.964 |
 | Kata unik | 2.930 (34 kata terpilih dua kali dengan bacaan berbeda, mis. 生 き / 生 なま) |
-| Rata-rata bacaan per kata | 2,48 |
-| Kata yang mengajarkan 1 bacaan | 580 |
-| Kata yang mengajarkan 2 bacaan | 1.282 |
-| Kata yang mengajarkan ≥ 5 bacaan | 189 |
+| Rata-rata bacaan per kata | 2,26 |
+| Kata yang mengajarkan 1 bacaan | 917 |
+| Kata yang mengajarkan 2 bacaan | 1.156 |
+| Kata yang mengajarkan ≥ 5 bacaan | 169 |
 | Maksimum bacaan per kata | 14 |
-| Kata satu karakter | ± 100 |
-| Entri berupa frasa (mengandung を/に) | 429 |
+| Kata satu karakter | 136 |
+| Entri berupa frasa (mengandung を/に) | 321 |
 
-Distribusi lengkap bacaan per kata: 1→580, 2→1.282, 3→593, 4→320, 5→92, 6→44, 7→26, 8→10, 9→8, 10→4, 11→1, 12→3, 14→1.
+Distribusi lengkap bacaan per kata: 1→917, 2→1.156, 3→451, 4→271, 5→83, 6→39, 7→26, 8→5, 9→7, 10→4, 11→1, 12→3, 14→1.
 
 ### 5.2 Kurva Cakupan (dari basket optimal)
 
 | Target bacaan | Kata dibutuhkan |
 |---|---|
-| 50% | 792 |
-| 70% | 1.298 |
-| 80% | 1.527 |
-| 90% | 1.758 |
-| 95% | 1.858 |
-| 99% | 2.060 |
+| 50% | 954 |
+| 70% | 1.538 |
+| 80% | 1.830 |
+| 90% | 2.380 |
+| 95% | 2.672 |
+| 99% | 2.906 |
 | 100% | 2.964 |
 
-Temuan penting: **1% terakhir (58 bacaan) membutuhkan ± 900 kata**. Ini adalah ekor bacaan langka/arkais.
+Temuan penting: di atas 90%, tiap 1% tambahan menelan ± 60 kata. 584 bacaan terakhir butuh 584 kata — hampir satu kata per bacaan, karena bacaan itu hanya punya satu-dua saksi kata.
 
 ### 5.3 Skenario Kyōiku Saja
 
@@ -206,7 +206,7 @@ Field: `kosakata` (kata berkanji) dan `bacaan` (hiragana). Tidak ada arti, level
 | Kebutuhan | Saran |
 |---|---|
 | Referensi teoretis / kelengkapan maksimal | Pakai 2.964 kata apa adanya |
-| Belajar praktis (manusia) | Targetkan 90–95% → 1.758–1.858 kata |
+| Belajar praktis (manusia) | Targetkan 90–95% → 2.380–2.672 kata |
 | Urutan belajar | Urutkan sendiri berdasarkan frekuensi (JPDB) — file ini tidak berurutan frekuensi |
 | Anki | Pecah per level: kyōiku dulu, lalu jōyō |
 | Bacaan mustahil (709) | Pelajari dari daftar bacaan kanji, bukan kosakata |

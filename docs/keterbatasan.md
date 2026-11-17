@@ -64,7 +64,7 @@ Yang stabil dan bisa dikutip:
 
 - **jumlah kata**: 2.962–2.964,
 - **cakupan**: 5.840/5.840 unit,
-- **efisiensi**: ± 2,48 bacaan per kata.
+- **efisiensi**: ± 2,26 bacaan per kata.
 
 ---
 
@@ -76,7 +76,7 @@ Tujuan optimasi hanya "jumlah kata minimum". Akibatnya:
 - Kata umum seperti 食べる, 学校, 手紙 justru tidak masuk daftar.
 - Urutan file (berdasarkan bacaan) bukan urutan belajar yang baik.
 
-Daftar ini adalah **referensi teoretis**, bukan kurikulum. Untuk belajar, urutkan sendiri berdasarkan frekuensi (mis. JPDB) dan targetkan 90–95% (1.758–1.858 kata).
+Daftar ini adalah **referensi teoretis**, bukan kurikulum. Untuk belajar, urutkan sendiri berdasarkan frekuensi (mis. JPDB) dan targetkan 90–95% (2.380–2.672 kata).
 
 ---
 

@@ -1,9 +1,5 @@
 [
   {
-    "kosakata": "哀咽",
-    "bacaan": "あいえつ"
-  },
-  {
     "kosakata": "藍瓶",
     "bacaan": "あいがめ"
   },
@@ -20,10 +16,6 @@
     "bacaan": "あいしゅうただよう"
   },
   {
-    "kosakata": "相済まない",
-    "bacaan": "あいすまない"
-  },
-  {
     "kosakata": "愛想を尽かす",
     "bacaan": "あいそをつかす"
   },
@@ -36,8 +28,8 @@
     "bacaan": "あいとうつうせき"
   },
   {
-    "kosakata": "相調う",
-    "bacaan": "あいととのう"
+    "kosakata": "相等しい",
+    "bacaan": "あいひとしい"
   },
   {
     "kosakata": "曖昧宿",
@@ -48,20 +40,24 @@
     "bacaan": "あう"
   },
   {
+    "kosakata": "敢えて",
+    "bacaan": "あえて"
+  },
+  {
     "kosakata": "敢えない",
     "bacaan": "あえない"
   },
   {
-    "kosakata": "敢え無く",
-    "bacaan": "あえなく"
-  },
-  {
-    "kosakata": "青写真",
-    "bacaan": "あおじゃしん"
+    "kosakata": "青い",
+    "bacaan": "あおい"
   },
   {
     "kosakata": "青森中央学院大学",
     "bacaan": "あおもりちゅうおうがくいんだいがく"
+  },
+  {
+    "kosakata": "紅い",
+    "bacaan": "あかい"
   },
   {
     "kosakata": "赤い糸で結ばれる",
@@ -72,12 +68,8 @@
     "bacaan": "あかがねこうぼ"
   },
   {
-    "kosakata": "紅組",
-    "bacaan": "あかぐみ"
-  },
-  {
-    "kosakata": "赤子の腕を捻る",
-    "bacaan": "あかごのうでをひねる"
+    "kosakata": "証",
+    "bacaan": "あかし"
   },
   {
     "kosakata": "赤信号皆で渡れば怖くない",
@@ -92,20 +84,28 @@
     "bacaan": "あからむ"
   },
   {
-    "kosakata": "明るむ",
-    "bacaan": "あかるむ"
+    "kosakata": "赤らめる",
+    "bacaan": "あからめる"
   },
   {
-    "kosakata": "吾が仏尊し",
-    "bacaan": "あがほとけとうとし"
+    "kosakata": "明るむ",
+    "bacaan": "あかるむ"
   },
   {
     "kosakata": "崇め立てる",
     "bacaan": "あがめたてる"
   },
   {
+    "kosakata": "秋晴",
+    "bacaan": "あきばれ"
+  },
+  {
     "kosakata": "空き店",
     "bacaan": "あきみせ"
+  },
+  {
+    "kosakata": "明き盲",
+    "bacaan": "あきめくら"
   },
   {
     "kosakata": "諦めの境地",
@@ -116,24 +116,24 @@
     "bacaan": "あぎと"
   },
   {
-    "kosakata": "悪影響を及ぼす",
-    "bacaan": "あくえいきょうをおよぼす"
+    "kosakata": "明く",
+    "bacaan": "あく"
+  },
+  {
+    "kosakata": "空く",
+    "bacaan": "あく"
+  },
+  {
+    "kosakata": "悪因縁",
+    "bacaan": "あくいんねん"
   },
   {
     "kosakata": "飽くことを知らない",
     "bacaan": "あくことをしらない"
   },
   {
-    "kosakata": "悪事を唆す",
-    "bacaan": "あくじをそそのかす"
-  },
-  {
     "kosakata": "悪に傾く",
     "bacaan": "あくにかたむく"
-  },
-  {
-    "kosakata": "悪の枢軸",
-    "bacaan": "あくのすうじく"
   },
   {
     "kosakata": "悪の道へ誘う",
@@ -144,14 +144,6 @@
     "bacaan": "あくはつとほ"
   },
   {
-    "kosakata": "悪魔の詩",
-    "bacaan": "あくまのうた"
-  },
-  {
-    "kosakata": "悪魔の宴",
-    "bacaan": "あくまのうたげ"
-  },
-  {
     "kosakata": "悪夢から覚める",
     "bacaan": "あくむからさめる"
   },
@@ -160,8 +152,8 @@
     "bacaan": "あくるあさ"
   },
   {
-    "kosakata": "悪を懲らす",
-    "bacaan": "あくをこらす"
+    "kosakata": "明け初める",
+    "bacaan": "あけそめる"
   },
   {
     "kosakata": "開け閉て",
@@ -172,20 +164,20 @@
     "bacaan": "あけにそまる"
   },
   {
-    "kosakata": "明け放れる",
-    "bacaan": "あけはなれる"
+    "kosakata": "明ける",
+    "bacaan": "あける"
   },
   {
     "kosakata": "論う",
     "bacaan": "あげつらう"
   },
   {
-    "kosakata": "憬れ",
+    "kosakata": "憧れ",
     "bacaan": "あこがれ"
   },
   {
-    "kosakata": "憧れの的",
-    "bacaan": "あこがれのまと"
+    "kosakata": "憬れ",
+    "bacaan": "あこがれ"
   },
   {
     "kosakata": "顎で使う",
@@ -200,8 +192,12 @@
     "bacaan": "あさこん"
   },
   {
-    "kosakata": "嘲り笑う",
-    "bacaan": "あざけりわらう"
+    "kosakata": "字",
+    "bacaan": "あざ"
+  },
+  {
+    "kosakata": "嘲り",
+    "bacaan": "あざけり"
   },
   {
     "kosakata": "字",
@@ -212,12 +208,16 @@
     "bacaan": "あざむきまどわす"
   },
   {
+    "kosakata": "鮮やか",
+    "bacaan": "あざやか"
+  },
+  {
     "kosakata": "足繁く通う",
     "bacaan": "あししげくかよう"
   },
   {
-    "kosakata": "足を速める",
-    "bacaan": "あしをはやめる"
+    "kosakata": "足萎え",
+    "bacaan": "あしなえ"
   },
   {
     "kosakata": "味わう",
@@ -240,24 +240,12 @@
     "bacaan": "あそばす"
   },
   {
-    "kosakata": "遊び戯れる",
-    "bacaan": "あそびたわむれる"
-  },
-  {
-    "kosakata": "遊び疲れる",
-    "bacaan": "あそびつかれる"
-  },
-  {
     "kosakata": "遊ぶ金欲しさ",
     "bacaan": "あそぶかねほしさ"
   },
   {
-    "kosakata": "価千金",
-    "bacaan": "あたいせんきん"
-  },
-  {
-    "kosakata": "与え給う",
-    "bacaan": "あたえたまう"
+    "kosakata": "価",
+    "bacaan": "あたい"
   },
   {
     "kosakata": "与え給う",
@@ -272,32 +260,40 @@
     "bacaan": "あたかも"
   },
   {
-    "kosakata": "暖かい歓迎",
-    "bacaan": "あたたかいかんげい"
+    "kosakata": "阿武船",
+    "bacaan": "あたけぶね"
   },
   {
     "kosakata": "温かい歓迎",
     "bacaan": "あたたかいかんげい"
   },
   {
+    "kosakata": "暖かさ",
+    "bacaan": "あたたかさ"
+  },
+  {
+    "kosakata": "温かみ",
+    "bacaan": "あたたかみ"
+  },
+  {
+    "kosakata": "暖まる",
+    "bacaan": "あたたまる"
+  },
+  {
+    "kosakata": "温まる",
+    "bacaan": "あたたまる"
+  },
+  {
     "kosakata": "暖める",
     "bacaan": "あたためる"
-  },
-  {
-    "kosakata": "頭が柔らかい",
-    "bacaan": "あたまがやわらかい"
-  },
-  {
-    "kosakata": "頭の回転の速い",
-    "bacaan": "あたまのかいてんのはやい"
   },
   {
     "kosakata": "頭を悩ます",
     "bacaan": "あたまをなやます"
   },
   {
-    "kosakata": "当たり障りの無い",
-    "bacaan": "あたりさわりのない"
+    "kosakata": "当たり障り",
+    "bacaan": "あたりさわり"
   },
   {
     "kosakata": "徒桜",
@@ -316,8 +312,8 @@
     "bacaan": "あつひめ"
   },
   {
-    "kosakata": "充て書き",
-    "bacaan": "あてがき"
+    "kosakata": "充てがう",
+    "bacaan": "あてがう"
   },
   {
     "kosakata": "当てが外れる",
@@ -328,20 +324,12 @@
     "bacaan": "あですがた"
   },
   {
-    "kosakata": "後が支える",
-    "bacaan": "あとがつかえる"
-  },
-  {
     "kosakata": "跡を濁す",
     "bacaan": "あとをにごす"
   },
   {
-    "kosakata": "侮り難い",
-    "bacaan": "あなどりがたい"
-  },
-  {
-    "kosakata": "穴の明くほど",
-    "bacaan": "あなのあくほど"
+    "kosakata": "侮り",
+    "bacaan": "あなどり"
   },
   {
     "kosakata": "兄嫁",
@@ -384,16 +372,16 @@
     "bacaan": "あまうけ"
   },
   {
+    "kosakata": "甘える",
+    "bacaan": "あまえる"
+  },
+  {
     "kosakata": "甘辛両党",
     "bacaan": "あまからりょうとう"
   },
   {
     "kosakata": "剰す",
     "bacaan": "あます"
-  },
-  {
-    "kosakata": "余す所無く",
-    "bacaan": "あますところなく"
   },
   {
     "kosakata": "尼寺",
@@ -416,20 +404,24 @@
     "bacaan": "あまやかす"
   },
   {
+    "kosakata": "余りに",
+    "bacaan": "あまりに"
+  },
+  {
     "kosakata": "網呑舟の魚を漏らす",
     "bacaan": "あみどんしゅうのうおをもらす"
   },
   {
-    "kosakata": "雨交じり",
-    "bacaan": "あめまじり"
+    "kosakata": "天の下",
+    "bacaan": "あめのした"
   },
   {
-    "kosakata": "天山",
-    "bacaan": "あめやま"
+    "kosakata": "危うい",
+    "bacaan": "あやうい"
   },
   {
-    "kosakata": "肖り者",
-    "bacaan": "あやかりもの"
+    "kosakata": "肖る",
+    "bacaan": "あやかる"
   },
   {
     "kosakata": "妖しい",
@@ -460,6 +452,14 @@
     "bacaan": "あやまりをみとめる"
   },
   {
+    "kosakata": "謝る",
+    "bacaan": "あやまる"
+  },
+  {
+    "kosakata": "文目",
+    "bacaan": "あやめ"
+  },
+  {
     "kosakata": "殺める",
     "bacaan": "あやめる"
   },
@@ -488,12 +488,20 @@
     "bacaan": "あらそいうったえる"
   },
   {
-    "kosakata": "新たな日常",
-    "bacaan": "あらたなにちじょう"
+    "kosakata": "新た",
+    "bacaan": "あらた"
+  },
+  {
+    "kosakata": "改まる",
+    "bacaan": "あらたまる"
   },
   {
     "kosakata": "新盆",
     "bacaan": "あらぼん"
+  },
+  {
+    "kosakata": "著す",
+    "bacaan": "あらわす"
   },
   {
     "kosakata": "顕す",
@@ -516,8 +524,12 @@
     "bacaan": "あれちをひらく"
   },
   {
-    "kosakata": "会わせる顔がない",
-    "bacaan": "あわせるかおがない"
+    "kosakata": "荒れる",
+    "bacaan": "あれる"
+  },
+  {
+    "kosakata": "会わせる",
+    "bacaan": "あわせる"
   },
   {
     "kosakata": "慌ただしい",
@@ -526,6 +538,18 @@
   {
     "kosakata": "慌てる乞食はもらいが少ない",
     "bacaan": "あわてるこじきはもらいがすくない"
+  },
+  {
+    "kosakata": "哀れ",
+    "bacaan": "あわれ"
+  },
+  {
+    "kosakata": "哀れむ",
+    "bacaan": "あわれむ"
+  },
+  {
+    "kosakata": "行脚",
+    "bacaan": "あんぎゃ"
   },
   {
     "kosakata": "暗殺を謀る",
@@ -544,8 +568,8 @@
     "bacaan": "いい"
   },
   {
-    "kosakata": "善い事",
-    "bacaan": "いいこと"
+    "kosakata": "言い止す",
+    "bacaan": "いいさす"
   },
   {
     "kosakata": "以夷征夷",
@@ -556,16 +580,12 @@
     "bacaan": "いいだくだく"
   },
   {
-    "kosakata": "言い繕う",
-    "bacaan": "いいつくろう"
-  },
-  {
     "kosakata": "いい齢して",
     "bacaan": "いいとしして"
   },
   {
-    "kosakata": "言い旧す",
-    "bacaan": "いいふるす"
+    "kosakata": "善い人",
+    "bacaan": "いいひと"
   },
   {
     "kosakata": "言い負かす",
@@ -576,16 +596,24 @@
     "bacaan": "いいめいわく"
   },
   {
-    "kosakata": "言うも愚か",
-    "bacaan": "いうもおろか"
+    "kosakata": "癒える",
+    "bacaan": "いえる"
   },
   {
     "kosakata": "活かす",
     "bacaan": "いかす"
   },
   {
+    "kosakata": "生かす",
+    "bacaan": "いかす"
+  },
+  {
     "kosakata": "雷雲",
     "bacaan": "いかずちぐも"
+  },
+  {
+    "kosakata": "行かずに済む",
+    "bacaan": "いかずにすむ"
   },
   {
     "kosakata": "厳つい",
@@ -596,20 +624,12 @@
     "bacaan": "いかで"
   },
   {
-    "kosakata": "怒りに震える",
-    "bacaan": "いかりにふるえる"
-  },
-  {
     "kosakata": "怒りを遷す",
     "bacaan": "いかりをうつす"
   },
   {
     "kosakata": "遺憾に堪えない",
     "bacaan": "いかんにたえない"
-  },
-  {
-    "kosakata": "忌垣",
-    "bacaan": "いがき"
   },
   {
     "kosakata": "嫁き遅れ",
@@ -624,10 +644,6 @@
     "bacaan": "いきがあがる"
   },
   {
-    "kosakata": "息が整う",
-    "bacaan": "いきがととのう"
-  },
-  {
     "kosakata": "息急き切る",
     "bacaan": "いきせききる"
   },
@@ -636,20 +652,12 @@
     "bacaan": "いきづくり"
   },
   {
-    "kosakata": "生きとし生ける物",
-    "bacaan": "いきとしいけるもの"
-  },
-  {
     "kosakata": "憤る",
     "bacaan": "いきどおる"
   },
   {
     "kosakata": "生き存える",
     "bacaan": "いきながらえる"
-  },
-  {
-    "kosakata": "息を整える",
-    "bacaan": "いきをととのえる"
   },
   {
     "kosakata": "寝汚い",
@@ -668,6 +676,10 @@
     "bacaan": "いくとせ"
   },
   {
+    "kosakata": "幾ら",
+    "bacaan": "いくら"
+  },
+  {
     "kosakata": "活け締め",
     "bacaan": "いけじめ"
   },
@@ -684,8 +696,12 @@
     "bacaan": "いける"
   },
   {
-    "kosakata": "憩いの場",
-    "bacaan": "いこいのば"
+    "kosakata": "生ける",
+    "bacaan": "いける"
+  },
+  {
+    "kosakata": "憩い",
+    "bacaan": "いこい"
   },
   {
     "kosakata": "功",
@@ -744,16 +760,16 @@
     "bacaan": "いずまいをただす"
   },
   {
-    "kosakata": "泉熱",
-    "bacaan": "いずみねつ"
+    "kosakata": "泉",
+    "bacaan": "いずみ"
   },
   {
     "kosakata": "竜蝦",
     "bacaan": "いせえび"
   },
   {
-    "kosakata": "忙しい振り",
-    "bacaan": "いそがしいふり"
+    "kosakata": "忙しい",
+    "bacaan": "いそがしい"
   },
   {
     "kosakata": "急ぎ便",
@@ -764,8 +780,8 @@
     "bacaan": "いたくもないはらをさぐられる"
   },
   {
-    "kosakata": "徒言",
-    "bacaan": "いたずらごと"
+    "kosakata": "徒者",
+    "bacaan": "いたずらもの"
   },
   {
     "kosakata": "痛ましい",
@@ -778,6 +794,18 @@
   {
     "kosakata": "悼み悲しむ",
     "bacaan": "いたみかなしむ"
+  },
+  {
+    "kosakata": "傷める",
+    "bacaan": "いためる"
+  },
+  {
+    "kosakata": "痛める",
+    "bacaan": "いためる"
+  },
+  {
+    "kosakata": "到る処",
+    "bacaan": "いたるところ"
   },
   {
     "kosakata": "至れり尽くせり",
@@ -794,10 +822,6 @@
   {
     "kosakata": "懐く",
     "bacaan": "いだく"
-  },
-  {
-    "kosakata": "一芸に秀でる",
-    "bacaan": "いちげいにひいでる"
   },
   {
     "kosakata": "一期一会",
@@ -828,8 +852,16 @@
     "bacaan": "いちりつげんたん"
   },
   {
+    "kosakata": "一把",
+    "bacaan": "いちわ"
+  },
+  {
     "kosakata": "一騎当千の兵",
     "bacaan": "いっきとうせんのつわもの"
+  },
+  {
+    "kosakata": "一斤",
+    "bacaan": "いっきん"
   },
   {
     "kosakata": "一句詠む",
@@ -838,6 +870,10 @@
   {
     "kosakata": "一犬虚に吠ゆれば万犬実を伝う",
     "bacaan": "いっけんきょにほゆればばんけんじつをつたう"
+  },
+  {
+    "kosakata": "一箇",
+    "bacaan": "いっこ"
   },
   {
     "kosakata": "一国一城の主",
@@ -852,6 +888,10 @@
     "bacaan": "いっさいがっさい"
   },
   {
+    "kosakata": "一昨晩",
+    "bacaan": "いっさくばん"
+  },
+  {
     "kosakata": "一升瓶",
     "bacaan": "いっしょうびん"
   },
@@ -864,12 +904,8 @@
     "bacaan": "いっすんのこういんかろんずべからず"
   },
   {
-    "kosakata": "一席設ける",
-    "bacaan": "いっせきもうける"
-  },
-  {
-    "kosakata": "一線を画する",
-    "bacaan": "いっせんをかくする"
+    "kosakata": "一籌を輸する",
+    "bacaan": "いっちゅうをしゅする"
   },
   {
     "kosakata": "一敗地に塗れる",
@@ -888,8 +924,8 @@
     "bacaan": "いつくしみ"
   },
   {
-    "kosakata": "五つ子",
-    "bacaan": "いつつご"
+    "kosakata": "五つ",
+    "bacaan": "いつつ"
   },
   {
     "kosakata": "乙未",
@@ -924,6 +960,10 @@
     "bacaan": "いとさん"
   },
   {
+    "kosakata": "営み",
+    "bacaan": "いとなみ"
+  },
+  {
     "kosakata": "営む",
     "bacaan": "いとなむ"
   },
@@ -944,16 +984,16 @@
     "bacaan": "いぬい"
   },
   {
-    "kosakata": "命に係わる",
-    "bacaan": "いのちにかかわる"
+    "kosakata": "命を縮める",
+    "bacaan": "いのちをちぢめる"
   },
   {
     "kosakata": "祈り求める",
     "bacaan": "いのりもとめる"
   },
   {
-    "kosakata": "尿",
-    "bacaan": "いばり"
+    "kosakata": "尿袋",
+    "bacaan": "いばりぶくろ"
   },
   {
     "kosakata": "違犯",
@@ -984,6 +1024,10 @@
     "bacaan": "いみきらう"
   },
   {
+    "kosakata": "忌む",
+    "bacaan": "いむ"
+  },
+  {
     "kosakata": "妹婿",
     "bacaan": "いもうとむこ"
   },
@@ -992,20 +1036,20 @@
     "bacaan": "いものずな"
   },
   {
-    "kosakata": "否応無しに",
-    "bacaan": "いやおうなしに"
+    "kosakata": "否々",
+    "bacaan": "いやいや"
   },
   {
     "kosakata": "嫌気が差す",
     "bacaan": "いやけがさす"
   },
   {
-    "kosakata": "癒し系",
-    "bacaan": "いやしけい"
+    "kosakata": "卑しい",
+    "bacaan": "いやしい"
   },
   {
-    "kosakata": "癒やし犬",
-    "bacaan": "いやしけん"
+    "kosakata": "癒し系",
+    "bacaan": "いやしけい"
   },
   {
     "kosakata": "卑しむ",
@@ -1014,10 +1058,6 @@
   {
     "kosakata": "卑しめる",
     "bacaan": "いやしめる"
-  },
-  {
-    "kosakata": "卑しん坊",
-    "bacaan": "いやしんぼう"
   },
   {
     "kosakata": "弥増す",
@@ -1056,10 +1096,6 @@
     "bacaan": "いれかえる"
   },
   {
-    "kosakata": "色鮮やか",
-    "bacaan": "いろあざやか"
-  },
-  {
     "kosakata": "彩り",
     "bacaan": "いろどり"
   },
@@ -1080,8 +1116,8 @@
     "bacaan": "いわんや"
   },
   {
-    "kosakata": "因果を含める",
-    "bacaan": "いんがをふくめる"
+    "kosakata": "陰茎",
+    "bacaan": "いんきょう"
   },
   {
     "kosakata": "陰茎癒着",
@@ -1124,6 +1160,14 @@
     "bacaan": "うえをむいてあるこう"
   },
   {
+    "kosakata": "受かる",
+    "bacaan": "うかる"
+  },
+  {
+    "kosakata": "浮かれる",
+    "bacaan": "うかれる"
+  },
+  {
     "kosakata": "浮き草稼業",
     "bacaan": "うきぐさかぎょう"
   },
@@ -1134,6 +1178,10 @@
   {
     "kosakata": "承り及ぶ",
     "bacaan": "うけたまわりおよぶ"
+  },
+  {
+    "kosakata": "享ける",
+    "bacaan": "うける"
   },
   {
     "kosakata": "右近の橘",
@@ -1164,12 +1212,12 @@
     "bacaan": "うすまる"
   },
   {
-    "kosakata": "羅",
-    "bacaan": "うすもの"
+    "kosakata": "薄める",
+    "bacaan": "うすめる"
   },
   {
-    "kosakata": "薄汚れる",
-    "bacaan": "うすよごれる"
+    "kosakata": "羅",
+    "bacaan": "うすもの"
   },
   {
     "kosakata": "薄らぐ",
@@ -1196,8 +1244,8 @@
     "bacaan": "うずまる"
   },
   {
-    "kosakata": "埋み門",
-    "bacaan": "うずみもん"
+    "kosakata": "埋み火",
+    "bacaan": "うずみび"
   },
   {
     "kosakata": "嘘から出た実",
@@ -1206,6 +1254,10 @@
   {
     "kosakata": "嘘吐きは泥棒の始まり",
     "bacaan": "うそつきはどろぼうのはじまり"
+  },
+  {
+    "kosakata": "詩",
+    "bacaan": "うた"
   },
   {
     "kosakata": "謡を謡う",
@@ -1220,32 +1272,16 @@
     "bacaan": "うたう"
   },
   {
+    "kosakata": "宴",
+    "bacaan": "うたげ"
+  },
+  {
     "kosakata": "転寝",
     "bacaan": "うたたね"
   },
   {
-    "kosakata": "打ち萎れる",
-    "bacaan": "うちしおれる"
-  },
-  {
-    "kosakata": "打ち連れる",
-    "bacaan": "うちつれる"
-  },
-  {
-    "kosakata": "内に省みて疚しからず",
-    "bacaan": "うちにかえりみてやましからず"
-  },
-  {
-    "kosakata": "打ち拉がれる",
-    "bacaan": "うちひしがれる"
-  },
-  {
     "kosakata": "打歩詰",
     "bacaan": "うちふづめ"
-  },
-  {
-    "kosakata": "討ち滅ぼす",
-    "bacaan": "うちほろぼす"
   },
   {
     "kosakata": "家を空ける",
@@ -1268,6 +1304,10 @@
     "bacaan": "うつしとる"
   },
   {
+    "kosakata": "移す",
+    "bacaan": "うつす"
+  },
+  {
     "kosakata": "現を抜かす",
     "bacaan": "うつつをぬかす"
   },
@@ -1286,6 +1326,10 @@
   {
     "kosakata": "打てば響く",
     "bacaan": "うてばひびく"
+  },
+  {
+    "kosakata": "腕が鈍る",
+    "bacaan": "うでがにぶる"
   },
   {
     "kosakata": "疎む",
@@ -1308,16 +1352,24 @@
     "bacaan": "うぶぎ"
   },
   {
+    "kosakata": "巧い",
+    "bacaan": "うまい"
+  },
+  {
+    "kosakata": "甘い",
+    "bacaan": "うまい"
+  },
+  {
     "kosakata": "旨い汁を吸う",
     "bacaan": "うまいしるをすう"
   },
   {
-    "kosakata": "甘い話",
-    "bacaan": "うまいはなし"
-  },
-  {
     "kosakata": "馬験",
     "bacaan": "うまじるし"
+  },
+  {
+    "kosakata": "生れ育つ",
+    "bacaan": "うまれそだつ"
   },
   {
     "kosakata": "生まれて初めて",
@@ -1328,8 +1380,8 @@
     "bacaan": "うまれる"
   },
   {
-    "kosakata": "生みの親より育ての親",
-    "bacaan": "うみのおやよりそだてのおや"
+    "kosakata": "倦み疲れる",
+    "bacaan": "うみつかれる"
   },
   {
     "kosakata": "産みの苦しみ",
@@ -1354,6 +1406,10 @@
   {
     "kosakata": "恭しい",
     "bacaan": "うやうやしい"
+  },
+  {
+    "kosakata": "敬う",
+    "bacaan": "うやまう"
   },
   {
     "kosakata": "紆余曲折を経て",
@@ -1392,6 +1448,14 @@
     "bacaan": "うるおい"
   },
   {
+    "kosakata": "潤す",
+    "bacaan": "うるおす"
+  },
+  {
+    "kosakata": "煩い",
+    "bacaan": "うるさい"
+  },
+  {
     "kosakata": "煩型",
     "bacaan": "うるさがた"
   },
@@ -1404,8 +1468,12 @@
     "bacaan": "うるめぶし"
   },
   {
-    "kosakata": "愁い顔",
-    "bacaan": "うれいがお"
+    "kosakata": "末",
+    "bacaan": "うれ"
+  },
+  {
+    "kosakata": "愁い",
+    "bacaan": "うれい"
   },
   {
     "kosakata": "憂い悩む",
@@ -1416,12 +1484,12 @@
     "bacaan": "うれえる"
   },
   {
-    "kosakata": "熟れ過ぎる",
-    "bacaan": "うれすぎる"
+    "kosakata": "売れる",
+    "bacaan": "うれる"
   },
   {
-    "kosakata": "末葉",
-    "bacaan": "うれは"
+    "kosakata": "熟れる",
+    "bacaan": "うれる"
   },
   {
     "kosakata": "胡乱",
@@ -1436,14 +1504,6 @@
     "bacaan": "うわる"
   },
   {
-    "kosakata": "運が開ける",
-    "bacaan": "うんがひらける"
-  },
-  {
-    "kosakata": "雲水行脚",
-    "bacaan": "うんすいあんぎゃ"
-  },
-  {
     "kosakata": "蘊蓄を傾ける",
     "bacaan": "うんちくをかたむける"
   },
@@ -1452,8 +1512,12 @@
     "bacaan": "えいがはいゆうくみあい"
   },
   {
-    "kosakata": "永久磁石発電機",
-    "bacaan": "えいきゅうじしゃくはつでんき"
+    "kosakata": "永久磁石",
+    "bacaan": "えいきゅうじしゃく"
+  },
+  {
+    "kosakata": "影響を及ぼす",
+    "bacaan": "えいきょうをおよぼす"
   },
   {
     "kosakata": "英姿颯爽",
@@ -1464,8 +1528,16 @@
     "bacaan": "えいじん"
   },
   {
+    "kosakata": "画く",
+    "bacaan": "えがく"
+  },
+  {
     "kosakata": "駅逓局",
     "bacaan": "えきていきょく"
+  },
+  {
+    "kosakata": "依怙",
+    "bacaan": "えこ"
   },
   {
     "kosakata": "回向文",
@@ -1476,12 +1548,8 @@
     "bacaan": "えご"
   },
   {
-    "kosakata": "得たり賢しと",
-    "bacaan": "えたりかしこしと"
-  },
-  {
-    "kosakata": "枝接ぎ",
-    "bacaan": "えだつぎ"
+    "kosakata": "謁する",
+    "bacaan": "えっする"
   },
   {
     "kosakata": "越虫貝",
@@ -1516,12 +1584,16 @@
     "bacaan": "えはつ"
   },
   {
+    "kosakata": "豪い",
+    "bacaan": "えらい"
+  },
+  {
     "kosakata": "偉い目に遭う",
     "bacaan": "えらいめにあう"
   },
   {
-    "kosakata": "豪物",
-    "bacaan": "えらぶつ"
+    "kosakata": "択ぶ",
+    "bacaan": "えらぶ"
   },
   {
     "kosakata": "領脚",
@@ -1532,8 +1604,8 @@
     "bacaan": "えりかざり"
   },
   {
-    "kosakata": "選り抜き",
-    "bacaan": "えりぬき"
+    "kosakata": "選り好み",
+    "bacaan": "えりごのみ"
   },
   {
     "kosakata": "絵を書く",
@@ -1552,12 +1624,12 @@
     "bacaan": "えんこうそくげつ"
   },
   {
-    "kosakata": "艶笑文学",
-    "bacaan": "えんしょうぶんがく"
+    "kosakata": "艶笑",
+    "bacaan": "えんしょう"
   },
   {
-    "kosakata": "宛転",
-    "bacaan": "えんてん"
+    "kosakata": "宛然",
+    "bacaan": "えんぜん"
   },
   {
     "kosakata": "遠藤照明",
@@ -1580,8 +1652,8 @@
     "bacaan": "おいしげる"
   },
   {
-    "kosakata": "奥羽大学",
-    "bacaan": "おううだいがく"
+    "kosakata": "奥羽",
+    "bacaan": "おうう"
   },
   {
     "kosakata": "黄金崇拝",
@@ -1608,12 +1680,16 @@
     "bacaan": "おうとうき"
   },
   {
+    "kosakata": "凹凸",
+    "bacaan": "おうとつ"
+  },
+  {
     "kosakata": "押柄",
     "bacaan": "おうへい"
   },
   {
-    "kosakata": "大字片山",
-    "bacaan": "おおあざかたやま"
+    "kosakata": "嗚咽",
+    "bacaan": "おえつ"
   },
   {
     "kosakata": "蔽い",
@@ -1640,12 +1716,8 @@
     "bacaan": "おおさかきょういくだいふぞくいけだしょうがっこう"
   },
   {
-    "kosakata": "仰せ言",
-    "bacaan": "おおせごと"
-  },
-  {
-    "kosakata": "大燥ぎ",
-    "bacaan": "おおはしゃぎ"
+    "kosakata": "仰せ",
+    "bacaan": "おおせ"
   },
   {
     "kosakata": "大旨",
@@ -1672,8 +1744,8 @@
     "bacaan": "おかべ"
   },
   {
-    "kosakata": "傍目八目",
-    "bacaan": "おかめはちもく"
+    "kosakata": "傍焼き",
+    "bacaan": "おかやき"
   },
   {
     "kosakata": "拝み倒す",
@@ -1720,6 +1792,10 @@
     "bacaan": "おこたりがち"
   },
   {
+    "kosakata": "怒らす",
+    "bacaan": "おこらす"
+  },
+  {
     "kosakata": "厳か",
     "bacaan": "おごそか"
   },
@@ -1728,8 +1804,8 @@
     "bacaan": "おごと"
   },
   {
-    "kosakata": "傲り高ぶる",
-    "bacaan": "おごりたかぶる"
+    "kosakata": "傲り",
+    "bacaan": "おごり"
   },
   {
     "kosakata": "抑え切れない",
@@ -1748,20 +1824,32 @@
     "bacaan": "おさまる"
   },
   {
+    "kosakata": "収まる",
+    "bacaan": "おさまる"
+  },
+  {
+    "kosakata": "修める",
+    "bacaan": "おさめる"
+  },
+  {
     "kosakata": "教え諭す",
     "bacaan": "おしえさとす"
+  },
+  {
+    "kosakata": "押し黙る",
+    "bacaan": "おしだまる"
   },
   {
     "kosakata": "圧し潰す",
     "bacaan": "おしつぶす"
   },
   {
-    "kosakata": "押し止める",
-    "bacaan": "おしとどめる"
-  },
-  {
     "kosakata": "推し測る",
     "bacaan": "おしはかる"
+  },
+  {
+    "kosakata": "押し広める",
+    "bacaan": "おしひろめる"
   },
   {
     "kosakata": "汚職撲滅",
@@ -1784,8 +1872,8 @@
     "bacaan": "おそいかかる"
   },
   {
-    "kosakata": "恐るるに足りない",
-    "bacaan": "おそるるにたりない"
+    "kosakata": "恐る",
+    "bacaan": "おそる"
   },
   {
     "kosakata": "虞",
@@ -1804,8 +1892,8 @@
     "bacaan": "おそれおののく"
   },
   {
-    "kosakata": "恐ろしい思いをする",
-    "bacaan": "おそろしいおもいをする"
+    "kosakata": "恐ろしい",
+    "bacaan": "おそろしい"
   },
   {
     "kosakata": "教わる",
@@ -1816,8 +1904,12 @@
     "bacaan": "おぞけをふるう"
   },
   {
-    "kosakata": "お高く留まる",
-    "bacaan": "おたかくとまる"
+    "kosakata": "穏やか",
+    "bacaan": "おだやか"
+  },
+  {
+    "kosakata": "落ち着ける",
+    "bacaan": "おちつける"
   },
   {
     "kosakata": "墜ちる",
@@ -1832,10 +1924,6 @@
     "bacaan": "おっしゃるとおり"
   },
   {
-    "kosakata": "越訴",
-    "bacaan": "おっそ"
-  },
-  {
     "kosakata": "夫選び",
     "bacaan": "おっとえらび"
   },
@@ -1844,12 +1932,20 @@
     "bacaan": "おつげのしゅくじつ"
   },
   {
+    "kosakata": "越年",
+    "bacaan": "おつねん"
+  },
+  {
     "kosakata": "弟君",
     "bacaan": "おとうとぎみ"
   },
   {
-    "kosakata": "男が廃る",
-    "bacaan": "おとこがすたる"
+    "kosakata": "陥れる",
+    "bacaan": "おとしいれる"
+  },
+  {
+    "kosakata": "訪れる",
+    "bacaan": "おとずれる"
   },
   {
     "kosakata": "音羽屋",
@@ -1868,12 +1964,20 @@
     "bacaan": "おどしつける"
   },
   {
+    "kosakata": "威す",
+    "bacaan": "おどす"
+  },
+  {
     "kosakata": "踊り明かす",
     "bacaan": "おどりあかす"
   },
   {
-    "kosakata": "驚き入る",
-    "bacaan": "おどろきいる"
+    "kosakata": "驚かす",
+    "bacaan": "おどろかす"
+  },
+  {
+    "kosakata": "驚き",
+    "bacaan": "おどろき"
   },
   {
     "kosakata": "同じ釜の飯を食う",
@@ -1904,8 +2008,16 @@
     "bacaan": "おはうちからす"
   },
   {
+    "kosakata": "お婆さん",
+    "bacaan": "おばあさん"
+  },
+  {
     "kosakata": "脅かす",
     "bacaan": "おびやかす"
+  },
+  {
+    "kosakata": "思しい",
+    "bacaan": "おぼしい"
   },
   {
     "kosakata": "溺れ損なう",
@@ -1920,12 +2032,8 @@
     "bacaan": "おもいこがれる"
   },
   {
-    "kosakata": "思い知らせる",
-    "bacaan": "おもいしらせる"
-  },
-  {
-    "kosakata": "御申様",
-    "bacaan": "おもうさま"
+    "kosakata": "思い留まる",
+    "bacaan": "おもいとどまる"
   },
   {
     "kosakata": "重々しい",
@@ -1944,8 +2052,16 @@
     "bacaan": "おもはゆい"
   },
   {
-    "kosakata": "趣深い",
-    "bacaan": "おもむきぶかい"
+    "kosakata": "趣",
+    "bacaan": "おもむき"
+  },
+  {
+    "kosakata": "趣き",
+    "bacaan": "おもむき"
+  },
+  {
+    "kosakata": "赴く",
+    "bacaan": "おもむく"
   },
   {
     "kosakata": "徐ろに",
@@ -1960,10 +2076,6 @@
     "bacaan": "おもんばかる"
   },
   {
-    "kosakata": "親を苦しめる",
-    "bacaan": "おやをくるしめる"
-  },
-  {
     "kosakata": "泳がせ捜査",
     "bacaan": "およがせそうさ"
   },
@@ -1972,16 +2084,8 @@
     "bacaan": "およそ"
   },
   {
-    "kosakata": "お慶び申し上げます",
-    "bacaan": "およろこびもうしあげます"
-  },
-  {
     "kosakata": "折り畳み印刷物",
     "bacaan": "おりたたみいんさつぶつ"
-  },
-  {
-    "kosakata": "織り交ざる",
-    "bacaan": "おりまざる"
   },
   {
     "kosakata": "織り混ざる",
@@ -1990,6 +2094,10 @@
   {
     "kosakata": "俺っ娘",
     "bacaan": "おれっこ"
+  },
+  {
+    "kosakata": "愚か",
+    "bacaan": "おろか"
   },
   {
     "kosakata": "卸し和え",
@@ -2016,6 +2124,10 @@
     "bacaan": "おんしんびょうどう"
   },
   {
+    "kosakata": "飲食",
+    "bacaan": "おんじき"
+  },
+  {
     "kosakata": "温泉の素",
     "bacaan": "おんせんのもと"
   },
@@ -2024,19 +2136,11 @@
     "bacaan": "おんぞうし"
   },
   {
-    "kosakata": "御岳教",
-    "bacaan": "おんたけきょう"
-  },
-  {
     "kosakata": "温暖湿潤気候",
     "bacaan": "おんだんしつじゅんきこう"
   },
   {
-    "kosakata": "恩寵を享ける",
-    "bacaan": "おんちょうをうける"
-  },
-  {
-    "kosakata": "雄鳥",
+    "kosakata": "雄鶏",
     "bacaan": "おんどり"
   },
   {
@@ -2060,14 +2164,6 @@
     "bacaan": "かいがてん"
   },
   {
-    "kosakata": "会議に加わる",
-    "bacaan": "かいぎにくわわる"
-  },
-  {
-    "kosakata": "楷行草",
-    "bacaan": "かいぎょうそう"
-  },
-  {
     "kosakata": "怪傑",
     "bacaan": "かいけつ"
   },
@@ -2076,20 +2172,16 @@
     "bacaan": "かいこだな"
   },
   {
-    "kosakata": "買い支え",
-    "bacaan": "かいささえ"
+    "kosakata": "開墾",
+    "bacaan": "かいこん"
   },
   {
-    "kosakata": "改札掛",
-    "bacaan": "かいさつがかり"
+    "kosakata": "介錯",
+    "bacaan": "かいしゃく"
   },
   {
-    "kosakata": "介錯人",
-    "bacaan": "かいしゃくじん"
-  },
-  {
-    "kosakata": "会社を辞める",
-    "bacaan": "かいしゃをやめる"
+    "kosakata": "楷書",
+    "bacaan": "かいしょ"
   },
   {
     "kosakata": "会心の笑みを浮かべる",
@@ -2120,16 +2212,16 @@
     "bacaan": "かいとうらんまをたつ"
   },
   {
+    "kosakata": "街道",
+    "bacaan": "かいどう"
+  },
+  {
     "kosakata": "飼い慣らす",
     "bacaan": "かいならす"
   },
   {
     "kosakata": "壊変毎秒",
     "bacaan": "かいへんまいびょう"
-  },
-  {
-    "kosakata": "快方に赴く",
-    "bacaan": "かいほうにおもむく"
   },
   {
     "kosakata": "帰す",
@@ -2144,20 +2236,24 @@
     "bacaan": "かえって"
   },
   {
-    "kosakata": "顔が綻ぶ",
-    "bacaan": "かおがほころぶ"
+    "kosakata": "省みる",
+    "bacaan": "かえりみる"
   },
   {
-    "kosakata": "香り米",
-    "bacaan": "かおりまい"
+    "kosakata": "顔写真",
+    "bacaan": "かおじゃしん"
+  },
+  {
+    "kosakata": "薫り",
+    "bacaan": "かおり"
+  },
+  {
+    "kosakata": "香り",
+    "bacaan": "かおり"
   },
   {
     "kosakata": "香る",
     "bacaan": "かおる"
-  },
-  {
-    "kosakata": "顔を赤らめる",
-    "bacaan": "かおをあからめる"
   },
   {
     "kosakata": "抱え主",
@@ -2172,8 +2268,12 @@
     "bacaan": "かかわらず"
   },
   {
-    "kosakata": "書き著す",
-    "bacaan": "かきあらわす"
+    "kosakata": "係わる",
+    "bacaan": "かかわる"
+  },
+  {
+    "kosakata": "屈める",
+    "bacaan": "かがめる"
   },
   {
     "kosakata": "描き起し",
@@ -2182,10 +2282,6 @@
   {
     "kosakata": "書き記す",
     "bacaan": "かきしるす"
-  },
-  {
-    "kosakata": "可及的速やかに",
-    "bacaan": "かきゅうてきすみやかに"
   },
   {
     "kosakata": "嗅ぎ当てる",
@@ -2204,6 +2300,10 @@
     "bacaan": "かくさつ"
   },
   {
+    "kosakata": "画する",
+    "bacaan": "かくする"
+  },
+  {
     "kosakata": "覚醒剤取締法",
     "bacaan": "かくせいざいとりしまりほう"
   },
@@ -2212,12 +2312,12 @@
     "bacaan": "かくれひそむ"
   },
   {
-    "kosakata": "賭金",
-    "bacaan": "かけきん"
-  },
-  {
     "kosakata": "賭け碁",
     "bacaan": "かけご"
+  },
+  {
+    "kosakata": "賭事",
+    "bacaan": "かけごと"
   },
   {
     "kosakata": "桟",
@@ -2280,24 +2380,12 @@
     "bacaan": "かすか"
   },
   {
-    "kosakata": "械",
-    "bacaan": "かせ"
-  },
-  {
     "kosakata": "河川氾濫",
     "bacaan": "かせんはんらん"
   },
   {
     "kosakata": "寡勢",
     "bacaan": "かぜい"
-  },
-  {
-    "kosakata": "風薫る",
-    "bacaan": "かぜかおる"
-  },
-  {
-    "kosakata": "風の伝",
-    "bacaan": "かぜのつて"
   },
   {
     "kosakata": "数え違える",
@@ -2308,8 +2396,12 @@
     "bacaan": "かた"
   },
   {
-    "kosakata": "固いことは言いっこなし",
-    "bacaan": "かたいことはいいっこなし"
+    "kosakata": "固い",
+    "bacaan": "かたい"
+  },
+  {
+    "kosakata": "硬い",
+    "bacaan": "かたい"
   },
   {
     "kosakata": "形崩れ",
@@ -2336,16 +2428,16 @@
     "bacaan": "かたなおれやつきて"
   },
   {
-    "kosakata": "硬表紙",
-    "bacaan": "かたびょうし"
-  },
-  {
     "kosakata": "傾く",
     "bacaan": "かたぶく"
   },
   {
     "kosakata": "片辺",
     "bacaan": "かたほとり"
+  },
+  {
+    "kosakata": "固まり",
+    "bacaan": "かたまり"
   },
   {
     "kosakata": "塊魂",
@@ -2420,52 +2512,40 @@
     "bacaan": "かどばんおおぜき"
   },
   {
+    "kosakata": "哀しい",
+    "bacaan": "かなしい"
+  },
+  {
+    "kosakata": "悲しい",
+    "bacaan": "かなしい"
+  },
+  {
     "kosakata": "愛しい",
     "bacaan": "かなしい"
   },
   {
-    "kosakata": "哀し気",
-    "bacaan": "かなしげ"
+    "kosakata": "金縛り",
+    "bacaan": "かなしばり"
   },
   {
-    "kosakata": "奏で合う",
-    "bacaan": "かなであう"
+    "kosakata": "奏でる",
+    "bacaan": "かなでる"
   },
   {
     "kosakata": "敵わない",
     "bacaan": "かなわない"
   },
   {
-    "kosakata": "金が金を生む",
-    "bacaan": "かねがかねをうむ"
-  },
-  {
     "kosakata": "金を貸せば友を失う",
     "bacaan": "かねをかせばともをうしなう"
-  },
-  {
-    "kosakata": "金を貯める",
-    "bacaan": "かねをためる"
-  },
-  {
-    "kosakata": "金を費やす",
-    "bacaan": "かねをついやす"
-  },
-  {
-    "kosakata": "金を寝かす",
-    "bacaan": "かねをねかす"
-  },
-  {
-    "kosakata": "可能性を秘める",
-    "bacaan": "かのうせいをひめる"
   },
   {
     "kosakata": "彼の岸",
     "bacaan": "かのきし"
   },
   {
-    "kosakata": "辛未",
-    "bacaan": "かのとひつじ"
+    "kosakata": "辛",
+    "bacaan": "かのと"
   },
   {
     "kosakata": "佳賓",
@@ -2508,28 +2588,12 @@
     "bacaan": "かみなりよけ"
   },
   {
-    "kosakata": "神の思し召し",
-    "bacaan": "かみのおぼしめし"
-  },
-  {
-    "kosakata": "神の僕",
-    "bacaan": "かみのしもべ"
-  },
-  {
-    "kosakata": "神を敬う",
-    "bacaan": "かみをうやまう"
-  },
-  {
-    "kosakata": "神を尊ぶ",
-    "bacaan": "かみをたっとぶ"
-  },
-  {
-    "kosakata": "髪を垂らす",
-    "bacaan": "かみをたらす"
-  },
-  {
     "kosakata": "亀の年を鶴が羨む",
     "bacaan": "かめのとしをつるがうらやむ"
+  },
+  {
+    "kosakata": "醸し出す",
+    "bacaan": "かもしだす"
   },
   {
     "kosakata": "渦雷",
@@ -2544,24 +2608,12 @@
     "bacaan": "からくれない"
   },
   {
-    "kosakata": "体が空く",
-    "bacaan": "からだがあく"
-  },
-  {
-    "kosakata": "体が空く",
-    "bacaan": "からだがすく"
-  },
-  {
     "kosakata": "体が休まる",
     "bacaan": "からだがやすまる"
   },
   {
     "kosakata": "空炊き",
     "bacaan": "からだき"
-  },
-  {
-    "kosakata": "体を反らす",
-    "bacaan": "からだをそらす"
   },
   {
     "kosakata": "奈",
@@ -2624,10 +2676,6 @@
     "bacaan": "かわげた"
   },
   {
-    "kosakata": "川施餓鬼",
-    "bacaan": "かわせがき"
-  },
-  {
     "kosakata": "河の源",
     "bacaan": "かわのみなもと"
   },
@@ -2650,10 +2698,6 @@
   {
     "kosakata": "稽える",
     "bacaan": "かんがえる"
-  },
-  {
-    "kosakata": "勘が鈍る",
-    "bacaan": "かんがにぶる"
   },
   {
     "kosakata": "鑑みる",
@@ -2696,10 +2740,6 @@
     "bacaan": "かんしゅうにしたがう"
   },
   {
-    "kosakata": "関心が高まる",
-    "bacaan": "かんしんがたかまる"
-  },
-  {
     "kosakata": "閑寂枯淡",
     "bacaan": "かんじゃくこたん"
   },
@@ -2716,10 +2756,6 @@
     "bacaan": "かんじょうをすます"
   },
   {
-    "kosakata": "勘定を済ませる",
-    "bacaan": "かんじょうをすませる"
-  },
-  {
     "kosakata": "肝腎要",
     "bacaan": "かんじんかなめ"
   },
@@ -2730,10 +2766,6 @@
   {
     "kosakata": "乾燥腐朽",
     "bacaan": "かんそうふきゅう"
-  },
-  {
-    "kosakata": "肝胆相照らす",
-    "bacaan": "かんたんあいてらす"
   },
   {
     "kosakata": "完遂",
@@ -2776,10 +2808,6 @@
     "bacaan": "かんをおおいてことさだまる"
   },
   {
-    "kosakata": "外国人排斥",
-    "bacaan": "がいこくじんはいせき"
-  },
-  {
     "kosakata": "刈除",
     "bacaan": "がいじょ"
   },
@@ -2788,8 +2816,8 @@
     "bacaan": "がいたん"
   },
   {
-    "kosakata": "該博な知識",
-    "bacaan": "がいはくなちしき"
+    "kosakata": "該博",
+    "bacaan": "がいはく"
   },
   {
     "kosakata": "岳麓",
@@ -2816,12 +2844,12 @@
     "bacaan": "がよう"
   },
   {
-    "kosakata": "我利我利亡者",
-    "bacaan": "がりがりもうじゃ"
-  },
-  {
     "kosakata": "画竜点睛を欠く",
     "bacaan": "がりょうてんせいをかく"
+  },
+  {
+    "kosakata": "画廊",
+    "bacaan": "がろう"
   },
   {
     "kosakata": "頑火輝石",
@@ -2836,16 +2864,12 @@
     "bacaan": "がんしょくをうかがう"
   },
   {
-    "kosakata": "玩弄品",
-    "bacaan": "がんろうひん"
+    "kosakata": "玩弄",
+    "bacaan": "がんろう"
   },
   {
     "kosakata": "消え失せる",
     "bacaan": "きえうせる"
-  },
-  {
-    "kosakata": "帰依者",
-    "bacaan": "きえしゃ"
   },
   {
     "kosakata": "機械を扱う",
@@ -2868,12 +2892,8 @@
     "bacaan": "きがい"
   },
   {
-    "kosakata": "気が漫ろ",
-    "bacaan": "きがそぞろ"
-  },
-  {
-    "kosakata": "聴き方",
-    "bacaan": "ききかた"
+    "kosakata": "聴き込む",
+    "bacaan": "ききこむ"
   },
   {
     "kosakata": "聞き質す",
@@ -2892,14 +2912,6 @@
     "bacaan": "きくがさね"
   },
   {
-    "kosakata": "危険極まり無い",
-    "bacaan": "きけんきわまりない"
-  },
-  {
-    "kosakata": "危険極まる",
-    "bacaan": "きけんきわまる"
-  },
-  {
     "kosakata": "機嫌を損ねる",
     "bacaan": "きげんをそこねる"
   },
@@ -2914,6 +2926,10 @@
   {
     "kosakata": "聞こえる",
     "bacaan": "きこえる"
+  },
+  {
+    "kosakata": "枳殻",
+    "bacaan": "きこく"
   },
   {
     "kosakata": "着籠む",
@@ -2940,12 +2956,12 @@
     "bacaan": "きざみはば"
   },
   {
-    "kosakata": "期日を早める",
-    "bacaan": "きじつをはやめる"
-  },
-  {
     "kosakata": "傷痕",
     "bacaan": "きずあと"
+  },
+  {
+    "kosakata": "既済",
+    "bacaan": "きせい"
   },
   {
     "kosakata": "祈誓",
@@ -2956,12 +2972,8 @@
     "bacaan": "きせいをそぐ"
   },
   {
-    "kosakata": "季節の便り",
-    "bacaan": "きせつのたより"
-  },
-  {
-    "kosakata": "競い合う",
-    "bacaan": "きそいあう"
+    "kosakata": "競う",
+    "bacaan": "きそう"
   },
   {
     "kosakata": "寄贈者",
@@ -2976,6 +2988,14 @@
     "bacaan": "きたのまんどころ"
   },
   {
+    "kosakata": "乞丐",
+    "bacaan": "きっかい"
+  },
+  {
+    "kosakata": "拮据",
+    "bacaan": "きっきょ"
+  },
+  {
     "kosakata": "吃驚仰天",
     "bacaan": "きっきょうぎょうてん"
   },
@@ -2984,12 +3004,8 @@
     "bacaan": "きっくつした"
   },
   {
-    "kosakata": "乞巧奠",
-    "bacaan": "きっこうでん"
-  },
-  {
-    "kosakata": "吉祥天",
-    "bacaan": "きっしょうてん"
+    "kosakata": "吉祥",
+    "bacaan": "きっしょう"
   },
   {
     "kosakata": "吉林省",
@@ -3008,8 +3024,12 @@
     "bacaan": "きのえさる"
   },
   {
-    "kosakata": "乙未",
-    "bacaan": "きのとひつじ"
+    "kosakata": "乙",
+    "bacaan": "きのと"
+  },
+  {
+    "kosakata": "揮発性記憶装置",
+    "bacaan": "きはつせいきおくそうち"
   },
   {
     "kosakata": "樹蜂",
@@ -3026,10 +3046,6 @@
   {
     "kosakata": "虫部",
     "bacaan": "きぶ"
-  },
-  {
-    "kosakata": "着膨れる",
-    "bacaan": "きぶくれる"
   },
   {
     "kosakata": "木槽天秤搾り",
@@ -3064,6 +3080,10 @@
     "bacaan": "きまりわるい"
   },
   {
+    "kosakata": "決まる",
+    "bacaan": "きまる"
+  },
+  {
     "kosakata": "帰命頂礼",
     "bacaan": "きみょうちょうらい"
   },
@@ -3072,16 +3092,8 @@
     "bacaan": "きみら"
   },
   {
-    "kosakata": "気難し屋",
-    "bacaan": "きむずかしや"
-  },
-  {
     "kosakata": "決め手に欠ける",
     "bacaan": "きめてにかける"
-  },
-  {
-    "kosakata": "鬼面人を威す",
-    "bacaan": "きめんひとをおどす"
   },
   {
     "kosakata": "胆試し",
@@ -3100,24 +3112,24 @@
     "bacaan": "きゅうこうをあたためる"
   },
   {
-    "kosakata": "急性呼吸窮迫症候群",
-    "bacaan": "きゅうせいこきゅうきゅうはくしょうこうぐん"
-  },
-  {
     "kosakata": "九層の台は累土より起こる",
     "bacaan": "きゅうそうのうてなはるいどよりおこる"
+  },
+  {
+    "kosakata": "孝",
+    "bacaan": "きょう"
   },
   {
     "kosakata": "脅嚇",
     "bacaan": "きょうかく"
   },
   {
-    "kosakata": "峡谷風",
-    "bacaan": "きょうこくふう"
+    "kosakata": "峡谷",
+    "bacaan": "きょうこく"
   },
   {
-    "kosakata": "軽骨",
-    "bacaan": "きょうこつ"
+    "kosakata": "校合",
+    "bacaan": "きょうごう"
   },
   {
     "kosakata": "教唆扇動",
@@ -3128,8 +3140,8 @@
     "bacaan": "きょうさんこっかぐん"
   },
   {
-    "kosakata": "校書殿",
-    "bacaan": "きょうしょでん"
+    "kosakata": "興冷め",
+    "bacaan": "きょうざめ"
   },
   {
     "kosakata": "挟侍",
@@ -3164,16 +3176,8 @@
     "bacaan": "きょうわらべ"
   },
   {
-    "kosakata": "興を冷ます",
-    "bacaan": "きょうをさます"
-  },
-  {
     "kosakata": "裾礁",
     "bacaan": "きょしょう"
-  },
-  {
-    "kosakata": "据銃",
-    "bacaan": "きょじゅう"
   },
   {
     "kosakata": "巨星墜つ",
@@ -3186,6 +3190,10 @@
   {
     "kosakata": "毀誉褒貶",
     "bacaan": "きよほうへん"
+  },
+  {
+    "kosakata": "清まる",
+    "bacaan": "きよまる"
   },
   {
     "kosakata": "清水の舞台から飛び下りる",
@@ -3208,12 +3216,24 @@
     "bacaan": "きりほどく"
   },
   {
+    "kosakata": "極まりない",
+    "bacaan": "きわまりない"
+  },
+  {
     "kosakata": "窮まりない",
     "bacaan": "きわまりない"
   },
   {
-    "kosakata": "窮み無き",
-    "bacaan": "きわみなき"
+    "kosakata": "極まる",
+    "bacaan": "きわまる"
+  },
+  {
+    "kosakata": "窮まる",
+    "bacaan": "きわまる"
+  },
+  {
+    "kosakata": "窮み",
+    "bacaan": "きわみ"
   },
   {
     "kosakata": "究め尽くす",
@@ -3228,16 +3248,12 @@
     "bacaan": "きをきる"
   },
   {
-    "kosakata": "気を腐らす",
-    "bacaan": "きをくさらす"
-  },
-  {
     "kosakata": "近畿圏",
     "bacaan": "きんきけん"
   },
   {
-    "kosakata": "僅少差",
-    "bacaan": "きんしょうさ"
+    "kosakata": "僅差",
+    "bacaan": "きんさ"
   },
   {
     "kosakata": "謹慎処分",
@@ -3254,10 +3270,6 @@
   {
     "kosakata": "金銭尽く",
     "bacaan": "きんせんずく"
-  },
-  {
-    "kosakata": "金玉が縮み上がる",
-    "bacaan": "きんたまがちぢみあがる"
   },
   {
     "kosakata": "金瓶梅",
@@ -3312,14 +3324,6 @@
     "bacaan": "くいあらためる"
   },
   {
-    "kosakata": "食い逸れ",
-    "bacaan": "くいはぐれ"
-  },
-  {
-    "kosakata": "供花",
-    "bacaan": "くうげ"
-  },
-  {
     "kosakata": "久遠",
     "bacaan": "くおん"
   },
@@ -3352,16 +3356,24 @@
     "bacaan": "くさむす"
   },
   {
+    "kosakata": "腐らす",
+    "bacaan": "くさらす"
+  },
+  {
     "kosakata": "鎖編み",
     "bacaan": "くさりあみ"
+  },
+  {
+    "kosakata": "腐れ縁",
+    "bacaan": "くされえん"
   },
   {
     "kosakata": "腐れる",
     "bacaan": "くされる"
   },
   {
-    "kosakata": "奇し御魂",
-    "bacaan": "くしみたま"
+    "kosakata": "奇しくも",
+    "bacaan": "くしくも"
   },
   {
     "kosakata": "奇御魂",
@@ -3400,20 +3412,16 @@
     "bacaan": "くだす"
   },
   {
-    "kosakata": "件の如し",
-    "bacaan": "くだんのごとし"
+    "kosakata": "管を巻く",
+    "bacaan": "くだをまく"
   },
   {
-    "kosakata": "口が巧い",
-    "bacaan": "くちがうまい"
+    "kosakata": "件",
+    "bacaan": "くだん"
   },
   {
     "kosakata": "口では大坂の城も建つ",
     "bacaan": "くちではおおさかのしろもたつ"
-  },
-  {
-    "kosakata": "口に上せる",
-    "bacaan": "くちにのぼせる"
   },
   {
     "kosakata": "靴新しと雖も首に加えず",
@@ -3440,24 +3448,24 @@
     "bacaan": "くに"
   },
   {
-    "kosakata": "国敗れて山河あり",
-    "bacaan": "くにやぶれてさんがあり"
+    "kosakata": "国の守",
+    "bacaan": "くにのかみ"
   },
   {
     "kosakata": "配り納豆",
     "bacaan": "くばりなっとう"
   },
   {
-    "kosakata": "首が絞まる",
-    "bacaan": "くびがしまる"
+    "kosakata": "首を傾げる",
+    "bacaan": "くびをかしげる"
   },
   {
-    "kosakata": "九品蓮台",
-    "bacaan": "くほんれんだい"
+    "kosakata": "九品",
+    "bacaan": "くほん"
   },
   {
-    "kosakata": "凹地",
-    "bacaan": "くぼち"
+    "kosakata": "凹まる",
+    "bacaan": "くぼまる"
   },
   {
     "kosakata": "曲",
@@ -3468,8 +3476,8 @@
     "bacaan": "くみかわす"
   },
   {
-    "kosakata": "与し易い",
-    "bacaan": "くみしやすい"
+    "kosakata": "与する",
+    "bacaan": "くみする"
   },
   {
     "kosakata": "苦味丁幾",
@@ -3492,6 +3500,10 @@
     "bacaan": "くようづか"
   },
   {
+    "kosakata": "闇い",
+    "bacaan": "くらい"
+  },
+  {
     "kosakata": "暗い過去",
     "bacaan": "くらいかこ"
   },
@@ -3508,12 +3520,16 @@
     "bacaan": "くらむ"
   },
   {
-    "kosakata": "闇者",
-    "bacaan": "くらもの"
-  },
-  {
     "kosakata": "繰り延べる",
     "bacaan": "くりのべる"
+  },
+  {
+    "kosakata": "狂おしい",
+    "bacaan": "くるおしい"
+  },
+  {
+    "kosakata": "苦しめる",
+    "bacaan": "くるしめる"
   },
   {
     "kosakata": "来る者拒まず",
@@ -3560,11 +3576,15 @@
     "bacaan": "くわばた"
   },
   {
+    "kosakata": "加わる",
+    "bacaan": "くわわる"
+  },
+  {
     "kosakata": "薫煙",
     "bacaan": "くんえん"
   },
   {
-    "kosakata": "君子の交わりは淡きこと水の如し",
+    "kosakata": "君子の交わりは淡きこと水のごとし",
     "bacaan": "くんしのまじわりはあわきことみずのごとし"
   },
   {
@@ -3580,16 +3600,16 @@
     "bacaan": "ぐけいけんてい"
   },
   {
-    "kosakata": "愚公山を移す",
-    "bacaan": "ぐこうやまをうつす"
-  },
-  {
-    "kosakata": "供奉僧",
-    "bacaan": "ぐぶそう"
+    "kosakata": "供奉",
+    "bacaan": "ぐぶ"
   },
   {
     "kosakata": "軍備撤廃",
     "bacaan": "ぐんびてっぱい"
+  },
+  {
+    "kosakata": "異",
+    "bacaan": "け"
   },
   {
     "kosakata": "形影相伴う",
@@ -3612,10 +3632,6 @@
     "bacaan": "けいけんわんしょうこうぐん"
   },
   {
-    "kosakata": "経験を生かす",
-    "bacaan": "けいけんをいかす"
-  },
-  {
     "kosakata": "蛍光染料",
     "bacaan": "けいこうせんりょう"
   },
@@ -3624,8 +3640,8 @@
     "bacaan": "けいこく"
   },
   {
-    "kosakata": "経済財政諮問会議",
-    "bacaan": "けいざいざいせいしもんかいぎ"
+    "kosakata": "契情",
+    "bacaan": "けいせい"
   },
   {
     "kosakata": "携帯糧秣",
@@ -3644,10 +3660,6 @@
     "bacaan": "けいついねんざ"
   },
   {
-    "kosakata": "経常",
-    "bacaan": "けいつね"
-  },
-  {
     "kosakata": "継電鍵",
     "bacaan": "けいでんけん"
   },
@@ -3664,12 +3676,16 @@
     "bacaan": "けいりゅうづり"
   },
   {
-    "kosakata": "競輪場",
-    "bacaan": "けいりんじょう"
+    "kosakata": "競輪",
+    "bacaan": "けいりん"
   },
   {
-    "kosakata": "希有元素",
-    "bacaan": "けうげんそ"
+    "kosakata": "希有",
+    "bacaan": "けう"
+  },
+  {
+    "kosakata": "汚らわしい",
+    "bacaan": "けがらわしい"
   },
   {
     "kosakata": "汚れる",
@@ -3704,10 +3720,6 @@
     "bacaan": "けっしょうこうし"
   },
   {
-    "kosakata": "決心が揺らぐ",
-    "bacaan": "けっしんがゆらぐ"
-  },
-  {
     "kosakata": "欠を補う",
     "bacaan": "けつをおぎなう"
   },
@@ -3720,20 +3732,20 @@
     "bacaan": "けみする"
   },
   {
+    "kosakata": "煙",
+    "bacaan": "けむ"
+  },
+  {
     "kosakata": "煙い",
     "bacaan": "けむい"
   },
   {
-    "kosakata": "煙に巻く",
-    "bacaan": "けむにまく"
+    "kosakata": "獣",
+    "bacaan": "けもの"
   },
   {
-    "kosakata": "獣の数字",
-    "bacaan": "けもののすうじ"
-  },
-  {
-    "kosakata": "険しい表情",
-    "bacaan": "けわしいひょうじょう"
+    "kosakata": "険しい",
+    "bacaan": "けわしい"
   },
   {
     "kosakata": "堅塞固塁",
@@ -3742,10 +3754,6 @@
   {
     "kosakata": "検索避け",
     "bacaan": "けんさくよけ"
-  },
-  {
-    "kosakata": "見識を広める",
-    "bacaan": "けんしきをひろめる"
   },
   {
     "kosakata": "絹糸紡績",
@@ -3768,10 +3776,6 @@
     "bacaan": "けんすいかこう"
   },
   {
-    "kosakata": "健全なる精神は健全なる身体に宿る",
-    "bacaan": "けんぜんなるせいしんはけんぜんなるしんたいにやどる"
-  },
-  {
     "kosakata": "建築確認申請",
     "bacaan": "けんちくかくにんしんせい"
   },
@@ -3788,8 +3792,8 @@
     "bacaan": "けんぽなし"
   },
   {
-    "kosakata": "遣明使",
-    "bacaan": "けんみんし"
+    "kosakata": "遣明船",
+    "bacaan": "けんみんせん"
   },
   {
     "kosakata": "乾隆",
@@ -3804,16 +3808,16 @@
     "bacaan": "げあんご"
   },
   {
-    "kosakata": "鯨飲馬食",
-    "bacaan": "げいいんばしょく"
-  },
-  {
-    "kosakata": "激混み",
-    "bacaan": "げきこみ"
+    "kosakata": "鯨飲",
+    "bacaan": "げいいん"
   },
   {
     "kosakata": "劇壇",
     "bacaan": "げきだん"
+  },
+  {
+    "kosakata": "撃墜",
+    "bacaan": "げきつい"
   },
   {
     "kosakata": "逆鱗に触れる",
@@ -3824,12 +3828,12 @@
     "bacaan": "げこのたてたくらはない"
   },
   {
-    "kosakata": "戯作三昧",
-    "bacaan": "げさくざんまい"
+    "kosakata": "戯作者",
+    "bacaan": "げさくしゃ"
   },
   {
-    "kosakata": "解脱者",
-    "bacaan": "げだつしゃ"
+    "kosakata": "解脱",
+    "bacaan": "げだつ"
   },
   {
     "kosakata": "外典",
@@ -3840,24 +3844,16 @@
     "bacaan": "げんきゅう"
   },
   {
-    "kosakata": "拳固",
-    "bacaan": "げんこ"
-  },
-  {
-    "kosakata": "減耗",
-    "bacaan": "げんこう"
+    "kosakata": "拳骨",
+    "bacaan": "げんこつ"
   },
   {
     "kosakata": "元帥府",
     "bacaan": "げんすいふ"
   },
   {
-    "kosakata": "現世利益",
-    "bacaan": "げんせりやく"
-  },
-  {
-    "kosakata": "言質を取る",
-    "bacaan": "げんちをとる"
+    "kosakata": "言質",
+    "bacaan": "げんち"
   },
   {
     "kosakata": "限度を超える",
@@ -3870,6 +3866,10 @@
   {
     "kosakata": "原発性胆汁性肝硬変",
     "bacaan": "げんぱつせいたんじゅうせいかんこうへん"
+  },
+  {
+    "kosakata": "恋しい",
+    "bacaan": "こいしい"
   },
   {
     "kosakata": "恋慰め",
@@ -3938,6 +3938,10 @@
   {
     "kosakata": "港津",
     "bacaan": "こうしん"
+  },
+  {
+    "kosakata": "坑儒",
+    "bacaan": "こうじゅ"
   },
   {
     "kosakata": "幸甚",
@@ -4016,10 +4020,6 @@
     "bacaan": "こうりょう"
   },
   {
-    "kosakata": "小煩い",
-    "bacaan": "こうるさい"
-  },
-  {
     "kosakata": "岬湾",
     "bacaan": "こうわん"
   },
@@ -4032,12 +4032,12 @@
     "bacaan": "こえふとる"
   },
   {
-    "kosakata": "声を励ます",
-    "bacaan": "こえをはげます"
-  },
-  {
     "kosakata": "声を潜める",
     "bacaan": "こえをひそめる"
+  },
+  {
+    "kosakata": "郡",
+    "bacaan": "こおり"
   },
   {
     "kosakata": "凍り漬け",
@@ -4046,10 +4046,6 @@
   {
     "kosakata": "氷挟み",
     "bacaan": "こおりばさみ"
-  },
-  {
-    "kosakata": "郡山女子大学",
-    "bacaan": "こおりやまじょしだいがく"
   },
   {
     "kosakata": "氷る",
@@ -4064,16 +4060,20 @@
     "bacaan": "こがねせんがん"
   },
   {
-    "kosakata": "扱き交ぜる",
-    "bacaan": "こきまぜる"
-  },
-  {
     "kosakata": "扱き混ぜる",
     "bacaan": "こきまぜる"
   },
   {
+    "kosakata": "呼吸窮迫症候群",
+    "bacaan": "こきゅうきゅうはくしょうこうぐん"
+  },
+  {
     "kosakata": "故郷を慕う",
     "bacaan": "こきょうをしたう"
+  },
+  {
+    "kosakata": "石",
+    "bacaan": "こく"
   },
   {
     "kosakata": "国際的に懸念される公衆衛生上の緊急事態",
@@ -4088,16 +4088,16 @@
     "bacaan": "こくとうしょうちゅう"
   },
   {
-    "kosakata": "小首を傾げる",
-    "bacaan": "こくびをかしげる"
-  },
-  {
     "kosakata": "穀物飼料協会",
     "bacaan": "こくもつしりょうきょうかい"
   },
   {
     "kosakata": "虚仮脅し",
     "bacaan": "こけおどし"
+  },
+  {
+    "kosakata": "苔生す",
+    "bacaan": "こけむす"
   },
   {
     "kosakata": "沽券に関わる",
@@ -4112,68 +4112,20 @@
     "bacaan": "ここのそじ"
   },
   {
-    "kosakata": "九つ時",
-    "bacaan": "ここのつどき"
+    "kosakata": "九つ",
+    "bacaan": "ここのつ"
   },
   {
-    "kosakata": "心暖まる",
-    "bacaan": "こころあたたまる"
-  },
-  {
-    "kosakata": "心温まる",
-    "bacaan": "こころあたたまる"
-  },
-  {
-    "kosakata": "心が清まる",
-    "bacaan": "こころがきよまる"
-  },
-  {
-    "kosakata": "心が解ける",
-    "bacaan": "こころがとける"
-  },
-  {
-    "kosakata": "心が和む",
-    "bacaan": "こころがなごむ"
+    "kosakata": "心寂しい",
+    "bacaan": "こころさびしい"
   },
   {
     "kosakata": "志す",
     "bacaan": "こころざす"
   },
   {
-    "kosakata": "心忙しい",
-    "bacaan": "こころぜわしい"
-  },
-  {
-    "kosakata": "心に突き刺さる",
-    "bacaan": "こころにつきささる"
-  },
-  {
-    "kosakata": "心の貧しい",
-    "bacaan": "こころのまずしい"
-  },
-  {
-    "kosakata": "心密かに",
-    "bacaan": "こころひそかに"
-  },
-  {
     "kosakata": "快い",
     "bacaan": "こころよい"
-  },
-  {
-    "kosakata": "心を疲らす",
-    "bacaan": "こころをつからす"
-  },
-  {
-    "kosakata": "心を煩わす",
-    "bacaan": "こころをわずらわす"
-  },
-  {
-    "kosakata": "心を割って話す",
-    "bacaan": "こころをわってはなす"
-  },
-  {
-    "kosakata": "小腰を屈める",
-    "bacaan": "こごしをかがめる"
   },
   {
     "kosakata": "凝らせる",
@@ -4184,12 +4136,12 @@
     "bacaan": "こごる"
   },
   {
-    "kosakata": "腰が砕ける",
-    "bacaan": "こしがくだける"
+    "kosakata": "来し方",
+    "bacaan": "こしかた"
   },
   {
-    "kosakata": "腰が引ける",
-    "bacaan": "こしがひける"
+    "kosakata": "腰が砕ける",
+    "bacaan": "こしがくだける"
   },
   {
     "kosakata": "故実",
@@ -4204,8 +4156,12 @@
     "bacaan": "こじんむけこくさい"
   },
   {
-    "kosakata": "鼓吹者",
-    "bacaan": "こすいしゃ"
+    "kosakata": "超す",
+    "bacaan": "こす"
+  },
+  {
+    "kosakata": "鼓吹",
+    "bacaan": "こすい"
   },
   {
     "kosakata": "擦れる",
@@ -4220,12 +4176,16 @@
     "bacaan": "こぞって"
   },
   {
+    "kosakata": "答える",
+    "bacaan": "こたえる"
+  },
+  {
     "kosakata": "答えを渋る",
     "bacaan": "こたえをしぶる"
   },
   {
-    "kosakata": "誇大妄想狂",
-    "bacaan": "こだいもうそうきょう"
+    "kosakata": "誇大妄想",
+    "bacaan": "こだいもうそう"
   },
   {
     "kosakata": "小平次元",
@@ -4248,44 +4208,32 @@
     "bacaan": "こっけいかいぎゃく"
   },
   {
-    "kosakata": "乞士",
-    "bacaan": "こっし"
-  },
-  {
     "kosakata": "凝っては思案に能わず",
     "bacaan": "こってはしあんにあたわず"
+  },
+  {
+    "kosakata": "乞食",
+    "bacaan": "こつじき"
   },
   {
     "kosakata": "小遣銭",
     "bacaan": "こづかいぜに"
   },
   {
-    "kosakata": "事志と違う",
-    "bacaan": "ことこころざしとたがう"
-  },
-  {
     "kosakata": "尽く",
     "bacaan": "ことごとく"
   },
   {
-    "kosakata": "事の序で",
-    "bacaan": "ことのついで"
+    "kosakata": "言伝",
+    "bacaan": "ことづて"
   },
   {
     "kosakata": "殊の外",
     "bacaan": "ことのほか"
   },
   {
-    "kosakata": "言葉に甘える",
-    "bacaan": "ことばにあまえる"
-  },
-  {
-    "kosakata": "言葉は身の文",
-    "bacaan": "ことばはみのあや"
-  },
-  {
-    "kosakata": "寿教室",
-    "bacaan": "ことぶききょうしつ"
+    "kosakata": "寿",
+    "bacaan": "ことぶき"
   },
   {
     "kosakata": "寿く",
@@ -4294,6 +4242,10 @@
   {
     "kosakata": "寿ぐ",
     "bacaan": "ことほぐ"
+  },
+  {
+    "kosakata": "事珍し",
+    "bacaan": "ことめずらし"
   },
   {
     "kosakata": "理",
@@ -4320,8 +4272,8 @@
     "bacaan": "このくれ"
   },
   {
-    "kosakata": "箇別",
-    "bacaan": "こべつ"
+    "kosakata": "毀つ",
+    "bacaan": "こぼつ"
   },
   {
     "kosakata": "零れ球",
@@ -4332,24 +4284,20 @@
     "bacaan": "こぼれる"
   },
   {
-    "kosakata": "細かい指示",
-    "bacaan": "こまかいしじ"
+    "kosakata": "細かい",
+    "bacaan": "こまかい"
   },
   {
     "kosakata": "小間使",
     "bacaan": "こまづかい"
   },
   {
+    "kosakata": "混み合う",
+    "bacaan": "こみあう"
+  },
+  {
     "kosakata": "径書房",
     "bacaan": "こみちしょぼう"
-  },
-  {
-    "kosakata": "小麦畑",
-    "bacaan": "こむぎばたけ"
-  },
-  {
-    "kosakata": "小難しい",
-    "bacaan": "こむつかしい"
   },
   {
     "kosakata": "米粒馬肥やし",
@@ -4360,16 +4308,16 @@
     "bacaan": "こもごも"
   },
   {
-    "kosakata": "小望月",
-    "bacaan": "こもちづき"
-  },
-  {
     "kosakata": "堪え性",
     "bacaan": "こらえしょう"
   },
   {
     "kosakata": "懲らしめる",
     "bacaan": "こらしめる"
+  },
+  {
+    "kosakata": "懲らす",
+    "bacaan": "こらす"
   },
   {
     "kosakata": "是丈",
@@ -4380,16 +4328,24 @@
     "bacaan": "これにこりよどうさいぼう"
   },
   {
+    "kosakata": "転げる",
+    "bacaan": "ころげる"
+  },
+  {
     "kosakata": "転び公妨",
     "bacaan": "ころびこうぼう"
+  },
+  {
+    "kosakata": "転ぶ",
+    "bacaan": "ころぶ"
   },
   {
     "kosakata": "衣ばかりで和尚はできぬ",
     "bacaan": "ころもばかりでおしょうはできぬ"
   },
   {
-    "kosakata": "恐い物見たさ",
-    "bacaan": "こわいものみたさ"
+    "kosakata": "恐い",
+    "bacaan": "こわい"
   },
   {
     "kosakata": "声色を遣う",
@@ -4428,8 +4384,8 @@
     "bacaan": "こんじゃく"
   },
   {
-    "kosakata": "献立表",
-    "bacaan": "こんだてひょう"
+    "kosakata": "献立",
+    "bacaan": "こんだて"
   },
   {
     "kosakata": "懇望",
@@ -4484,20 +4440,8 @@
     "bacaan": "ごうをにやす"
   },
   {
-    "kosakata": "五街道",
-    "bacaan": "ごかいどう"
-  },
-  {
     "kosakata": "ご機嫌麗しい",
     "bacaan": "ごきげんうるわしい"
-  },
-  {
-    "kosakata": "語気を強める",
-    "bacaan": "ごきをつよめる"
-  },
-  {
-    "kosakata": "語気を弱める",
-    "bacaan": "ごきをよわめる"
   },
   {
     "kosakata": "極偶に",
@@ -4568,8 +4512,16 @@
     "bacaan": "さいちょうせん"
   },
   {
-    "kosakata": "裁判官弾劾裁判所",
-    "bacaan": "さいばんかんだんがいさいばんしょ"
+    "kosakata": "才弾ける",
+    "bacaan": "さいはじける"
+  },
+  {
+    "kosakata": "済物浦条約",
+    "bacaan": "さいもっぽじょうやく"
+  },
+  {
+    "kosakata": "遮る",
+    "bacaan": "さえぎる"
   },
   {
     "kosakata": "逆恨み",
@@ -4612,10 +4564,6 @@
     "bacaan": "さき"
   },
   {
-    "kosakata": "咲初める",
-    "bacaan": "さきそめる"
-  },
-  {
     "kosakata": "咲き匂う",
     "bacaan": "さきにおう"
   },
@@ -4632,10 +4580,6 @@
     "bacaan": "さくじょうそしき"
   },
   {
-    "kosakata": "昨晩",
-    "bacaan": "さくばん"
-  },
-  {
     "kosakata": "冊封使",
     "bacaan": "さくほうし"
   },
@@ -4648,10 +4592,6 @@
     "bacaan": "さけてとおれない"
   },
   {
-    "kosakata": "酒を絶やす",
-    "bacaan": "さけをたやす"
-  },
-  {
     "kosakata": "蔑む",
     "bacaan": "さげすむ"
   },
@@ -4660,12 +4600,24 @@
     "bacaan": "さげどまり"
   },
   {
+    "kosakata": "支え",
+    "bacaan": "ささえ"
+  },
+  {
     "kosakata": "捧げ銃",
     "bacaan": "ささげつつ"
   },
   {
+    "kosakata": "刺さる",
+    "bacaan": "ささる"
+  },
+  {
     "kosakata": "尺",
     "bacaan": "さし"
+  },
+  {
+    "kosakata": "差し支える",
+    "bacaan": "さしつかえる"
   },
   {
     "kosakata": "刺し貫く",
@@ -4680,24 +4632,20 @@
     "bacaan": "さしはさむ"
   },
   {
-    "kosakata": "差し控える",
-    "bacaan": "さしひかえる"
+    "kosakata": "砂州",
+    "bacaan": "さす"
   },
   {
     "kosakata": "摩る",
     "bacaan": "さする"
   },
   {
-    "kosakata": "然為れば",
-    "bacaan": "さすれば"
-  },
-  {
-    "kosakata": "授かり婚",
-    "bacaan": "さずかりこん"
-  },
-  {
     "kosakata": "授かる",
     "bacaan": "さずかる"
+  },
+  {
+    "kosakata": "授ける",
+    "bacaan": "さずける"
   },
   {
     "kosakata": "誘いに乗る",
@@ -4724,16 +4672,12 @@
     "bacaan": "さっき"
   },
   {
-    "kosakata": "察するに余りある",
-    "bacaan": "さっするにあまりある"
-  },
-  {
     "kosakata": "早速",
     "bacaan": "さっそく"
   },
   {
-    "kosakata": "薩摩の守",
-    "bacaan": "さつまのかみ"
+    "kosakata": "扨措く",
+    "bacaan": "さておく"
   },
   {
     "kosakata": "里長",
@@ -4744,20 +4688,32 @@
     "bacaan": "さとりがはやい"
   },
   {
-    "kosakata": "早苗月",
-    "bacaan": "さなえづき"
+    "kosakata": "早苗",
+    "bacaan": "さなえ"
   },
   {
-    "kosakata": "寂しん坊",
-    "bacaan": "さびしんぼう"
+    "kosakata": "寂",
+    "bacaan": "さび"
   },
   {
     "kosakata": "寂れる",
     "bacaan": "さびれる"
   },
   {
-    "kosakata": "寂しがり屋",
-    "bacaan": "さみしがりや"
+    "kosakata": "冷ます",
+    "bacaan": "さます"
+  },
+  {
+    "kosakata": "醒ます",
+    "bacaan": "さます"
+  },
+  {
+    "kosakata": "寂しい",
+    "bacaan": "さみしい"
+  },
+  {
+    "kosakata": "醒める",
+    "bacaan": "さめる"
   },
   {
     "kosakata": "左右に分かれる",
@@ -4768,11 +4724,11 @@
     "bacaan": "さよあらし"
   },
   {
-    "kosakata": "再来週",
-    "bacaan": "さらいしゅう"
+    "kosakata": "再来月",
+    "bacaan": "さらいげつ"
   },
   {
-    "kosakata": "更に困った事に",
+    "kosakata": "更に困ったことに",
     "bacaan": "さらにこまったことに"
   },
   {
@@ -4780,16 +4736,16 @@
     "bacaan": "さるごう"
   },
   {
-    "kosakata": "去る者は日々に疎し",
-    "bacaan": "さるものはひびにうとし"
+    "kosakata": "騒がしい",
+    "bacaan": "さわがしい"
   },
   {
     "kosakata": "爽やか",
     "bacaan": "さわやか"
   },
   {
-    "kosakata": "参詣道",
-    "bacaan": "さんけいどう"
+    "kosakata": "参詣",
+    "bacaan": "さんけい"
   },
   {
     "kosakata": "蚕繭",
@@ -4812,24 +4768,12 @@
     "bacaan": "さんばつりん"
   },
   {
-    "kosakata": "三浦の乱",
-    "bacaan": "さんぽのらん"
-  },
-  {
     "kosakata": "さんまは目黒に限る",
     "bacaan": "さんまはめぐろにかぎる"
   },
   {
-    "kosakata": "算を乱す",
-    "bacaan": "さんをみだす"
-  },
-  {
-    "kosakata": "在廊",
-    "bacaan": "ざいろう"
-  },
-  {
-    "kosakata": "戯れ言",
-    "bacaan": "ざれごと"
+    "kosakata": "戯れる",
+    "bacaan": "ざれる"
   },
   {
     "kosakata": "暫且",
@@ -4848,12 +4792,20 @@
     "bacaan": "しあわせぶとり"
   },
   {
-    "kosakata": "虐げられた人々",
-    "bacaan": "しいたげられたひとびと"
+    "kosakata": "恣意",
+    "bacaan": "しい"
   },
   {
-    "kosakata": "強いて言えば",
-    "bacaan": "しいていえば"
+    "kosakata": "虐げる",
+    "bacaan": "しいたげる"
+  },
+  {
+    "kosakata": "強いて",
+    "bacaan": "しいて"
+  },
+  {
+    "kosakata": "萎萎",
+    "bacaan": "しおしお"
   },
   {
     "kosakata": "塩に漬ける",
@@ -4896,6 +4848,10 @@
     "bacaan": "しきじょうとうさく"
   },
   {
+    "kosakata": "頻りに",
+    "bacaan": "しきりに"
+  },
+  {
     "kosakata": "資金集め",
     "bacaan": "しきんあつめ"
   },
@@ -4904,8 +4860,8 @@
     "bacaan": "しげしげ"
   },
   {
-    "kosakata": "醜女",
-    "bacaan": "しこめ"
+    "kosakata": "醜男",
+    "bacaan": "しこお"
   },
   {
     "kosakata": "仕事に勤しむ",
@@ -4924,16 +4880,8 @@
     "bacaan": "ししょうたい"
   },
   {
-    "kosakata": "摯実",
-    "bacaan": "しじつ"
-  },
-  {
     "kosakata": "静岡福祉大学",
     "bacaan": "しずおかふくしだいがく"
-  },
-  {
-    "kosakata": "滴",
-    "bacaan": "しずく"
   },
   {
     "kosakata": "鎮まる",
@@ -4944,12 +4892,24 @@
     "bacaan": "しずむせあればうかぶせあり"
   },
   {
-    "kosakata": "鎮め物",
-    "bacaan": "しずめもの"
+    "kosakata": "沈める",
+    "bacaan": "しずめる"
   },
   {
-    "kosakata": "至誠天に通ず",
-    "bacaan": "しせいてんにつうず"
+    "kosakata": "鎮める",
+    "bacaan": "しずめる"
+  },
+  {
+    "kosakata": "静める",
+    "bacaan": "しずめる"
+  },
+  {
+    "kosakata": "至誠",
+    "bacaan": "しせい"
+  },
+  {
+    "kosakata": "咫尺",
+    "bacaan": "しせき"
   },
   {
     "kosakata": "自然の恵み",
@@ -4964,8 +4924,8 @@
     "bacaan": "したがえる"
   },
   {
-    "kosakata": "親しき仲にも礼儀有り",
-    "bacaan": "したしきなかにもれいぎあり"
+    "kosakata": "親しみ易い",
+    "bacaan": "したしみやすい"
   },
   {
     "kosakata": "認める",
@@ -4980,7 +4940,7 @@
     "bacaan": "したっぱなれ"
   },
   {
-    "kosakata": "舌の根の乾かぬ内",
+    "kosakata": "舌の根の乾かぬうち",
     "bacaan": "したのねのかわかぬうち"
   },
   {
@@ -5014,10 +4974,6 @@
   {
     "kosakata": "膝窩静脈",
     "bacaan": "しつかじょうみゃく"
-  },
-  {
-    "kosakata": "質問に答える",
-    "bacaan": "しつもんにこたえる"
   },
   {
     "kosakata": "賜邸",
@@ -5064,8 +5020,8 @@
     "bacaan": "しふくをこやす"
   },
   {
-    "kosakata": "渋い顔をする",
-    "bacaan": "しぶいかおをする"
+    "kosakata": "渋い",
+    "bacaan": "しぶい"
   },
   {
     "kosakata": "渋柿",
@@ -5088,6 +5044,10 @@
     "bacaan": "しまつにおえない"
   },
   {
+    "kosakata": "絞まる",
+    "bacaan": "しまる"
+  },
+  {
     "kosakata": "緊まる",
     "bacaan": "しまる"
   },
@@ -5096,8 +5056,8 @@
     "bacaan": "しまる"
   },
   {
-    "kosakata": "凍み豆腐",
-    "bacaan": "しみどうふ"
+    "kosakata": "凍みる",
+    "bacaan": "しみる"
   },
   {
     "kosakata": "示し合わす",
@@ -5116,8 +5076,16 @@
     "bacaan": "しもぶくれ"
   },
   {
+    "kosakata": "僕",
+    "bacaan": "しもべ"
+  },
+  {
     "kosakata": "隷",
     "bacaan": "しもべ"
+  },
+  {
+    "kosakata": "諮問",
+    "bacaan": "しもん"
   },
   {
     "kosakata": "社会保険診療報酬支払基金",
@@ -5132,10 +5100,6 @@
     "bacaan": "しゃが"
   },
   {
-    "kosakata": "尺斤法",
-    "bacaan": "しゃくきんほう"
-  },
-  {
     "kosakata": "折伏",
     "bacaan": "しゃくぶく"
   },
@@ -5148,20 +5112,20 @@
     "bacaan": "しゃしんうつり"
   },
   {
-    "kosakata": "赤口日",
-    "bacaan": "しゃっくにち"
+    "kosakata": "赤口",
+    "bacaan": "しゃっく"
   },
   {
     "kosakata": "娑婆塞ぎ",
     "bacaan": "しゃばふさぎ"
   },
   {
-    "kosakata": "煮沸消毒",
-    "bacaan": "しゃふつしょうどく"
+    "kosakata": "煮沸",
+    "bacaan": "しゃふつ"
   },
   {
-    "kosakata": "遮蔽物",
-    "bacaan": "しゃへいぶつ"
+    "kosakata": "遮蔽",
+    "bacaan": "しゃへい"
   },
   {
     "kosakata": "蹴子覆",
@@ -5172,8 +5136,8 @@
     "bacaan": "しゅうしゃく"
   },
   {
-    "kosakata": "就寝時間",
-    "bacaan": "しゅうしんじかん"
+    "kosakata": "就寝",
+    "bacaan": "しゅうしん"
   },
   {
     "kosakata": "修繕費",
@@ -5200,8 +5164,8 @@
     "bacaan": "しゅうとうめんみつ"
   },
   {
-    "kosakata": "拾得物",
-    "bacaan": "しゅうとくぶつ"
+    "kosakata": "拾得",
+    "bacaan": "しゅうとく"
   },
   {
     "kosakata": "主取",
@@ -5228,12 +5192,16 @@
     "bacaan": "しゅくんしょう"
   },
   {
-    "kosakata": "修験道",
-    "bacaan": "しゅげんどう"
+    "kosakata": "修験者",
+    "bacaan": "しゅげんじゃ"
   },
   {
     "kosakata": "卒去",
     "bacaan": "しゅっきょ"
+  },
+  {
+    "kosakata": "出札掛",
+    "bacaan": "しゅっさつがかり"
   },
   {
     "kosakata": "出来",
@@ -5244,16 +5212,16 @@
     "bacaan": "しゅつらんのほまれ"
   },
   {
-    "kosakata": "輸入",
-    "bacaan": "しゅにゅう"
-  },
-  {
     "kosakata": "須弥山",
     "bacaan": "しゅみせん"
   },
   {
     "kosakata": "狩猟免許",
     "bacaan": "しゅりょうめんきょ"
+  },
+  {
+    "kosakata": "朱を注ぐ",
+    "bacaan": "しゅをそそぐ"
   },
   {
     "kosakata": "俊逸",
@@ -5292,16 +5260,16 @@
     "bacaan": "しょうげん"
   },
   {
+    "kosakata": "消耗的",
+    "bacaan": "しょうこうてき"
+  },
+  {
     "kosakata": "詳細を詰める",
     "bacaan": "しょうさいをつめる"
   },
   {
     "kosakata": "硝子体黄斑牽引症候群",
     "bacaan": "しょうしたいおうはんけんいんしょうこうぐん"
-  },
-  {
-    "kosakata": "焼失を免れる",
-    "bacaan": "しょうしつをまぬかれる"
   },
   {
     "kosakata": "正直一遍",
@@ -5316,8 +5284,8 @@
     "bacaan": "しょうじょう"
   },
   {
-    "kosakata": "肖像画家",
-    "bacaan": "しょうぞうがか"
+    "kosakata": "肖像",
+    "bacaan": "しょうぞう"
   },
   {
     "kosakata": "招待に与る",
@@ -5364,10 +5332,6 @@
     "bacaan": "しょくしゅをのばす"
   },
   {
-    "kosakata": "食事を摂る",
-    "bacaan": "しょくじをとる"
-  },
-  {
     "kosakata": "嘱する",
     "bacaan": "しょくする"
   },
@@ -5396,6 +5360,10 @@
     "bacaan": "しらげる"
   },
   {
+    "kosakata": "知らせる",
+    "bacaan": "しらせる"
+  },
+  {
     "kosakata": "白斑",
     "bacaan": "しらふ"
   },
@@ -5416,6 +5384,10 @@
     "bacaan": "しりぬぐい"
   },
   {
+    "kosakata": "識る",
+    "bacaan": "しる"
+  },
+  {
     "kosakata": "徴",
     "bacaan": "しるし"
   },
@@ -5426,6 +5398,10 @@
   {
     "kosakata": "識す",
     "bacaan": "しるす"
+  },
+  {
+    "kosakata": "標",
+    "bacaan": "しるべ"
   },
   {
     "kosakata": "白いんげん豆",
@@ -5464,6 +5440,10 @@
     "bacaan": "しんし"
   },
   {
+    "kosakata": "真摯",
+    "bacaan": "しんし"
+  },
+  {
     "kosakata": "紳士淑女",
     "bacaan": "しんししゅくじょ"
   },
@@ -5480,16 +5460,8 @@
     "bacaan": "しんぞうがとまる"
   },
   {
-    "kosakata": "進退窮まる",
-    "bacaan": "しんたいきわまる"
-  },
-  {
     "kosakata": "進退これ谷まる",
     "bacaan": "しんたいこれきわまる"
-  },
-  {
-    "kosakata": "心中穏やかでない",
-    "bacaan": "しんちゅうおだやかでない"
   },
   {
     "kosakata": "進捗状況",
@@ -5512,8 +5484,8 @@
     "bacaan": "しんぶんにのる"
   },
   {
-    "kosakata": "親睦会",
-    "bacaan": "しんぼくかい"
+    "kosakata": "親睦",
+    "bacaan": "しんぼく"
   },
   {
     "kosakata": "辛辣",
@@ -5552,28 +5524,12 @@
     "bacaan": "じさつ"
   },
   {
-    "kosakata": "辞職願",
-    "bacaan": "じしょくねがい"
-  },
-  {
-    "kosakata": "事実と異なる",
-    "bacaan": "じじつとことなる"
-  },
-  {
-    "kosakata": "事実を調べる",
-    "bacaan": "じじつをしらべる"
-  },
-  {
     "kosakata": "自縄自縛に陥る",
     "bacaan": "じじょうじばくにおちいる"
   },
   {
     "kosakata": "持続性抑鬱症",
     "bacaan": "じぞくせいよくうつしょう"
-  },
-  {
-    "kosakata": "持続勃起症",
-    "bacaan": "じぞくぼっきしょう"
   },
   {
     "kosakata": "時代と共に歩む",
@@ -5596,8 +5552,8 @@
     "bacaan": "じふ"
   },
   {
-    "kosakata": "耳目を驚かす",
-    "bacaan": "じもくをおどろかす"
+    "kosakata": "邪淫戒",
+    "bacaan": "じゃいんかい"
   },
   {
     "kosakata": "蛇結茨",
@@ -5616,10 +5572,6 @@
     "bacaan": "じゅうきんこ"
   },
   {
-    "kosakata": "十二因縁",
-    "bacaan": "じゅうにいんねん"
-  },
-  {
     "kosakata": "柔能く剛を制す",
     "bacaan": "じゅうよくごうをせいす"
   },
@@ -5636,16 +5588,12 @@
     "bacaan": "じゅしゃ"
   },
   {
-    "kosakata": "呪術的思考",
-    "bacaan": "じゅじゅつてきしこう"
+    "kosakata": "呪術思考",
+    "bacaan": "じゅじゅつしこう"
   },
   {
     "kosakata": "十把一絡げ",
     "bacaan": "じゅっぱひとからげ"
-  },
-  {
-    "kosakata": "寿命を縮める",
-    "bacaan": "じゅみょうをちぢめる"
   },
   {
     "kosakata": "需要を賄う",
@@ -5656,16 +5604,20 @@
     "bacaan": "じゅをたてまつる"
   },
   {
+    "kosakata": "殉教者",
+    "bacaan": "じゅんきょうしゃ"
+  },
+  {
+    "kosakata": "遵守",
+    "bacaan": "じゅんしゅ"
+  },
+  {
     "kosakata": "準じる",
     "bacaan": "じゅんじる"
   },
   {
     "kosakata": "準ずる",
     "bacaan": "じゅんずる"
-  },
-  {
-    "kosakata": "殉難者",
-    "bacaan": "じゅんなんしゃ"
   },
   {
     "kosakata": "旬外れ",
@@ -5682,10 +5634,6 @@
   {
     "kosakata": "娘核",
     "bacaan": "じょうかく"
-  },
-  {
-    "kosakata": "上顎前突症",
-    "bacaan": "じょうがくぜんとつしょう"
   },
   {
     "kosakata": "上級准尉",
@@ -5716,6 +5664,10 @@
     "bacaan": "じょうだんにまぎらす"
   },
   {
+    "kosakata": "常不軽",
+    "bacaan": "じょうふきょう"
+  },
+  {
     "kosakata": "上向きの互換性",
     "bacaan": "じょうむきのごかんせい"
   },
@@ -5740,10 +5692,6 @@
     "bacaan": "じれったい"
   },
   {
-    "kosakata": "人間到る処青山あり",
-    "bacaan": "じんかんいたるところせいざんあり"
-  },
-  {
     "kosakata": "沈丁花",
     "bacaan": "じんちょうげ"
   },
@@ -5754,10 +5702,6 @@
   {
     "kosakata": "誰何",
     "bacaan": "すいか"
-  },
-  {
-    "kosakata": "水火既済",
-    "bacaan": "すいかきせい"
   },
   {
     "kosakata": "水琴窟",
@@ -5784,6 +5728,10 @@
     "bacaan": "すいみんをさまたげる"
   },
   {
+    "kosakata": "枢軸",
+    "bacaan": "すうじく"
+  },
+  {
     "kosakata": "陶皿",
     "bacaan": "すえざら"
   },
@@ -5796,16 +5744,16 @@
     "bacaan": "すえたのもしい"
   },
   {
+    "kosakata": "隙",
+    "bacaan": "すき"
+  },
+  {
     "kosakata": "好き嫌い",
     "bacaan": "すききらい"
   },
   {
-    "kosakata": "隙間市場",
-    "bacaan": "すきましじょう"
-  },
-  {
-    "kosakata": "過ぎ来し方",
-    "bacaan": "すぎこしかた"
+    "kosakata": "空く",
+    "bacaan": "すく"
   },
   {
     "kosakata": "巣くう",
@@ -5820,12 +5768,12 @@
     "bacaan": "すぐそば"
   },
   {
-    "kosakata": "勝れた",
+    "kosakata": "優れた",
     "bacaan": "すぐれた"
   },
   {
-    "kosakata": "優れ物",
-    "bacaan": "すぐれもの"
+    "kosakata": "勝れた",
+    "bacaan": "すぐれた"
   },
   {
     "kosakata": "助け手",
@@ -5856,16 +5804,20 @@
     "bacaan": "すごみをきかせる"
   },
   {
+    "kosakata": "巣籠る",
+    "bacaan": "すごもる"
+  },
+  {
     "kosakata": "凄まじい",
     "bacaan": "すさまじい"
   },
   {
-    "kosakata": "荒んだ心",
-    "bacaan": "すさんだこころ"
-  },
-  {
     "kosakata": "寿司詰め",
     "bacaan": "すしづめ"
+  },
+  {
+    "kosakata": "濯ぐ",
+    "bacaan": "すすぐ"
   },
   {
     "kosakata": "進むも地獄退くも地獄",
@@ -5888,12 +5840,12 @@
     "bacaan": "すそまわし"
   },
   {
-    "kosakata": "廃れる",
-    "bacaan": "すたれる"
+    "kosakata": "廃る",
+    "bacaan": "すたる"
   },
   {
-    "kosakata": "素っ転ぶ",
-    "bacaan": "すっころぶ"
+    "kosakata": "廃れる",
+    "bacaan": "すたれる"
   },
   {
     "kosakata": "棄て児",
@@ -5936,12 +5888,24 @@
     "bacaan": "すまう"
   },
   {
+    "kosakata": "済まない",
+    "bacaan": "すまない"
+  },
+  {
     "kosakata": "隅棟",
     "bacaan": "すみむね"
   },
   {
+    "kosakata": "速やか",
+    "bacaan": "すみやか"
+  },
+  {
     "kosakata": "住み好い",
     "bacaan": "すみよい"
+  },
+  {
+    "kosakata": "酸桃",
+    "bacaan": "すもも"
   },
   {
     "kosakata": "摩り替わる",
@@ -5962,6 +5926,18 @@
   {
     "kosakata": "刷る",
     "bacaan": "する"
+  },
+  {
+    "kosakata": "為る",
+    "bacaan": "する"
+  },
+  {
+    "kosakata": "擦れる",
+    "bacaan": "すれる"
+  },
+  {
+    "kosakata": "寸分違わず",
+    "bacaan": "すんぶんたがわず"
   },
   {
     "kosakata": "随喜の涙を流す",
@@ -5992,10 +5968,6 @@
     "bacaan": "せいたけ"
   },
   {
-    "kosakata": "盛大に趣く",
-    "bacaan": "せいだいにおもむく"
-  },
-  {
     "kosakata": "清濁併せ呑む",
     "bacaan": "せいだくあわせのむ"
   },
@@ -6004,20 +5976,8 @@
     "bacaan": "せいちか"
   },
   {
-    "kosakata": "成長を阻む",
-    "bacaan": "せいちょうをはばむ"
-  },
-  {
-    "kosakata": "正嫡",
-    "bacaan": "せいてき"
-  },
-  {
     "kosakata": "歳暮",
     "bacaan": "せいぼ"
-  },
-  {
-    "kosakata": "西洋酸桃",
-    "bacaan": "せいようすもも"
   },
   {
     "kosakata": "晴嵐",
@@ -6034,6 +5994,10 @@
   {
     "kosakata": "世界に誇る",
     "bacaan": "せかいにほこる"
+  },
+  {
+    "kosakata": "施餓鬼",
+    "bacaan": "せがき"
   },
   {
     "kosakata": "潟湖",
@@ -6060,12 +6024,16 @@
     "bacaan": "せきにんをのがれる"
   },
   {
-    "kosakata": "寂寥感",
-    "bacaan": "せきりょうかん"
+    "kosakata": "寂寥",
+    "bacaan": "せきりょう"
   },
   {
     "kosakata": "関脇",
     "bacaan": "せきわけ"
+  },
+  {
+    "kosakata": "世事に疎い",
+    "bacaan": "せじにうとい"
   },
   {
     "kosakata": "節振舞",
@@ -6104,10 +6072,6 @@
     "bacaan": "せっぱつまる"
   },
   {
-    "kosakata": "背中を丸める",
-    "bacaan": "せなかをまるめる"
-  },
-  {
     "kosakata": "狭まる",
     "bacaan": "せばまる"
   },
@@ -6120,20 +6084,24 @@
     "bacaan": "せめさいなむ"
   },
   {
+    "kosakata": "攻め滅ぼす",
+    "bacaan": "せめほろぼす"
+  },
+  {
     "kosakata": "競り勝つ",
     "bacaan": "せりかつ"
+  },
+  {
+    "kosakata": "忙しげ",
+    "bacaan": "せわしげ"
   },
   {
     "kosakata": "世話の焼ける",
     "bacaan": "せわのやける"
   },
   {
-    "kosakata": "占拠地",
-    "bacaan": "せんきょち"
-  },
-  {
-    "kosakata": "船殻",
-    "bacaan": "せんこく"
+    "kosakata": "占拠",
+    "bacaan": "せんきょ"
   },
   {
     "kosakata": "浅酌低唱",
@@ -6152,7 +6120,7 @@
     "bacaan": "せんすべ"
   },
   {
-    "kosakata": "詮ずる所",
+    "kosakata": "詮ずるところ",
     "bacaan": "せんずるところ"
   },
   {
@@ -6176,16 +6144,16 @@
     "bacaan": "せんとちひろのかみかくし"
   },
   {
+    "kosakata": "船舶整備公団",
+    "bacaan": "せんぱくせいびこうだん"
+  },
+  {
     "kosakata": "羨望の的",
     "bacaan": "せんぼうのまと"
   },
   {
     "kosakata": "戦没者慰霊碑",
     "bacaan": "せんぼつしゃいれいひ"
-  },
-  {
-    "kosakata": "千里の行も足下に始まる",
-    "bacaan": "せんりのこうもそっかにはじまる"
   },
   {
     "kosakata": "舌鋒鋭い",
@@ -6224,20 +6192,20 @@
     "bacaan": "そうおんせいなんちょう"
   },
   {
-    "kosakata": "痩果",
-    "bacaan": "そうか"
-  },
-  {
     "kosakata": "荘厳華麗",
     "bacaan": "そうごんかれい"
   },
   {
-    "kosakata": "繰糸",
-    "bacaan": "そうし"
+    "kosakata": "繰糸機",
+    "bacaan": "そうしき"
   },
   {
     "kosakata": "宗匠",
     "bacaan": "そうしょう"
+  },
+  {
+    "kosakata": "痩身",
+    "bacaan": "そうしん"
   },
   {
     "kosakata": "早逝",
@@ -6280,16 +6248,12 @@
     "bacaan": "そうろうよし"
   },
   {
-    "kosakata": "想を練る",
-    "bacaan": "そうをねる"
-  },
-  {
     "kosakata": "遡及書誌",
     "bacaan": "そきゅうしょし"
   },
   {
-    "kosakata": "殺ぎ落とす",
-    "bacaan": "そぎおとす"
+    "kosakata": "職",
+    "bacaan": "そく"
   },
   {
     "kosakata": "即時停戦",
@@ -6300,8 +6264,12 @@
     "bacaan": "そくせいさいばい"
   },
   {
-    "kosakata": "狙撃兵",
-    "bacaan": "そげきへい"
+    "kosakata": "殺ぐ",
+    "bacaan": "そぐ"
+  },
+  {
+    "kosakata": "狙撃銃",
+    "bacaan": "そげきじゅう"
   },
   {
     "kosakata": "底が割れる",
@@ -6320,8 +6288,16 @@
     "bacaan": "そぜいてんか"
   },
   {
+    "kosakata": "唆す",
+    "bacaan": "そそのかす"
+  },
+  {
     "kosakata": "唆る",
     "bacaan": "そそる"
+  },
+  {
+    "kosakata": "漫ろに",
+    "bacaan": "そぞろに"
   },
   {
     "kosakata": "育ち盛り",
@@ -6368,8 +6344,16 @@
     "bacaan": "そまりぐあい"
   },
   {
+    "kosakata": "背ける",
+    "bacaan": "そむける"
+  },
+  {
     "kosakata": "戦ぐ",
     "bacaan": "そよぐ"
+  },
+  {
+    "kosakata": "反らす",
+    "bacaan": "そらす"
   },
   {
     "kosakata": "空恥ずかしい",
@@ -6396,20 +6380,16 @@
     "bacaan": "そんざいのたえられないかるさ"
   },
   {
-    "kosakata": "損失を償う",
-    "bacaan": "そんしつをつぐなう"
-  },
-  {
     "kosakata": "尊王討幕",
     "bacaan": "そんのうとうばく"
   },
   {
-    "kosakata": "象牙の塔",
-    "bacaan": "ぞうげのとう"
+    "kosakata": "損亡",
+    "bacaan": "そんもう"
   },
   {
-    "kosakata": "造石税",
-    "bacaan": "ぞうこくぜい"
+    "kosakata": "象牙の塔",
+    "bacaan": "ぞうげのとう"
   },
   {
     "kosakata": "雑炊",
@@ -6420,8 +6400,8 @@
     "bacaan": "ぞうちょぎょくはい"
   },
   {
-    "kosakata": "贈呈式",
-    "bacaan": "ぞうていしき"
+    "kosakata": "贈呈",
+    "bacaan": "ぞうてい"
   },
   {
     "kosakata": "増俸",
@@ -6476,6 +6456,10 @@
     "bacaan": "たえはてる"
   },
   {
+    "kosakata": "高まる",
+    "bacaan": "たかまる"
+  },
+  {
     "kosakata": "高床式倉庫",
     "bacaan": "たかゆかしきそうこ"
   },
@@ -6488,8 +6472,8 @@
     "bacaan": "たから"
   },
   {
-    "kosakata": "宝の山に入りながら手を空しくして帰る",
-    "bacaan": "たからのやまにいりながらてをむなしくしてかえる"
+    "kosakata": "互い",
+    "bacaan": "たがい"
   },
   {
     "kosakata": "違える",
@@ -6516,6 +6500,10 @@
     "bacaan": "たくじょうゆうぎ"
   },
   {
+    "kosakata": "匠",
+    "bacaan": "たくみ"
+  },
+  {
     "kosakata": "巧む",
     "bacaan": "たくむ"
   },
@@ -6532,16 +6520,16 @@
     "bacaan": "たぐいまれ"
   },
   {
+    "kosakata": "岳",
+    "bacaan": "たけ"
+  },
+  {
     "kosakata": "武し",
     "bacaan": "たけし"
   },
   {
     "kosakata": "竹の園生",
     "bacaan": "たけのそのう"
-  },
-  {
-    "kosakata": "武富士",
-    "bacaan": "たけふじ"
   },
   {
     "kosakata": "確かな筋",
@@ -6580,12 +6568,16 @@
     "bacaan": "たたみべり"
   },
   {
-    "kosakata": "但し書き",
-    "bacaan": "ただしがき"
+    "kosakata": "但し",
+    "bacaan": "ただし"
   },
   {
     "kosakata": "訂す",
     "bacaan": "ただす"
+  },
+  {
+    "kosakata": "直ちに",
+    "bacaan": "ただちに"
   },
   {
     "kosakata": "立ち現れる",
@@ -6600,20 +6592,20 @@
     "bacaan": "たちならぶ"
   },
   {
-    "kosakata": "尊い油",
-    "bacaan": "たっといあぶら"
+    "kosakata": "尊い",
+    "bacaan": "たっとい"
   },
   {
     "kosakata": "貴い家柄",
     "bacaan": "たっといいえがら"
   },
   {
-    "kosakata": "貴ぶ",
+    "kosakata": "尊ぶ",
     "bacaan": "たっとぶ"
   },
   {
-    "kosakata": "発つ",
-    "bacaan": "たつ"
+    "kosakata": "貴ぶ",
+    "bacaan": "たっとぶ"
   },
   {
     "kosakata": "竜巻旋風脚",
@@ -6640,11 +6632,11 @@
     "bacaan": "たてしやいどう"
   },
   {
-    "kosakata": "喩え歌",
-    "bacaan": "たとえうた"
+    "kosakata": "喩え",
+    "bacaan": "たとえ"
   },
   {
-    "kosakata": "例え様も無い",
+    "kosakata": "例え様もない",
     "bacaan": "たとえようもない"
   },
   {
@@ -6696,20 +6688,20 @@
     "bacaan": "たびあきない"
   },
   {
-    "kosakata": "度毎",
-    "bacaan": "たびごと"
-  },
-  {
     "kosakata": "食べ比べる",
     "bacaan": "たべくらべる"
+  },
+  {
+    "kosakata": "給う",
+    "bacaan": "たまう"
   },
   {
     "kosakata": "給え",
     "bacaan": "たまえ"
   },
   {
-    "kosakata": "賜り物",
-    "bacaan": "たまわりもの"
+    "kosakata": "賜る",
+    "bacaan": "たまわる"
   },
   {
     "kosakata": "屯",
@@ -6724,16 +6716,32 @@
     "bacaan": "ためなおす"
   },
   {
+    "kosakata": "貯める",
+    "bacaan": "ためる"
+  },
+  {
     "kosakata": "保ち続ける",
     "bacaan": "たもちつづける"
+  },
+  {
+    "kosakata": "絶やす",
+    "bacaan": "たやす"
   },
   {
     "kosakata": "頼りに出来る",
     "bacaan": "たよりにできる"
   },
   {
+    "kosakata": "垂らす",
+    "bacaan": "たらす"
+  },
+  {
     "kosakata": "誰彼",
     "bacaan": "たれかれ"
+  },
+  {
+    "kosakata": "戯れ",
+    "bacaan": "たわむれ"
   },
   {
     "kosakata": "単弓綱",
@@ -6768,8 +6776,12 @@
     "bacaan": "たんれい"
   },
   {
-    "kosakata": "大学に受かる",
-    "bacaan": "だいがくにうかる"
+    "kosakata": "大豆油",
+    "bacaan": "だいずあぶら"
+  },
+  {
+    "kosakata": "大将季",
+    "bacaan": "だいまさき"
   },
   {
     "kosakata": "唾液分泌",
@@ -6800,6 +6812,14 @@
     "bacaan": "だれにもまして"
   },
   {
+    "kosakata": "弾劾裁判所",
+    "bacaan": "だんがいさいばんしょ"
+  },
+  {
+    "kosakata": "徴",
+    "bacaan": "ち"
+  },
+  {
     "kosakata": "地域興し",
     "bacaan": "ちいきおこし"
   },
@@ -6812,16 +6832,16 @@
     "bacaan": "ちかくきんこうせつ"
   },
   {
-    "kosakata": "地下に潜る",
-    "bacaan": "ちかにもぐる"
-  },
-  {
     "kosakata": "力拳",
     "bacaan": "ちからこぶし"
   },
   {
     "kosakata": "地球に優しい",
     "bacaan": "ちきゅうにやさしい"
+  },
+  {
+    "kosakata": "契り",
+    "bacaan": "ちぎり"
   },
   {
     "kosakata": "逐鹿",
@@ -6838,6 +6858,10 @@
   {
     "kosakata": "縮まる",
     "bacaan": "ちぢまる"
+  },
+  {
+    "kosakata": "縮み上がる",
+    "bacaan": "ちぢみあがる"
   },
   {
     "kosakata": "縮らす",
@@ -6936,24 +6960,20 @@
     "bacaan": "ちょうばつてきそんがいばいしょう"
   },
   {
-    "kosakata": "貼付剤",
-    "bacaan": "ちょうふざい"
+    "kosakata": "貼付",
+    "bacaan": "ちょうふ"
   },
   {
     "kosakata": "徴兵逃れ",
     "bacaan": "ちょうへいのがれ"
   },
   {
-    "kosakata": "眺望権",
-    "bacaan": "ちょうぼうけん"
+    "kosakata": "眺望",
+    "bacaan": "ちょうぼう"
   },
   {
     "kosakata": "跳躍競技",
     "bacaan": "ちょうやくきょうぎ"
-  },
-  {
-    "kosakata": "貯金を殖やす",
-    "bacaan": "ちょきんをふやす"
   },
   {
     "kosakata": "著作権侵害訴訟",
@@ -6962,6 +6982,10 @@
   {
     "kosakata": "貯湯槽",
     "bacaan": "ちょとうそう"
+  },
+  {
+    "kosakata": "散らかる",
+    "bacaan": "ちらかる"
   },
   {
     "kosakata": "散らばる",
@@ -6988,8 +7012,8 @@
     "bacaan": "ちんせき"
   },
   {
-    "kosakata": "賃貸借契約",
-    "bacaan": "ちんたいしゃくけいやく"
+    "kosakata": "賃貸借",
+    "bacaan": "ちんたいしゃく"
   },
   {
     "kosakata": "沈溺",
@@ -7012,12 +7036,20 @@
     "bacaan": "ついぞ"
   },
   {
+    "kosakata": "次いで",
+    "bacaan": "ついで"
+  },
+  {
+    "kosakata": "序でに",
+    "bacaan": "ついでに"
+  },
+  {
     "kosakata": "終に",
     "bacaan": "ついに"
   },
   {
-    "kosakata": "墜落場所",
-    "bacaan": "ついらくばしょ"
+    "kosakata": "費やす",
+    "bacaan": "ついやす"
   },
   {
     "kosakata": "痛恨の極み",
@@ -7056,16 +7088,28 @@
     "bacaan": "つかつくり"
   },
   {
+    "kosakata": "束ねる",
+    "bacaan": "つかねる"
+  },
+  {
+    "kosakata": "捕まえる",
+    "bacaan": "つかまえる"
+  },
+  {
+    "kosakata": "捕まる",
+    "bacaan": "つかまる"
+  },
+  {
+    "kosakata": "疲らす",
+    "bacaan": "つからす"
+  },
+  {
     "kosakata": "漬かる",
     "bacaan": "つかる"
   },
   {
     "kosakata": "疲れ果て",
     "bacaan": "つかれはて"
-  },
-  {
-    "kosakata": "番い目",
-    "bacaan": "つがいめ"
   },
   {
     "kosakata": "衝き動かす",
@@ -7076,12 +7120,24 @@
     "bacaan": "つきしたがう"
   },
   {
-    "kosakata": "注ぎ足す",
+    "kosakata": "月初め",
+    "bacaan": "つきはじめ"
+  },
+  {
+    "kosakata": "注ぎ足し",
+    "bacaan": "つぎたし"
+  },
+  {
+    "kosakata": "接ぎ足す",
     "bacaan": "つぎたす"
   },
   {
     "kosakata": "次の内閣",
     "bacaan": "つぎのないかく"
+  },
+  {
+    "kosakata": "点く",
+    "bacaan": "つく"
   },
   {
     "kosakata": "附く",
@@ -7100,8 +7156,8 @@
     "bacaan": "つぐ"
   },
   {
-    "kosakata": "次ぐ身",
-    "bacaan": "つぐみ"
+    "kosakata": "償い",
+    "bacaan": "つぐない"
   },
   {
     "kosakata": "浸けっ放し",
@@ -7113,6 +7169,10 @@
   },
   {
     "kosakata": "即ける",
+    "bacaan": "つける"
+  },
+  {
+    "kosakata": "就ける",
     "bacaan": "つける"
   },
   {
@@ -7136,16 +7196,16 @@
     "bacaan": "つちかう"
   },
   {
-    "kosakata": "己未",
-    "bacaan": "つちのとひつじ"
+    "kosakata": "己",
+    "bacaan": "つちのと"
   },
   {
     "kosakata": "土を均す",
     "bacaan": "つちをならす"
   },
   {
-    "kosakata": "突っ支い棒",
-    "bacaan": "つっかいぼう"
+    "kosakata": "突っ支い",
+    "bacaan": "つっかい"
   },
   {
     "kosakata": "釣った魚に餌をやらない",
@@ -7156,12 +7216,16 @@
     "bacaan": "つつしみ"
   },
   {
-    "kosakata": "慎み深い",
-    "bacaan": "つつしみぶかい"
+    "kosakata": "慎み",
+    "bacaan": "つつしみ"
   },
   {
-    "kosakata": "謹んで申し上げます",
-    "bacaan": "つつしんでもうしあげます"
+    "kosakata": "慎む",
+    "bacaan": "つつしむ"
+  },
+  {
+    "kosakata": "謹んで",
+    "bacaan": "つつしんで"
   },
   {
     "kosakata": "約やか",
@@ -7178,6 +7242,10 @@
   {
     "kosakata": "葛藤科",
     "bacaan": "つづらふじか"
+  },
+  {
+    "kosakata": "勤まらない",
+    "bacaan": "つとまらない"
   },
   {
     "kosakata": "務まる",
@@ -7202,6 +7270,10 @@
   {
     "kosakata": "恒",
     "bacaan": "つね"
+  },
+  {
+    "kosakata": "常日頃",
+    "bacaan": "つねひごろ"
   },
   {
     "kosakata": "角を生やす",
@@ -7256,8 +7328,8 @@
     "bacaan": "つむぎうた"
   },
   {
-    "kosakata": "冷たい戦争",
-    "bacaan": "つめたいせんそう"
+    "kosakata": "冷たい",
+    "bacaan": "つめたい"
   },
   {
     "kosakata": "爪に火を点す",
@@ -7268,8 +7340,8 @@
     "bacaan": "つもりつもる"
   },
   {
-    "kosakata": "通夜振る舞い",
-    "bacaan": "つやぶるまい"
+    "kosakata": "通夜見舞い",
+    "bacaan": "つやみまい"
   },
   {
     "kosakata": "艶めく",
@@ -7284,12 +7356,12 @@
     "bacaan": "つよまる"
   },
   {
-    "kosakata": "面汚し",
-    "bacaan": "つらよごし"
+    "kosakata": "強める",
+    "bacaan": "つよめる"
   },
   {
-    "kosakata": "鶴の巣籠り",
-    "bacaan": "つるのすごもり"
+    "kosakata": "面汚し",
+    "bacaan": "つらよごし"
   },
   {
     "kosakata": "提供価値",
@@ -7304,92 +7376,64 @@
     "bacaan": "ていたく"
   },
   {
-    "kosakata": "体良く断る",
+    "kosakata": "体よく断る",
     "bacaan": "ていよくことわる"
+  },
+  {
+    "kosakata": "手械",
+    "bacaan": "てかせ"
   },
   {
     "kosakata": "適格請求書等保存方式",
     "bacaan": "てきかくせいきゅうしょなどほぞんほうしき"
   },
   {
-    "kosakata": "敵に後ろを見せる",
-    "bacaan": "てきにうしろをみせる"
+    "kosakata": "嫡出子",
+    "bacaan": "てきしゅつし"
   },
   {
-    "kosakata": "敵に捕らわれる",
-    "bacaan": "てきにとらわれる"
+    "kosakata": "敵に後ろを見せる",
+    "bacaan": "てきにうしろをみせる"
   },
   {
     "kosakata": "手提げ籠",
     "bacaan": "てさげかご"
   },
   {
-    "kosakata": "手擦れる",
-    "bacaan": "てずれる"
-  },
-  {
-    "kosakata": "鉄の固まり",
-    "bacaan": "てつのかたまり"
-  },
-  {
     "kosakata": "鉄は熱い内に鍛えよ",
     "bacaan": "てつはあついうちにきたえよ"
   },
   {
-    "kosakata": "手懐ける",
-    "bacaan": "てなずける"
-  },
-  {
-    "kosakata": "手懐ける",
-    "bacaan": "てなづける"
-  },
-  {
-    "kosakata": "手に職を就ける",
-    "bacaan": "てにしょくをつける"
-  },
-  {
-    "kosakata": "手に職を着ける",
-    "bacaan": "てにしょくをつける"
+    "kosakata": "手習い",
+    "bacaan": "てならい"
   },
   {
     "kosakata": "掌を返す",
     "bacaan": "てのひらをかえす"
   },
   {
-    "kosakata": "手間隙",
-    "bacaan": "てまひま"
+    "kosakata": "照らす",
+    "bacaan": "てらす"
   },
   {
     "kosakata": "照れる",
     "bacaan": "てれる"
   },
   {
-    "kosakata": "手練手管",
-    "bacaan": "てれんてくだ"
-  },
-  {
-    "kosakata": "手を束ねる",
-    "bacaan": "てをつかねる"
+    "kosakata": "手を空かす",
+    "bacaan": "てをすかす"
   },
   {
     "kosakata": "天涯比隣",
     "bacaan": "てんがいひりん"
   },
   {
-    "kosakata": "典型例",
-    "bacaan": "てんけいれい"
-  },
-  {
-    "kosakata": "貼合",
-    "bacaan": "てんごう"
+    "kosakata": "典型",
+    "bacaan": "てんけい"
   },
   {
     "kosakata": "天災は忘れた頃にやってくる",
     "bacaan": "てんさいはわすれたころにやってくる"
-  },
-  {
-    "kosakata": "転石苔生さず",
-    "bacaan": "てんせきこけむさず"
   },
   {
     "kosakata": "天然由来",
@@ -7400,8 +7444,12 @@
     "bacaan": "てんはみずからたすくるものをたすく"
   },
   {
-    "kosakata": "伝馬船",
-    "bacaan": "てんまぶね"
+    "kosakata": "貼付",
+    "bacaan": "てんぷ"
+  },
+  {
+    "kosakata": "伝馬",
+    "bacaan": "てんま"
   },
   {
     "kosakata": "天網恢恢疎にして漏らさず",
@@ -7480,6 +7528,10 @@
     "bacaan": "とうしをもやす"
   },
   {
+    "kosakata": "尊い",
+    "bacaan": "とうとい"
+  },
+  {
     "kosakata": "貴い",
     "bacaan": "とうとい"
   },
@@ -7502,6 +7554,10 @@
   {
     "kosakata": "遠退ける",
     "bacaan": "とおのける"
+  },
+  {
+    "kosakata": "溶かす",
+    "bacaan": "とかす"
   },
   {
     "kosakata": "融かす",
@@ -7536,8 +7592,8 @@
     "bacaan": "とく"
   },
   {
-    "kosakata": "特定船舶整備公団",
-    "bacaan": "とくていせんぱくせいびこうだん"
+    "kosakata": "読書",
+    "bacaan": "とくしょ"
   },
   {
     "kosakata": "徳は孤ならず必ず隣あり",
@@ -7548,12 +7604,12 @@
     "bacaan": "とくめいけいじばん"
   },
   {
-    "kosakata": "融け水",
-    "bacaan": "とけみず"
+    "kosakata": "解ける",
+    "bacaan": "とける"
   },
   {
-    "kosakata": "刺蕃茘枝",
-    "bacaan": "とげばんれいし"
+    "kosakata": "刺抜き",
+    "bacaan": "とげぬき"
   },
   {
     "kosakata": "常滑市立陶芸研究所",
@@ -7572,12 +7628,12 @@
     "bacaan": "とざまだいみょう"
   },
   {
-    "kosakata": "年改まる",
-    "bacaan": "としあらたまる"
-  },
-  {
     "kosakata": "歳の市",
     "bacaan": "としのいち"
+  },
+  {
+    "kosakata": "年を追う毎に",
+    "bacaan": "としをおうごとに"
   },
   {
     "kosakata": "閉じ込める",
@@ -7588,28 +7644,40 @@
     "bacaan": "とちばにんじん"
   },
   {
-    "kosakata": "取っ捕まる",
-    "bacaan": "とっつかまる"
-  },
-  {
-    "kosakata": "凸凹紙",
-    "bacaan": "とつおうし"
+    "kosakata": "突顎",
+    "bacaan": "とつがく"
   },
   {
     "kosakata": "十月十日",
     "bacaan": "とつきとおか"
   },
   {
-    "kosakata": "嫁ぎ先",
-    "bacaan": "とつぎさき"
+    "kosakata": "嫁ぐ",
+    "bacaan": "とつぐ"
+  },
+  {
+    "kosakata": "整う",
+    "bacaan": "ととのう"
+  },
+  {
+    "kosakata": "調う",
+    "bacaan": "ととのう"
+  },
+  {
+    "kosakata": "整え",
+    "bacaan": "ととのえ"
   },
   {
     "kosakata": "届け済み",
     "bacaan": "とどけずみ"
   },
   {
-    "kosakata": "滞り無く",
-    "bacaan": "とどこおりなく"
+    "kosakata": "滞り",
+    "bacaan": "とどこおり"
+  },
+  {
+    "kosakata": "止める",
+    "bacaan": "とどめる"
   },
   {
     "kosakata": "止めを刺す",
@@ -7624,16 +7692,12 @@
     "bacaan": "となみ"
   },
   {
-    "kosakata": "隣の芝は青い",
-    "bacaan": "となりのしばはあおい"
-  },
-  {
     "kosakata": "殿守",
     "bacaan": "とのもり"
   },
   {
-    "kosakata": "登坂車線",
-    "bacaan": "とはんしゃせん"
+    "kosakata": "登坂",
+    "bacaan": "とはん"
   },
   {
     "kosakata": "跳び退く",
@@ -7644,16 +7708,16 @@
     "bacaan": "とぶ"
   },
   {
-    "kosakata": "飛ぶように売れる",
-    "bacaan": "とぶようにうれる"
-  },
-  {
-    "kosakata": "弔い上げ",
-    "bacaan": "とぶらいあげ"
+    "kosakata": "弔い",
+    "bacaan": "とぶらい"
   },
   {
     "kosakata": "乏しい",
     "bacaan": "とぼしい"
+  },
+  {
+    "kosakata": "点す",
+    "bacaan": "とぼす"
   },
   {
     "kosakata": "枢",
@@ -7665,6 +7729,10 @@
   },
   {
     "kosakata": "停まる",
+    "bacaan": "とまる"
+  },
+  {
+    "kosakata": "留まる",
     "bacaan": "とまる"
   },
   {
@@ -7700,16 +7768,16 @@
     "bacaan": "ともしい"
   },
   {
-    "kosakata": "灯し火",
-    "bacaan": "ともしび"
+    "kosakata": "灯す",
+    "bacaan": "ともす"
   },
   {
     "kosakata": "共々",
     "bacaan": "ともども"
   },
   {
-    "kosakata": "豊田紡織",
-    "bacaan": "とよだぼうしょく"
+    "kosakata": "豊田自動織機",
+    "bacaan": "とよたじどうしょっき"
   },
   {
     "kosakata": "虎は死して皮を留め人は死して名を残す",
@@ -7724,8 +7792,12 @@
     "bacaan": "とらわれたかんがえ"
   },
   {
-    "kosakata": "虎を画きて狗に類す",
-    "bacaan": "とらをえがきていぬにるいす"
+    "kosakata": "捕らわれる",
+    "bacaan": "とらわれる"
+  },
+  {
+    "kosakata": "取り敢えず",
+    "bacaan": "とりあえず"
   },
   {
     "kosakata": "取扱店舗",
@@ -7740,28 +7812,36 @@
     "bacaan": "とりこ"
   },
   {
-    "kosakata": "取り散らかる",
-    "bacaan": "とりちらかる"
+    "kosakata": "取り調べる",
+    "bacaan": "とりしらべる"
+  },
+  {
+    "kosakata": "取り繕う",
+    "bacaan": "とりつくろう"
   },
   {
     "kosakata": "塁",
     "bacaan": "とりで"
   },
   {
-    "kosakata": "取り計らう",
-    "bacaan": "とりはからう"
+    "kosakata": "取り拉ぐ",
+    "bacaan": "とりひしぐ"
   },
   {
-    "kosakata": "取り紛れる",
-    "bacaan": "とりまぎれる"
+    "kosakata": "取り乱す",
+    "bacaan": "とりみだす"
   },
   {
     "kosakata": "捕り物控え",
     "bacaan": "とりものひかえ"
   },
   {
-    "kosakata": "取る物も取り敢えず",
-    "bacaan": "とるものもとりあえず"
+    "kosakata": "摂る",
+    "bacaan": "とる"
+  },
+  {
+    "kosakata": "頓着ない",
+    "bacaan": "とんじゃくない"
   },
   {
     "kosakata": "貪瞋痴",
@@ -7774,6 +7854,10 @@
   {
     "kosakata": "頓と",
     "bacaan": "とんと"
+  },
+  {
+    "kosakata": "鳶が鷹を生む",
+    "bacaan": "とんびがたかをうむ"
   },
   {
     "kosakata": "憧憬",
@@ -7796,8 +7880,8 @@
     "bacaan": "どうていとせつ"
   },
   {
-    "kosakata": "同病相哀れむ",
-    "bacaan": "どうびょうあいあわれむ"
+    "kosakata": "動揺",
+    "bacaan": "どうよう"
   },
   {
     "kosakata": "退く",
@@ -7818,10 +7902,6 @@
   {
     "kosakata": "奴隷王朝",
     "bacaan": "どれいおうちょう"
-  },
-  {
-    "kosakata": "度を超す",
-    "bacaan": "どをこす"
   },
   {
     "kosakata": "団栗眼",
@@ -7852,8 +7932,8 @@
     "bacaan": "ないし"
   },
   {
-    "kosakata": "萎え落ち",
-    "bacaan": "なえおち"
+    "kosakata": "ない交ぜにする",
+    "bacaan": "ないまぜにする"
   },
   {
     "kosakata": "萎える",
@@ -7888,6 +7968,10 @@
     "bacaan": "なかむつまじい"
   },
   {
+    "kosakata": "名が挙がる",
+    "bacaan": "ながあがる"
+  },
+  {
     "kosakata": "永続き",
     "bacaan": "ながつづき"
   },
@@ -7900,24 +7984,12 @@
     "bacaan": "ながれだま"
   },
   {
-    "kosakata": "長患い",
-    "bacaan": "ながわずらい"
-  },
-  {
     "kosakata": "長煩い",
     "bacaan": "ながわずらい"
   },
   {
-    "kosakata": "無きに等しい",
-    "bacaan": "なきにひとしい"
-  },
-  {
     "kosakata": "泣き腫らす",
     "bacaan": "なきはらす"
-  },
-  {
-    "kosakata": "泣く子も黙る",
-    "bacaan": "なくこもだまる"
   },
   {
     "kosakata": "鳴く蝉よりも鳴かぬ蛍が身を焦がす",
@@ -7940,16 +8012,24 @@
     "bacaan": "なげきくらす"
   },
   {
+    "kosakata": "投げる",
+    "bacaan": "なげる"
+  },
+  {
     "kosakata": "媒",
     "bacaan": "なこうど"
+  },
+  {
+    "kosakata": "和む",
+    "bacaan": "なごむ"
   },
   {
     "kosakata": "和やか",
     "bacaan": "なごやか"
   },
   {
-    "kosakata": "情け容赦無く",
-    "bacaan": "なさけようしゃなく"
+    "kosakata": "情け容赦",
+    "bacaan": "なさけようしゃ"
   },
   {
     "kosakata": "為し終える",
@@ -7964,6 +8044,10 @@
     "bacaan": "なす"
   },
   {
+    "kosakata": "懐く",
+    "bacaan": "なずく"
+  },
+  {
     "kosakata": "謎掛け",
     "bacaan": "なぞかけ"
   },
@@ -7972,8 +8056,16 @@
     "bacaan": "なぞらえる"
   },
   {
+    "kosakata": "懐かしむ",
+    "bacaan": "なつかしむ"
+  },
+  {
     "kosakata": "懐く",
     "bacaan": "なつく"
+  },
+  {
+    "kosakata": "懐ける",
+    "bacaan": "なつける"
   },
   {
     "kosakata": "夏館",
@@ -7992,28 +8084,12 @@
     "bacaan": "ななめちゅうしゃ"
   },
   {
-    "kosakata": "何が悲しくて",
-    "bacaan": "なにがかなしくて"
+    "kosakata": "何呉",
+    "bacaan": "なにくれ"
   },
   {
-    "kosakata": "何呉と無く",
-    "bacaan": "なにくれとなく"
-  },
-  {
-    "kosakata": "何事に拠らず",
-    "bacaan": "なにごとによらず"
-  },
-  {
-    "kosakata": "何を措いても",
-    "bacaan": "なにをおいても"
-  },
-  {
-    "kosakata": "生暖か",
-    "bacaan": "なまあたたか"
-  },
-  {
-    "kosakata": "生温か",
-    "bacaan": "なまあたたか"
+    "kosakata": "生暖かい",
+    "bacaan": "なまあたたかい"
   },
   {
     "kosakata": "鈍ら",
@@ -8030,6 +8106,10 @@
   {
     "kosakata": "艶めく",
     "bacaan": "なまめく"
+  },
+  {
+    "kosakata": "鈍る",
+    "bacaan": "なまる"
   },
   {
     "kosakata": "並孔針",
@@ -8060,20 +8140,16 @@
     "bacaan": "なりかわる"
   },
   {
-    "kosakata": "鳴りを静める",
-    "bacaan": "なりをしずめる"
-  },
-  {
     "kosakata": "慣れ親しむ",
     "bacaan": "なれしたしむ"
   },
   {
-    "kosakata": "苗代時",
-    "bacaan": "なわしろどき"
+    "kosakata": "苗代",
+    "bacaan": "なわしろ"
   },
   {
-    "kosakata": "納戸色",
-    "bacaan": "なんどいろ"
+    "kosakata": "納戸",
+    "bacaan": "なんど"
   },
   {
     "kosakata": "何の某",
@@ -8116,7 +8192,7 @@
     "bacaan": "にがおえ"
   },
   {
-    "kosakata": "苦味走った",
+    "kosakata": "苦み走った",
     "bacaan": "にがみばしった"
   },
   {
@@ -8128,8 +8204,8 @@
     "bacaan": "にぎりしめる"
   },
   {
-    "kosakata": "憎しみ合う",
-    "bacaan": "にくしみあう"
+    "kosakata": "憎しみ",
+    "bacaan": "にくしみ"
   },
   {
     "kosakata": "悪む",
@@ -8144,8 +8220,8 @@
     "bacaan": "にこごり"
   },
   {
-    "kosakata": "濁り点",
-    "bacaan": "にごりてん"
+    "kosakata": "濁り",
+    "bacaan": "にごり"
   },
   {
     "kosakata": "西向く士",
@@ -8160,16 +8236,8 @@
     "bacaan": "にせちち"
   },
   {
-    "kosakata": "二世の契り",
-    "bacaan": "にせのちぎり"
-  },
-  {
     "kosakata": "日猶同祖論",
     "bacaan": "にちゆどうそろん"
-  },
-  {
-    "kosakata": "日本外洋帆走協会",
-    "bacaan": "にっぽんがいようはんそうきょうかい"
   },
   {
     "kosakata": "日本健康太極拳協会",
@@ -8178,10 +8246,6 @@
   {
     "kosakata": "日本小児内分泌学会",
     "bacaan": "にっぽんしょうにないぶんぴつがっかい"
-  },
-  {
-    "kosakata": "煮溶かす",
-    "bacaan": "にとかす"
   },
   {
     "kosakata": "丹塗り",
@@ -8208,12 +8272,20 @@
     "bacaan": "にょぜがもん"
   },
   {
+    "kosakata": "によって異なる",
+    "bacaan": "によってことなる"
+  },
+  {
+    "kosakata": "に拠る",
+    "bacaan": "による"
+  },
+  {
     "kosakata": "仁輪加狂言",
     "bacaan": "にわかきょうげん"
   },
   {
-    "kosakata": "鶏小屋",
-    "bacaan": "にわとりごや"
+    "kosakata": "鶏",
+    "bacaan": "にわとり"
   },
   {
     "kosakata": "庭の訓え",
@@ -8236,8 +8308,8 @@
     "bacaan": "ぬかる"
   },
   {
-    "kosakata": "緯",
-    "bacaan": "ぬき"
+    "kosakata": "緯糸",
+    "bacaan": "ぬきいと"
   },
   {
     "kosakata": "貫き通す",
@@ -8248,8 +8320,8 @@
     "bacaan": "ぬぎちらかす"
   },
   {
-    "kosakata": "温め酒",
-    "bacaan": "ぬくめざけ"
+    "kosakata": "温み",
+    "bacaan": "ぬくみ"
   },
   {
     "kosakata": "脱げる",
@@ -8276,16 +8348,20 @@
     "bacaan": "ねいかかいぞくじちく"
   },
   {
+    "kosakata": "寝かす",
+    "bacaan": "ねかす"
+  },
+  {
+    "kosakata": "願",
+    "bacaan": "ねがい"
+  },
+  {
     "kosakata": "労い",
     "bacaan": "ねぎらい"
   },
   {
     "kosakata": "労う",
     "bacaan": "ねぎらう"
-  },
-  {
-    "kosakata": "寝醒める",
-    "bacaan": "ねざめる"
   },
   {
     "kosakata": "寝静まる",
@@ -8328,10 +8404,6 @@
     "bacaan": "ねむい"
   },
   {
-    "kosakata": "睡気",
-    "bacaan": "ねむけ"
-  },
-  {
     "kosakata": "根室測候所",
     "bacaan": "ねむろそっこうじょ"
   },
@@ -8346,6 +8418,10 @@
   {
     "kosakata": "練塀",
     "bacaan": "ねりべい"
+  },
+  {
+    "kosakata": "練る",
+    "bacaan": "ねる"
   },
   {
     "kosakata": "年貢の納め時",
@@ -8384,16 +8460,8 @@
     "bacaan": "のこる"
   },
   {
-    "kosakata": "延し台",
-    "bacaan": "のしだい"
-  },
-  {
     "kosakata": "伸す",
     "bacaan": "のす"
-  },
-  {
-    "kosakata": "載せ込み",
-    "bacaan": "のせこみ"
   },
   {
     "kosakata": "覗機関",
@@ -8416,28 +8484,32 @@
     "bacaan": "のだて"
   },
   {
+    "kosakata": "載っかる",
+    "bacaan": "のっかる"
+  },
+  {
     "kosakata": "則る",
     "bacaan": "のっとる"
+  },
+  {
+    "kosakata": "咽",
+    "bacaan": "のど"
   },
   {
     "kosakata": "喉が渇く",
     "bacaan": "のどがかわく"
   },
   {
-    "kosakata": "咽元思案",
-    "bacaan": "のどもとじあん"
-  },
-  {
-    "kosakata": "喉を潤す",
-    "bacaan": "のどをうるおす"
-  },
-  {
     "kosakata": "野に伏し山に伏す",
     "bacaan": "のにふしやまにふす"
   },
   {
-    "kosakata": "罵り合う",
-    "bacaan": "ののしりあう"
+    "kosakata": "罵る",
+    "bacaan": "ののしる"
+  },
+  {
+    "kosakata": "延び延び",
+    "bacaan": "のびのび"
   },
   {
     "kosakata": "伸び広がる",
@@ -8448,16 +8520,16 @@
     "bacaan": "のべつぼすう"
   },
   {
+    "kosakata": "上せる",
+    "bacaan": "のぼせる"
+  },
+  {
     "kosakata": "上り降り",
     "bacaan": "のぼりくだり"
   },
   {
     "kosakata": "昇り下り",
     "bacaan": "のぼりくだり"
-  },
-  {
-    "kosakata": "飲み止す",
-    "bacaan": "のみさす"
   },
   {
     "kosakata": "飲み潰れる",
@@ -8492,16 +8564,16 @@
     "bacaan": "のろう"
   },
   {
-    "kosakata": "暖気",
-    "bacaan": "のんき"
-  },
-  {
-    "kosakata": "拝謁",
-    "bacaan": "はいえつ"
+    "kosakata": "暖簾",
+    "bacaan": "のんれん"
   },
   {
     "kosakata": "灰押さえ",
     "bacaan": "はいおさえ"
+  },
+  {
+    "kosakata": "排斥",
+    "bacaan": "はいせき"
   },
   {
     "kosakata": "肺を病む",
@@ -8520,6 +8592,10 @@
     "bacaan": "はかどる"
   },
   {
+    "kosakata": "計らう",
+    "bacaan": "はからう"
+  },
+  {
     "kosakata": "諮らう",
     "bacaan": "はからう"
   },
@@ -8528,12 +8604,16 @@
     "bacaan": "はかりかねる"
   },
   {
-    "kosakata": "謀は密なるを良しとす",
-    "bacaan": "はかりごとはみつなるをよしとす"
+    "kosakata": "謀",
+    "bacaan": "はかりごと"
   },
   {
     "kosakata": "剝がし暦",
     "bacaan": "はがしごよみ"
+  },
+  {
+    "kosakata": "剝がす",
+    "bacaan": "はがす"
   },
   {
     "kosakata": "鋼の錬金術師",
@@ -8576,12 +8656,20 @@
     "bacaan": "はぐくむ"
   },
   {
+    "kosakata": "逸る",
+    "bacaan": "はぐる"
+  },
+  {
+    "kosakata": "激しい",
+    "bacaan": "はげしい"
+  },
+  {
     "kosakata": "烈しい",
     "bacaan": "はげしい"
   },
   {
-    "kosakata": "激同",
-    "bacaan": "はげどう"
+    "kosakata": "励ます",
+    "bacaan": "はげます"
   },
   {
     "kosakata": "剝げる",
@@ -8596,10 +8684,6 @@
     "bacaan": "はこびいれる"
   },
   {
-    "kosakata": "刃毀れ",
-    "bacaan": "はこぼれ"
-  },
-  {
     "kosakata": "挿む",
     "bacaan": "はさむ"
   },
@@ -8612,6 +8696,10 @@
     "bacaan": "はしばみ"
   },
   {
+    "kosakata": "燥ぐ",
+    "bacaan": "はしゃぐ"
+  },
+  {
     "kosakata": "奔る",
     "bacaan": "はしる"
   },
@@ -8620,12 +8708,16 @@
     "bacaan": "はじ"
   },
   {
-    "kosakata": "弾ける",
-    "bacaan": "はじける"
+    "kosakata": "始まる",
+    "bacaan": "はじまる"
   },
   {
     "kosakata": "創める",
     "bacaan": "はじめる"
+  },
+  {
+    "kosakata": "恥じらう",
+    "bacaan": "はじらう"
   },
   {
     "kosakata": "羞じらう",
@@ -8646,10 +8738,6 @@
   {
     "kosakata": "勢車",
     "bacaan": "はずみぐるま"
-  },
-  {
-    "kosakata": "巴豆油",
-    "bacaan": "はずゆ"
   },
   {
     "kosakata": "爆ぜる",
@@ -8724,12 +8812,8 @@
     "bacaan": "はなしがはずむ"
   },
   {
-    "kosakata": "話を遮る",
-    "bacaan": "はなしをさえぎる"
-  },
-  {
-    "kosakata": "花に浮かれる",
-    "bacaan": "はなにうかれる"
+    "kosakata": "花便り",
+    "bacaan": "はなだより"
   },
   {
     "kosakata": "華の都",
@@ -8748,12 +8832,8 @@
     "bacaan": "はなぶさ"
   },
   {
-    "kosakata": "花も恥じらう",
-    "bacaan": "はなもはじらう"
-  },
-  {
-    "kosakata": "花を傷める",
-    "bacaan": "はなをいためる"
+    "kosakata": "放れる",
+    "bacaan": "はなれる"
   },
   {
     "kosakata": "跳ね起きる",
@@ -8762,6 +8842,10 @@
   {
     "kosakata": "羽休め",
     "bacaan": "はねやすめ"
+  },
+  {
+    "kosakata": "阻む",
+    "bacaan": "はばむ"
   },
   {
     "kosakata": "侍る",
@@ -8784,6 +8868,10 @@
     "bacaan": "はやしばらびじゅつかん"
   },
   {
+    "kosakata": "早発ち",
+    "bacaan": "はやだち"
+  },
+  {
     "kosakata": "早池峰薄雪草",
     "bacaan": "はやちねうすゆきそう"
   },
@@ -8792,12 +8880,16 @@
     "bacaan": "はやまる"
   },
   {
-    "kosakata": "速業",
-    "bacaan": "はやわざ"
+    "kosakata": "早める",
+    "bacaan": "はやめる"
   },
   {
-    "kosakata": "腹が決まる",
-    "bacaan": "はらがきまる"
+    "kosakata": "速める",
+    "bacaan": "はやめる"
+  },
+  {
+    "kosakata": "速業",
+    "bacaan": "はやわざ"
   },
   {
     "kosakata": "妊む",
@@ -8808,8 +8900,8 @@
     "bacaan": "はらわたのくさった"
   },
   {
-    "kosakata": "腹を空かす",
-    "bacaan": "はらをすかす"
+    "kosakata": "腹を割って話す",
+    "bacaan": "はらをわってはなす"
   },
   {
     "kosakata": "春摘み",
@@ -8818,10 +8910,6 @@
   {
     "kosakata": "晴れ後曇り",
     "bacaan": "はれのちくもり"
-  },
-  {
-    "kosakata": "晴々",
-    "bacaan": "はればれ"
   },
   {
     "kosakata": "腫れ物に触るよう",
@@ -8856,6 +8944,10 @@
     "bacaan": "はんこんこうしゅく"
   },
   {
+    "kosakata": "帆走",
+    "bacaan": "はんそう"
+  },
+  {
     "kosakata": "藩庁",
     "bacaan": "はんちょう"
   },
@@ -8864,8 +8956,8 @@
     "bacaan": "はんでんしゅうじゅのほう"
   },
   {
-    "kosakata": "般若波羅蜜多心経",
-    "bacaan": "はんにゃはらみったしんぎょう"
+    "kosakata": "般若波羅蜜多",
+    "bacaan": "はんにゃはらみった"
   },
   {
     "kosakata": "犯人を匿う",
@@ -8876,8 +8968,8 @@
     "bacaan": "はんばいねだん"
   },
   {
-    "kosakata": "頒布会",
-    "bacaan": "はんぷかい"
+    "kosakata": "頒白",
+    "bacaan": "はんぱく"
   },
   {
     "kosakata": "煩忙",
@@ -8888,24 +8980,16 @@
     "bacaan": "はんも"
   },
   {
-    "kosakata": "伴侶動物",
-    "bacaan": "はんりょどうぶつ"
+    "kosakata": "伴侶",
+    "bacaan": "はんりょ"
   },
   {
     "kosakata": "凡例",
     "bacaan": "はんれい"
   },
   {
-    "kosakata": "婆ちゃん子",
-    "bacaan": "ばあちゃんこ"
-  },
-  {
     "kosakata": "陪塚",
     "bacaan": "ばいちょう"
-  },
-  {
-    "kosakata": "唄葉",
-    "bacaan": "ばいよう"
   },
   {
     "kosakata": "枚を含む",
@@ -8924,8 +9008,8 @@
     "bacaan": "ばくすい"
   },
   {
-    "kosakata": "暴露戦術",
-    "bacaan": "ばくろせんじゅつ"
+    "kosakata": "暴露",
+    "bacaan": "ばくろ"
   },
   {
     "kosakata": "化けの皮を現す",
@@ -8956,8 +9040,16 @@
     "bacaan": "ばんたんせん"
   },
   {
+    "kosakata": "秀でる",
+    "bacaan": "ひいでる"
+  },
+  {
     "kosakata": "冷え募る",
     "bacaan": "ひえつのる"
+  },
+  {
+    "kosakata": "控える",
+    "bacaan": "ひかえる"
   },
   {
     "kosakata": "比較解剖学",
@@ -8976,6 +9068,10 @@
     "bacaan": "ひかりかびんせいほっさ"
   },
   {
+    "kosakata": "光の速さ",
+    "bacaan": "ひかりのはやさ"
+  },
+  {
     "kosakata": "被官百姓",
     "bacaan": "ひかんびゃくしょう"
   },
@@ -8984,16 +9080,20 @@
     "bacaan": "ひがしまわり"
   },
   {
-    "kosakata": "火が点く",
-    "bacaan": "ひがつく"
-  },
-  {
     "kosakata": "率いる",
     "bacaan": "ひきいる"
   },
   {
     "kosakata": "弾き応え",
     "bacaan": "ひきごたえ"
+  },
+  {
+    "kosakata": "引き締まる",
+    "bacaan": "ひきしまる"
+  },
+  {
+    "kosakata": "引き連れる",
+    "bacaan": "ひきつれる"
   },
   {
     "kosakata": "悲泣",
@@ -9014,6 +9114,10 @@
   {
     "kosakata": "退け際",
     "bacaan": "ひけぎわ"
+  },
+  {
+    "kosakata": "引ける",
+    "bacaan": "ひける"
   },
   {
     "kosakata": "卑下も自慢の中",
@@ -9048,6 +9152,10 @@
     "bacaan": "ひそう"
   },
   {
+    "kosakata": "密か",
+    "bacaan": "ひそか"
+  },
+  {
     "kosakata": "秘か",
     "bacaan": "ひそか"
   },
@@ -9056,40 +9164,16 @@
     "bacaan": "ひそか"
   },
   {
-    "kosakata": "飛騨の匠",
-    "bacaan": "ひだのたくみ"
-  },
-  {
     "kosakata": "左に折れる",
     "bacaan": "ひだりにおれる"
-  },
-  {
-    "kosakata": "引っ捕まえる",
-    "bacaan": "ひっつかまえる"
-  },
-  {
-    "kosakata": "引っ剝がす",
-    "bacaan": "ひっぱがす"
   },
   {
     "kosakata": "匹夫も志を奪うべからず",
     "bacaan": "ひっぷもこころざしをうばうべからず"
   },
   {
-    "kosakata": "引っ剝がす",
-    "bacaan": "ひっぺがす"
-  },
-  {
     "kosakata": "単帯",
     "bacaan": "ひとえおび"
-  },
-  {
-    "kosakata": "人が群れる",
-    "bacaan": "ひとがむれる"
-  },
-  {
-    "kosakata": "人恋しい",
-    "bacaan": "ひとこいしい"
   },
   {
     "kosakata": "斉しい",
@@ -9100,6 +9184,10 @@
     "bacaan": "ひとしく"
   },
   {
+    "kosakata": "一滴",
+    "bacaan": "ひとしずく"
+  },
+  {
     "kosakata": "一条縞蚊",
     "bacaan": "ひとすじしまか"
   },
@@ -9108,12 +9196,16 @@
     "bacaan": "ひとそれぞれ"
   },
   {
+    "kosakata": "一番",
+    "bacaan": "ひとつがい"
+  },
+  {
     "kosakata": "一つ宛",
     "bacaan": "ひとつづつ"
   },
   {
-    "kosakata": "人手を増やす",
-    "bacaan": "ひとでをふやす"
+    "kosakata": "一睡り",
+    "bacaan": "ひとねむり"
   },
   {
     "kosakata": "一節歌う",
@@ -9124,16 +9216,12 @@
     "bacaan": "ひとぼくせきにあらず"
   },
   {
-    "kosakata": "火点し頃",
-    "bacaan": "ひとぼしごろ"
+    "kosakata": "人身御供",
+    "bacaan": "ひとみごくう"
   },
   {
     "kosakata": "瞳を凝らす",
     "bacaan": "ひとみをこらす"
-  },
-  {
-    "kosakata": "一山幾ら",
-    "bacaan": "ひとやまいくら"
   },
   {
     "kosakata": "独り占い",
@@ -9144,10 +9232,6 @@
     "bacaan": "ひとわたり"
   },
   {
-    "kosakata": "人を陥れる",
-    "bacaan": "ひとをおとしいれる"
-  },
-  {
     "kosakata": "酷い目に遭わせる",
     "bacaan": "ひどいめにあわせる"
   },
@@ -9156,16 +9240,16 @@
     "bacaan": "ひなんをあびせる"
   },
   {
-    "kosakata": "日に異に",
-    "bacaan": "ひにけに"
-  },
-  {
     "kosakata": "捻くり回す",
     "bacaan": "ひねくりまわす"
   },
   {
     "kosakata": "陳ねこびる",
     "bacaan": "ひねこびる"
+  },
+  {
+    "kosakata": "捻る",
+    "bacaan": "ひねる"
   },
   {
     "kosakata": "丙午",
@@ -9184,6 +9268,10 @@
     "bacaan": "ひへい"
   },
   {
+    "kosakata": "隙取る",
+    "bacaan": "ひまどる"
+  },
+  {
     "kosakata": "暇に飽かす",
     "bacaan": "ひまにあかす"
   },
@@ -9196,12 +9284,8 @@
     "bacaan": "ひめ"
   },
   {
-    "kosakata": "姫初め",
-    "bacaan": "ひめはじめ"
-  },
-  {
-    "kosakata": "百尺竿頭",
-    "bacaan": "ひゃくせきかんとう"
+    "kosakata": "秘める",
+    "bacaan": "ひめる"
   },
   {
     "kosakata": "百葉箱",
@@ -9228,8 +9312,8 @@
     "bacaan": "ひょうかせぎ"
   },
   {
-    "kosakata": "剽軽者",
-    "bacaan": "ひょうきんもの"
+    "kosakata": "剽軽",
+    "bacaan": "ひょうきん"
   },
   {
     "kosakata": "表現型の可塑性",
@@ -9248,16 +9332,8 @@
     "bacaan": "ひょうはくしゃ"
   },
   {
-    "kosakata": "氷棚",
-    "bacaan": "ひょうほう"
-  },
-  {
     "kosakata": "兵糧攻め",
     "bacaan": "ひょうろうぜめ"
-  },
-  {
-    "kosakata": "平謝り",
-    "bacaan": "ひらあやまり"
   },
   {
     "kosakata": "開き直る",
@@ -9270,6 +9346,10 @@
   {
     "kosakata": "墾く",
     "bacaan": "ひらく"
+  },
+  {
+    "kosakata": "開ける",
+    "bacaan": "ひらける"
   },
   {
     "kosakata": "平家建",
@@ -9296,16 +9376,12 @@
     "bacaan": "ひろうす"
   },
   {
-    "kosakata": "拡がり角",
-    "bacaan": "ひろがりかく"
+    "kosakata": "拡がり",
+    "bacaan": "ひろがり"
   },
   {
     "kosakata": "広まる",
     "bacaan": "ひろまる"
-  },
-  {
-    "kosakata": "日を追う毎に",
-    "bacaan": "ひをおうごとに"
   },
   {
     "kosakata": "非を悟る",
@@ -9322,10 +9398,6 @@
   {
     "kosakata": "頻拍",
     "bacaan": "ひんぱく"
-  },
-  {
-    "kosakata": "美酒に酔う",
-    "bacaan": "びしゅによう"
   },
   {
     "kosakata": "鼻唇溝",
@@ -9350,10 +9422,6 @@
   {
     "kosakata": "白虎",
     "bacaan": "びゃっこ"
-  },
-  {
-    "kosakata": "病院を訪れる",
-    "bacaan": "びょういんをおとずれる"
   },
   {
     "kosakata": "猫額大の土地",
@@ -9396,10 +9464,6 @@
     "bacaan": "ふえん"
   },
   {
-    "kosakata": "不飲酒戒",
-    "bacaan": "ふおんじゅかい"
-  },
-  {
     "kosakata": "深い川は静かに流れる",
     "bacaan": "ふかいかわはしずかにながれる"
   },
@@ -9416,12 +9480,16 @@
     "bacaan": "ふかまる"
   },
   {
-    "kosakata": "吹き荒れる",
-    "bacaan": "ふきあれる"
+    "kosakata": "深める",
+    "bacaan": "ふかめる"
   },
   {
     "kosakata": "噴き零れる",
     "bacaan": "ふきこぼれる"
+  },
+  {
+    "kosakata": "吹き荒ぶ",
+    "bacaan": "ふきすさぶ"
   },
   {
     "kosakata": "吹き荒む",
@@ -9432,32 +9500,28 @@
     "bacaan": "ふきそうじ"
   },
   {
-    "kosakata": "不揮発性記憶装置",
-    "bacaan": "ふきはつせいきおくそうち"
-  },
-  {
-    "kosakata": "不孝",
-    "bacaan": "ふきょう"
-  },
-  {
     "kosakata": "副弐",
     "bacaan": "ふくじ"
-  },
-  {
-    "kosakata": "副読本",
-    "bacaan": "ふくとくほん"
   },
   {
     "kosakata": "複背斜",
     "bacaan": "ふくはいしゃ"
   },
   {
+    "kosakata": "含める",
+    "bacaan": "ふくめる"
+  },
+  {
+    "kosakata": "膨れる",
+    "bacaan": "ふくれる"
+  },
+  {
     "kosakata": "不遇を託つ",
     "bacaan": "ふぐうをかこつ"
   },
   {
-    "kosakata": "老け専",
-    "bacaan": "ふけせん"
+    "kosakata": "老け",
+    "bacaan": "ふけ"
   },
   {
     "kosakata": "更け待ち月",
@@ -9472,8 +9536,8 @@
     "bacaan": "ふさぎこむ"
   },
   {
-    "kosakata": "不邪淫戒",
-    "bacaan": "ふじゃいんかい"
+    "kosakata": "臥し転ぶ",
+    "bacaan": "ふしまろぶ"
   },
   {
     "kosakata": "防ぎ止める",
@@ -9484,8 +9548,8 @@
     "bacaan": "ふせん"
   },
   {
-    "kosakata": "扶桑社",
-    "bacaan": "ふそうしゃ"
+    "kosakata": "扶桑",
+    "bacaan": "ふそう"
   },
   {
     "kosakata": "弐心",
@@ -9532,10 +9596,6 @@
     "bacaan": "ふつトン"
   },
   {
-    "kosakata": "不逞の輩",
-    "bacaan": "ふていのやから"
-  },
-  {
     "kosakata": "筆を揮う",
     "bacaan": "ふでをふるう"
   },
@@ -9546,18 +9606,6 @@
   {
     "kosakata": "懐が痛む",
     "bacaan": "ふところがいたむ"
-  },
-  {
-    "kosakata": "懐が寂しい",
-    "bacaan": "ふところがさびしい"
-  },
-  {
-    "kosakata": "懐を痛める",
-    "bacaan": "ふところをいためる"
-  },
-  {
-    "kosakata": "不動の金縛り",
-    "bacaan": "ふどうのかなしばり"
   },
   {
     "kosakata": "船庫",
@@ -9588,16 +9636,24 @@
     "bacaan": "ふみとどまる"
   },
   {
-    "kosakata": "踏み留まる",
-    "bacaan": "ふみとどまる"
-  },
-  {
     "kosakata": "践む",
     "bacaan": "ふむ"
   },
   {
     "kosakata": "麓",
     "bacaan": "ふもと"
+  },
+  {
+    "kosakata": "増やす",
+    "bacaan": "ふやす"
+  },
+  {
+    "kosakata": "殖やす",
+    "bacaan": "ふやす"
+  },
+  {
+    "kosakata": "富裕",
+    "bacaan": "ふゆう"
   },
   {
     "kosakata": "冬仕度",
@@ -9608,12 +9664,12 @@
     "bacaan": "ふりかかるひのこははらわねばならぬ"
   },
   {
-    "kosakata": "降り頻る",
-    "bacaan": "ふりしきる"
-  },
-  {
     "kosakata": "奮い起つ",
     "bacaan": "ふるいたつ"
+  },
+  {
+    "kosakata": "震える",
+    "bacaan": "ふるえる"
   },
   {
     "kosakata": "古創",
@@ -9626,6 +9682,10 @@
   {
     "kosakata": "古び衰える",
     "bacaan": "ふるびおとろえる"
+  },
+  {
+    "kosakata": "旧人",
+    "bacaan": "ふるびと"
   },
   {
     "kosakata": "震わす",
@@ -9656,10 +9716,6 @@
     "bacaan": "ふんきゅうぼ"
   },
   {
-    "kosakata": "焚書坑儒",
-    "bacaan": "ふんしょこうじゅ"
-  },
-  {
     "kosakata": "憤怒調節障害",
     "bacaan": "ふんぬちょうせつしょうがい"
   },
@@ -9680,10 +9736,6 @@
     "bacaan": "ぶしのかがみ"
   },
   {
-    "kosakata": "武士は相身互い",
-    "bacaan": "ぶしはあいみたがい"
-  },
-  {
     "kosakata": "不祝儀",
     "bacaan": "ぶしゅうぎ"
   },
@@ -9700,16 +9752,12 @@
     "bacaan": "ぶちこわす"
   },
   {
-    "kosakata": "物議を醸す",
-    "bacaan": "ぶつぎをかもす"
-  },
-  {
     "kosakata": "仏罰",
     "bacaan": "ぶつばち"
   },
   {
-    "kosakata": "賦払い",
-    "bacaan": "ぶばらい"
+    "kosakata": "賦役",
+    "bacaan": "ぶやく"
   },
   {
     "kosakata": "分を弁える",
@@ -9722,10 +9770,6 @@
   {
     "kosakata": "蚊帳",
     "bacaan": "ぶんちょう"
-  },
-  {
-    "kosakata": "分捕る",
-    "bacaan": "ぶんどる"
   },
   {
     "kosakata": "平穏無事",
@@ -9750,6 +9794,10 @@
   {
     "kosakata": "塀を巡らす",
     "bacaan": "へいをめぐらす"
+  },
+  {
+    "kosakata": "剝ぐ",
+    "bacaan": "へぐ"
   },
   {
     "kosakata": "屁放き虫",
@@ -9804,10 +9852,6 @@
     "bacaan": "へんせんぷくばいりつ"
   },
   {
-    "kosakata": "変徴",
-    "bacaan": "へんち"
-  },
-  {
     "kosakata": "可し",
     "bacaan": "べし"
   },
@@ -9836,10 +9880,6 @@
     "bacaan": "ほうがんなげ"
   },
   {
-    "kosakata": "包茎",
-    "bacaan": "ほうきょう"
-  },
-  {
     "kosakata": "蜂群崩壊症候群",
     "bacaan": "ほうぐんほうかいしょうこうぐん"
   },
@@ -9856,32 +9896,24 @@
     "bacaan": "ほうし"
   },
   {
-    "kosakata": "放恣",
-    "bacaan": "ほうし"
-  },
-  {
     "kosakata": "奉ずる",
     "bacaan": "ほうずる"
   },
   {
-    "kosakata": "法廷侮辱罪",
-    "bacaan": "ほうていぶじょくざい"
+    "kosakata": "法廷侮辱",
+    "bacaan": "ほうていぶじょく"
   },
   {
     "kosakata": "傍輩",
     "bacaan": "ほうばい"
   },
   {
-    "kosakata": "葬り去る",
-    "bacaan": "ほうむりさる"
+    "kosakata": "葬る",
+    "bacaan": "ほうむる"
   },
   {
     "kosakata": "抱擁",
     "bacaan": "ほうよう"
-  },
-  {
-    "kosakata": "放り投げる",
-    "bacaan": "ほうりなげる"
   },
   {
     "kosakata": "豊漁",
@@ -9892,16 +9924,12 @@
     "bacaan": "ほうる"
   },
   {
-    "kosakata": "法令遵守",
-    "bacaan": "ほうれいじゅんしゅ"
-  },
-  {
     "kosakata": "飽和攻撃",
     "bacaan": "ほうわこうげき"
   },
   {
-    "kosakata": "朴葉味噌",
-    "bacaan": "ほおばみそ"
+    "kosakata": "朴の木",
+    "bacaan": "ほおのき"
   },
   {
     "kosakata": "頰紅",
@@ -9914,6 +9942,10 @@
   {
     "kosakata": "朗らか",
     "bacaan": "ほがらか"
+  },
+  {
+    "kosakata": "綻びる",
+    "bacaan": "ほころびる"
   },
   {
     "kosakata": "矛を収める",
@@ -9976,10 +10008,6 @@
     "bacaan": "ほどをすごす"
   },
   {
-    "kosakata": "骨を休める",
-    "bacaan": "ほねをやすめる"
-  },
-  {
     "kosakata": "頰",
     "bacaan": "ほほ"
   },
@@ -10018,6 +10046,10 @@
   {
     "kosakata": "亡びる",
     "bacaan": "ほろびる"
+  },
+  {
+    "kosakata": "亡ぶ",
+    "bacaan": "ほろぶ"
   },
   {
     "kosakata": "亡ぼす",
@@ -10080,6 +10112,10 @@
     "bacaan": "ぼだいをとむらう"
   },
   {
+    "kosakata": "勃起",
+    "bacaan": "ぼっき"
+  },
+  {
     "kosakata": "坊ちゃん刈り",
     "bacaan": "ぼっちゃんがり"
   },
@@ -10090,6 +10126,10 @@
   {
     "kosakata": "煩悩具足",
     "bacaan": "ぼんのうぐそく"
+  },
+  {
+    "kosakata": "梵唄",
+    "bacaan": "ぼんばい"
   },
   {
     "kosakata": "点袋",
@@ -10108,8 +10148,8 @@
     "bacaan": "まいない"
   },
   {
-    "kosakata": "詣り墓",
-    "bacaan": "まいりばか"
+    "kosakata": "詣る",
+    "bacaan": "まいる"
   },
   {
     "kosakata": "前屈み",
@@ -10124,8 +10164,8 @@
     "bacaan": "まかりこす"
   },
   {
-    "kosakata": "擬い物",
-    "bacaan": "まがいもの"
+    "kosakata": "擬い",
+    "bacaan": "まがい"
   },
   {
     "kosakata": "曲がり路",
@@ -10148,6 +10188,10 @@
     "bacaan": "まぎらわす"
   },
   {
+    "kosakata": "紛れる",
+    "bacaan": "まぎれる"
+  },
+  {
     "kosakata": "枕許",
     "bacaan": "まくらもと"
   },
@@ -10164,16 +10208,12 @@
     "bacaan": "まことに"
   },
   {
-    "kosakata": "誠にありがとう御座います",
-    "bacaan": "まことにありがとうございます"
+    "kosakata": "誠に",
+    "bacaan": "まことに"
   },
   {
     "kosakata": "孫請け",
     "bacaan": "まごうけ"
-  },
-  {
-    "kosakata": "将門記",
-    "bacaan": "まさかどき"
   },
   {
     "kosakata": "将に",
@@ -10196,6 +10236,10 @@
     "bacaan": "まさるともおとらない"
   },
   {
+    "kosakata": "交ざる",
+    "bacaan": "まざる"
+  },
+  {
     "kosakata": "雑える",
     "bacaan": "まじえる"
   },
@@ -10216,8 +10260,16 @@
     "bacaan": "ますぐみ"
   },
   {
+    "kosakata": "貧しい",
+    "bacaan": "まずしい"
+  },
+  {
     "kosakata": "混ぜご飯",
     "bacaan": "まぜごはん"
+  },
+  {
+    "kosakata": "交ぜる",
+    "bacaan": "まぜる"
   },
   {
     "kosakata": "復",
@@ -10228,12 +10280,12 @@
     "bacaan": "またずれ"
   },
   {
-    "kosakata": "瞬く間に",
-    "bacaan": "またたくまに"
+    "kosakata": "瞬く",
+    "bacaan": "またたく"
   },
   {
-    "kosakata": "又の名",
-    "bacaan": "またのな"
+    "kosakata": "又の日",
+    "bacaan": "またのひ"
   },
   {
     "kosakata": "未だ",
@@ -10244,8 +10296,8 @@
     "bacaan": "まだらかんむりかっこう"
   },
   {
-    "kosakata": "全くと言っていいほど",
-    "bacaan": "まったくといっていいほど"
+    "kosakata": "全き",
+    "bacaan": "まったき"
   },
   {
     "kosakata": "松下政経塾",
@@ -10284,6 +10336,10 @@
     "bacaan": "まにまに"
   },
   {
+    "kosakata": "免れる",
+    "bacaan": "まぬがれる"
+  },
+  {
     "kosakata": "目の辺り",
     "bacaan": "まのあたり"
   },
@@ -10296,6 +10352,14 @@
     "bacaan": "ままちち"
   },
   {
+    "kosakata": "魔魅",
+    "bacaan": "まみ"
+  },
+  {
+    "kosakata": "護り",
+    "bacaan": "まもり"
+  },
+  {
     "kosakata": "守りに入る",
     "bacaan": "まもりにはいる"
   },
@@ -10304,8 +10368,8 @@
     "bacaan": "まゆにつばをぬる"
   },
   {
-    "kosakata": "迷える子羊",
-    "bacaan": "まよえるこひつじ"
+    "kosakata": "迷える羊",
+    "bacaan": "まよえるひつじ"
   },
   {
     "kosakata": "丸い卵も切りようで四角",
@@ -10316,24 +10380,24 @@
     "bacaan": "まるがま"
   },
   {
+    "kosakata": "丸毎",
+    "bacaan": "まるごと"
+  },
+  {
     "kosakata": "円で囲む",
     "bacaan": "まるでかこむ"
+  },
+  {
+    "kosakata": "丸める",
+    "bacaan": "まるめる"
   },
   {
     "kosakata": "賓",
     "bacaan": "まろうど"
   },
   {
-    "kosakata": "転び出る",
-    "bacaan": "まろびでる"
-  },
-  {
     "kosakata": "円やか",
     "bacaan": "まろやか"
-  },
-  {
-    "kosakata": "周りの目",
-    "bacaan": "まわりのめ"
   },
   {
     "kosakata": "漫画喫茶",
@@ -10344,20 +10408,12 @@
     "bacaan": "まんがんじょうじゅ"
   },
   {
-    "kosakata": "満面朱を注ぐ",
-    "bacaan": "まんめんしゅをそそぐ"
-  },
-  {
     "kosakata": "見出だす",
     "bacaan": "みいだす"
   },
   {
     "kosakata": "見栄を張る",
     "bacaan": "みえをはる"
-  },
-  {
-    "kosakata": "未開墾地",
-    "bacaan": "みかいこんち"
   },
   {
     "kosakata": "帝揚羽",
@@ -10376,12 +10432,8 @@
     "bacaan": "みがなる"
   },
   {
-    "kosakata": "身が引き締まる",
-    "bacaan": "みがひきしまる"
-  },
-  {
-    "kosakata": "幹糸",
-    "bacaan": "みきいと"
+    "kosakata": "幹",
+    "bacaan": "みき"
   },
   {
     "kosakata": "右へ倣え",
@@ -10428,12 +10480,16 @@
     "bacaan": "みじめ"
   },
   {
-    "kosakata": "水で薄める",
-    "bacaan": "みずでうすめる"
+    "kosakata": "見透かす",
+    "bacaan": "みすかす"
   },
   {
     "kosakata": "水の低きに就くが如し",
     "bacaan": "みずのひくきにつくがごとし"
+  },
+  {
+    "kosakata": "水を注す",
+    "bacaan": "みずをさす"
   },
   {
     "kosakata": "淫ら",
@@ -10460,16 +10516,16 @@
     "bacaan": "みち"
   },
   {
-    "kosakata": "道標",
-    "bacaan": "みちしるべ"
+    "kosakata": "導き",
+    "bacaan": "みちびき"
   },
   {
     "kosakata": "充ち満ちる",
     "bacaan": "みちみちる"
   },
   {
-    "kosakata": "貢ぎ物",
-    "bacaan": "みつぎもの"
+    "kosakata": "貢ぎ",
+    "bacaan": "みつぎ"
   },
   {
     "kosakata": "未踏峰",
@@ -10492,10 +10548,6 @@
     "bacaan": "みなみびらきだいがく"
   },
   {
-    "kosakata": "観に行く",
-    "bacaan": "みにいく"
-  },
-  {
     "kosakata": "醜い",
     "bacaan": "みにくい"
   },
@@ -10504,24 +10556,20 @@
     "bacaan": "みねづたい"
   },
   {
-    "kosakata": "身の証を立てる",
-    "bacaan": "みのあかしをたてる"
+    "kosakata": "身の周り",
+    "bacaan": "みのまわり"
   },
   {
     "kosakata": "実るほど頭の下がる稲穂かな",
     "bacaan": "みのるほどあたまのさがるいなほかな"
   },
   {
-    "kosakata": "脈を診る",
-    "bacaan": "みゃくをみる"
-  },
-  {
     "kosakata": "京",
     "bacaan": "みやこ"
   },
   {
-    "kosakata": "雅び男",
-    "bacaan": "みやびお"
+    "kosakata": "雅びた",
+    "bacaan": "みやびた"
   },
   {
     "kosakata": "看破る",
@@ -10540,8 +10588,8 @@
     "bacaan": "みょうがにあまる"
   },
   {
-    "kosakata": "苗字帯刀",
-    "bacaan": "みょうじたいとう"
+    "kosakata": "苗字",
+    "bacaan": "みょうじ"
   },
   {
     "kosakata": "妙諦",
@@ -10552,32 +10600,12 @@
     "bacaan": "みる"
   },
   {
-    "kosakata": "見るのも汚らわしい",
-    "bacaan": "みるのもけがらわしい"
+    "kosakata": "観る",
+    "bacaan": "みる"
   },
   {
-    "kosakata": "魅惑的",
-    "bacaan": "みわくてき"
-  },
-  {
-    "kosakata": "身を修める",
-    "bacaan": "みをおさめる"
-  },
-  {
-    "kosakata": "身を沈める",
-    "bacaan": "みをしずめる"
-  },
-  {
-    "kosakata": "身を慎む",
-    "bacaan": "みをつつしむ"
-  },
-  {
-    "kosakata": "身を護る",
-    "bacaan": "みをまもる"
-  },
-  {
-    "kosakata": "身を委ねる",
-    "bacaan": "みをゆだねる"
+    "kosakata": "診る",
+    "bacaan": "みる"
   },
   {
     "kosakata": "民謡音階",
@@ -10592,8 +10620,8 @@
     "bacaan": "むかしなつかしい"
   },
   {
-    "kosakata": "昔を懐かしむ",
-    "bacaan": "むかしをなつかしむ"
+    "kosakata": "麦畑",
+    "bacaan": "むぎばたけ"
   },
   {
     "kosakata": "酬いる",
@@ -10616,8 +10644,8 @@
     "bacaan": "むこうがわ"
   },
   {
-    "kosakata": "向こう三軒両隣",
-    "bacaan": "むこうさんげんりょうどなり"
+    "kosakata": "向こう三軒",
+    "bacaan": "むこうさんげん"
   },
   {
     "kosakata": "惨い",
@@ -10636,12 +10664,20 @@
     "bacaan": "むしろ"
   },
   {
+    "kosakata": "難しい",
+    "bacaan": "むずかしい"
+  },
+  {
     "kosakata": "咽る",
     "bacaan": "むせる"
   },
   {
     "kosakata": "無駄を省く",
     "bacaan": "むだをはぶく"
+  },
+  {
+    "kosakata": "難しい",
+    "bacaan": "むつかしい"
   },
   {
     "kosakata": "六つ子",
@@ -10660,10 +10696,6 @@
     "bacaan": "むつらぼし"
   },
   {
-    "kosakata": "無頓着",
-    "bacaan": "むとんじゃく"
-  },
-  {
     "kosakata": "胸掛",
     "bacaan": "むながい"
   },
@@ -10672,12 +10704,16 @@
     "bacaan": "むながわら"
   },
   {
+    "kosakata": "空しく",
+    "bacaan": "むなしく"
+  },
+  {
     "kosakata": "胸が張り裂ける",
     "bacaan": "むねがはりさける"
   },
   {
-    "kosakata": "謀反人",
-    "bacaan": "むほんにん"
+    "kosakata": "謀反",
+    "bacaan": "むほん"
   },
   {
     "kosakata": "群がる",
@@ -10696,6 +10732,10 @@
     "bacaan": "むらさめ"
   },
   {
+    "kosakata": "蒸らす",
+    "bacaan": "むらす"
+  },
+  {
     "kosakata": "無理圧状",
     "bacaan": "むりおうじょう"
   },
@@ -10704,12 +10744,12 @@
     "bacaan": "むれつどう"
   },
   {
-    "kosakata": "蒸れる",
+    "kosakata": "群れる",
     "bacaan": "むれる"
   },
   {
-    "kosakata": "目明き千人盲千人",
-    "bacaan": "めあきせんにんめくらせんにん"
+    "kosakata": "蒸れる",
+    "bacaan": "むれる"
   },
   {
     "kosakata": "謎語",
@@ -10732,14 +10772,6 @@
     "bacaan": "めがすわる"
   },
   {
-    "kosakata": "目腐れ金",
-    "bacaan": "めくされがね"
-  },
-  {
-    "kosakata": "目薬を注す",
-    "bacaan": "めぐすりをさす"
-  },
-  {
     "kosakata": "目薬を点す",
     "bacaan": "めぐすりをさす"
   },
@@ -10748,8 +10780,8 @@
     "bacaan": "めぐりあう"
   },
   {
-    "kosakata": "飯を蒸らす",
-    "bacaan": "めしをむらす"
+    "kosakata": "召し捕る",
+    "bacaan": "めしとる"
   },
   {
     "kosakata": "雌猫",
@@ -10772,14 +10804,6 @@
     "bacaan": "めのとどくかぎり"
   },
   {
-    "kosakata": "目を背ける",
-    "bacaan": "めをそむける"
-  },
-  {
-    "kosakata": "目を悦ばす",
-    "bacaan": "めをよろこばす"
-  },
-  {
     "kosakata": "免疫逃避",
     "bacaan": "めんえきとうひ"
   },
@@ -10788,20 +10812,20 @@
     "bacaan": "めんつゆ"
   },
   {
-    "kosakata": "雌鶏歌えば家亡ぶ",
+    "kosakata": "雌鳥歌えば家滅ぶ",
     "bacaan": "めんどりうたえばいえほろぶ"
   },
   {
-    "kosakata": "雌鶏歌えば家滅ぶ",
-    "bacaan": "めんどりうたえばいえほろぶ"
+    "kosakata": "設ける",
+    "bacaan": "もうける"
   },
   {
     "kosakata": "申し訳ない位",
     "bacaan": "もうしわけないぐらい"
   },
   {
-    "kosakata": "盲人が盲人を導く",
-    "bacaan": "もうじんがもうじんをみちびく"
+    "kosakata": "申す",
+    "bacaan": "もうす"
   },
   {
     "kosakata": "猛省を促す",
@@ -10816,20 +10840,24 @@
     "bacaan": "もえさし"
   },
   {
-    "kosakata": "黙示録",
-    "bacaan": "もくしろく"
+    "kosakata": "黙示",
+    "bacaan": "もくし"
   },
   {
     "kosakata": "木造家屋",
     "bacaan": "もくぞうかおく"
   },
   {
-    "kosakata": "若しくは",
-    "bacaan": "もしくは"
+    "kosakata": "潜り",
+    "bacaan": "もぐり"
   },
   {
-    "kosakata": "若しもの事",
-    "bacaan": "もしものこと"
+    "kosakata": "若し",
+    "bacaan": "もし"
+  },
+  {
+    "kosakata": "若しくは",
+    "bacaan": "もしくは"
   },
   {
     "kosakata": "燃す",
@@ -10852,28 +10880,36 @@
     "bacaan": "もちこたえる"
   },
   {
+    "kosakata": "望月",
+    "bacaan": "もちづき"
+  },
+  {
     "kosakata": "物怪の幸い",
     "bacaan": "もっけのさいわい"
   },
   {
-    "kosakata": "没食子酸",
-    "bacaan": "もっしょくしさん"
+    "kosakata": "没食子",
+    "bacaan": "もっしょくし"
   },
   {
     "kosakata": "専ら",
     "bacaan": "もっぱら"
   },
   {
-    "kosakata": "弄び物",
-    "bacaan": "もてあそびもの"
+    "kosakata": "弄ぶ",
+    "bacaan": "もてあそぶ"
   },
   {
     "kosakata": "玩ぶ",
     "bacaan": "もてあそぶ"
   },
   {
-    "kosakata": "持てる者と持たざる者",
-    "bacaan": "もてるものともたざるもの"
+    "kosakata": "持て余す",
+    "bacaan": "もてあます"
+  },
+  {
+    "kosakata": "持てる",
+    "bacaan": "もてる"
   },
   {
     "kosakata": "故",
@@ -10900,10 +10936,6 @@
     "bacaan": "もとごえ"
   },
   {
-    "kosakata": "元の鞘に収まる",
-    "bacaan": "もとのさやにおさまる"
-  },
-  {
     "kosakata": "元の鞘に納まる",
     "bacaan": "もとのさやにおさまる"
   },
@@ -10912,32 +10944,16 @@
     "bacaan": "ものいえばくちびるさむしあきのかぜ"
   },
   {
-    "kosakata": "物狂おしい",
-    "bacaan": "ものぐるおしい"
+    "kosakata": "物見遊山",
+    "bacaan": "ものみゆさん"
   },
   {
-    "kosakata": "物騒がしい",
-    "bacaan": "ものさわがしい"
+    "kosakata": "模倣",
+    "bacaan": "もほう"
   },
   {
-    "kosakata": "物識り",
-    "bacaan": "ものしり"
-  },
-  {
-    "kosakata": "物の哀れ",
-    "bacaan": "もののあわれ"
-  },
-  {
-    "kosakata": "物珍しい",
-    "bacaan": "ものめずらしい"
-  },
-  {
-    "kosakata": "模倣品",
-    "bacaan": "もほうひん"
-  },
-  {
-    "kosakata": "股肉",
-    "bacaan": "ももにく"
+    "kosakata": "股引き",
+    "bacaan": "ももひき"
   },
   {
     "kosakata": "百代",
@@ -10960,20 +10976,12 @@
     "bacaan": "やいばをまじえる"
   },
   {
-    "kosakata": "焼き鈍し法",
-    "bacaan": "やきなましほう"
-  },
-  {
-    "kosakata": "役者風情",
-    "bacaan": "やくしゃふぜい"
+    "kosakata": "輩",
+    "bacaan": "やから"
   },
   {
     "kosakata": "約束に背く",
     "bacaan": "やくそくにそむく"
-  },
-  {
-    "kosakata": "役を勤める",
-    "bacaan": "やくをつとめる"
   },
   {
     "kosakata": "焼け焦げ",
@@ -11008,16 +11016,16 @@
     "bacaan": "やすまる"
   },
   {
+    "kosakata": "休める",
+    "bacaan": "やすめる"
+  },
+  {
     "kosakata": "安らかにお眠り下さい",
     "bacaan": "やすらかにおねむりください"
   },
   {
     "kosakata": "痩せ細る",
     "bacaan": "やせほそる"
-  },
-  {
-    "kosakata": "八十万",
-    "bacaan": "やそよろず"
   },
   {
     "kosakata": "八脚の案",
@@ -11032,8 +11040,16 @@
     "bacaan": "やといどめ"
   },
   {
+    "kosakata": "宿る",
+    "bacaan": "やどる"
+  },
+  {
     "kosakata": "柳下駄",
     "bacaan": "やなぎげた"
+  },
+  {
+    "kosakata": "敗れる",
+    "bacaan": "やぶれる"
   },
   {
     "kosakata": "破れる",
@@ -11064,16 +11080,16 @@
     "bacaan": "やみおち"
   },
   {
-    "kosakata": "闇を透かす",
-    "bacaan": "やみをすかす"
-  },
-  {
     "kosakata": "罷む",
     "bacaan": "やむ"
   },
   {
     "kosakata": "止むに止まれず",
     "bacaan": "やむにやまれず"
+  },
+  {
+    "kosakata": "辞める",
+    "bacaan": "やめる"
   },
   {
     "kosakata": "矢も盾も堪らず",
@@ -11084,8 +11100,8 @@
     "bacaan": "やや"
   },
   {
-    "kosakata": "槍玉に挙がる",
-    "bacaan": "やりだまにあがる"
+    "kosakata": "八万",
+    "bacaan": "やよろず"
   },
   {
     "kosakata": "柔肌",
@@ -11096,16 +11112,20 @@
     "bacaan": "やわら"
   },
   {
-    "kosakata": "軟らかい",
+    "kosakata": "柔らか",
+    "bacaan": "やわらか"
+  },
+  {
+    "kosakata": "軟らか",
+    "bacaan": "やわらか"
+  },
+  {
+    "kosakata": "柔らかい",
     "bacaan": "やわらかい"
   },
   {
-    "kosakata": "軟らかな光",
-    "bacaan": "やわらかなひかり"
-  },
-  {
-    "kosakata": "柔らか目",
-    "bacaan": "やわらかめ"
+    "kosakata": "軟らかい",
+    "bacaan": "やわらかい"
   },
   {
     "kosakata": "和らぐ",
@@ -11152,16 +11172,12 @@
     "bacaan": "ゆうしょう"
   },
   {
-    "kosakata": "勇将の下に弱卒無し",
+    "kosakata": "勇将の下に弱卒なし",
     "bacaan": "ゆうしょうのもとにじゃくそつなし"
   },
   {
-    "kosakata": "油色",
-    "bacaan": "ゆうしょく"
-  },
-  {
-    "kosakata": "有職料理",
-    "bacaan": "ゆうそくりょうり"
+    "kosakata": "油然",
+    "bacaan": "ゆうぜん"
   },
   {
     "kosakata": "郵袋",
@@ -11170,10 +11186,6 @@
   {
     "kosakata": "夕虹",
     "bacaan": "ゆうにじ"
-  },
-  {
-    "kosakata": "裕福層",
-    "bacaan": "ゆうふくそう"
   },
   {
     "kosakata": "幽冥境を異にする",
@@ -11188,8 +11200,8 @@
     "bacaan": "ゆかいなぼくじょう"
   },
   {
-    "kosakata": "縁の色",
-    "bacaan": "ゆかりのいろ"
+    "kosakata": "縁",
+    "bacaan": "ゆかり"
   },
   {
     "kosakata": "嫁き遅れ",
@@ -11200,20 +11212,12 @@
     "bacaan": "ゆきかい"
   },
   {
-    "kosakata": "湯気を立てて怒る",
-    "bacaan": "ゆげをたてておこる"
+    "kosakata": "雪融け",
+    "bacaan": "ゆきどけ"
   },
   {
     "kosakata": "揺さぶる",
     "bacaan": "ゆさぶる"
-  },
-  {
-    "kosakata": "遊山船",
-    "bacaan": "ゆさんぶね"
-  },
-  {
-    "kosakata": "湯冷まし",
-    "bacaan": "ゆざまし"
   },
   {
     "kosakata": "諭旨解雇",
@@ -11232,12 +11236,16 @@
     "bacaan": "ゆする"
   },
   {
+    "kosakata": "委ねる",
+    "bacaan": "ゆだねる"
+  },
+  {
     "kosakata": "油田掘削施設",
     "bacaan": "ゆでんくっさくしせつ"
   },
   {
-    "kosakata": "尿",
-    "bacaan": "ゆばり"
+    "kosakata": "尿袋",
+    "bacaan": "ゆばりぶくろ"
   },
   {
     "kosakata": "指環",
@@ -11254,6 +11262,10 @@
   {
     "kosakata": "夢みる",
     "bacaan": "ゆめみる"
+  },
+  {
+    "kosakata": "揺らぐ",
+    "bacaan": "ゆらぐ"
   },
   {
     "kosakata": "揺り戻す",
@@ -11280,16 +11292,12 @@
     "bacaan": "ゆるぼ"
   },
   {
-    "kosakata": "緩やかに進む",
-    "bacaan": "ゆるやかにすすむ"
+    "kosakata": "緩やか",
+    "bacaan": "ゆるやか"
   },
   {
     "kosakata": "結わえる",
     "bacaan": "ゆわえる"
-  },
-  {
-    "kosakata": "酔い醒めの水下戸知らず",
-    "bacaan": "よいさめのみずげこしらず"
   },
   {
     "kosakata": "酔い痴れる",
@@ -11298,6 +11306,10 @@
   {
     "kosakata": "宵の明星",
     "bacaan": "よいのみょうじょう"
+  },
+  {
+    "kosakata": "酔う",
+    "bacaan": "よう"
   },
   {
     "kosakata": "八日",
@@ -11328,10 +11340,6 @@
     "bacaan": "ようのとうざいをとわず"
   },
   {
-    "kosakata": "揺変性",
-    "bacaan": "ようへんせい"
-  },
-  {
     "kosakata": "漸く",
     "bacaan": "ようやく"
   },
@@ -11346,10 +11354,6 @@
   {
     "kosakata": "善かれ悪しかれ",
     "bacaan": "よかれあしかれ"
-  },
-  {
-    "kosakata": "夜が明ける",
-    "bacaan": "よがあける"
   },
   {
     "kosakata": "預金封鎖",
@@ -11368,16 +11372,20 @@
     "bacaan": "よこいと"
   },
   {
-    "kosakata": "邪な心",
-    "bacaan": "よこしまなこころ"
+    "kosakata": "邪",
+    "bacaan": "よこしま"
   },
   {
     "kosakata": "横恋慕",
     "bacaan": "よこれんぼ"
   },
   {
-    "kosakata": "吉川神道",
-    "bacaan": "よしかわしんとう"
+    "kosakata": "汚れる",
+    "bacaan": "よごれる"
+  },
+  {
+    "kosakata": "吉田神道",
+    "bacaan": "よしだしんとう"
   },
   {
     "kosakata": "四畳半趣味",
@@ -11392,16 +11400,8 @@
     "bacaan": "よすが"
   },
   {
-    "kosakata": "夜濯ぎ",
-    "bacaan": "よすすぎ"
-  },
-  {
     "kosakata": "装い",
     "bacaan": "よそおい"
-  },
-  {
-    "kosakata": "夜直鳥",
-    "bacaan": "よただどり"
   },
   {
     "kosakata": "由って来る",
@@ -11440,16 +11440,16 @@
     "bacaan": "よりそう"
   },
   {
-    "kosakata": "因る所が大きい",
+    "kosakata": "因るところが大きい",
     "bacaan": "よるところがおおきい"
-  },
-  {
-    "kosakata": "夜の営み",
-    "bacaan": "よるのいとなみ"
   },
   {
     "kosakata": "夜の帳",
     "bacaan": "よるのとばり"
+  },
+  {
+    "kosakata": "悦ばす",
+    "bacaan": "よろこばす"
   },
   {
     "kosakata": "喜び勇む",
@@ -11457,6 +11457,10 @@
   },
   {
     "kosakata": "悦ぶ",
+    "bacaan": "よろこぶ"
+  },
+  {
+    "kosakata": "慶ぶ",
     "bacaan": "よろこぶ"
   },
   {
@@ -11476,16 +11480,20 @@
     "bacaan": "よわい"
   },
   {
+    "kosakata": "齢",
+    "bacaan": "よわい"
+  },
+  {
     "kosakata": "歯する",
     "bacaan": "よわいする"
   },
   {
-    "kosakata": "齢を重ねる",
-    "bacaan": "よわいをかさねる"
-  },
-  {
     "kosakata": "弱まる",
     "bacaan": "よわまる"
+  },
+  {
+    "kosakata": "弱める",
+    "bacaan": "よわめる"
   },
   {
     "kosakata": "弱る",
@@ -11504,8 +11512,8 @@
     "bacaan": "らくようのしかをたかめる"
   },
   {
-    "kosakata": "裸子植物門",
-    "bacaan": "らししょくぶつもん"
+    "kosakata": "裸子植物",
+    "bacaan": "らししょくぶつ"
   },
   {
     "kosakata": "落花枝に帰らず破鏡再び照らさず",
@@ -11520,12 +11528,8 @@
     "bacaan": "らんそうかじょうしげきしょうこうぐん"
   },
   {
-    "kosakata": "理解を深める",
-    "bacaan": "りかいをふかめる"
-  },
-  {
-    "kosakata": "陸繋砂州",
-    "bacaan": "りくけいさす"
+    "kosakata": "陸棚",
+    "bacaan": "りくほう"
   },
   {
     "kosakata": "律義者の子沢山",
@@ -11544,12 +11548,16 @@
     "bacaan": "りゃくしゅゆうかいざい"
   },
   {
-    "kosakata": "硫酸銅",
-    "bacaan": "りゅうさんどう"
+    "kosakata": "利益",
+    "bacaan": "りやく"
   },
   {
-    "kosakata": "粒子径",
-    "bacaan": "りゅうしけい"
+    "kosakata": "粒径",
+    "bacaan": "りゅうけい"
+  },
+  {
+    "kosakata": "硫酸銅",
+    "bacaan": "りゅうさんどう"
   },
   {
     "kosakata": "竜馬",
@@ -11562,10 +11570,6 @@
   {
     "kosakata": "僚艦",
     "bacaan": "りょうかん"
-  },
-  {
-    "kosakata": "良禽は木を択んで棲む",
-    "bacaan": "りょうきんはきをえらんですむ"
   },
   {
     "kosakata": "了簡違い",
@@ -11594,10 +11598,6 @@
   {
     "kosakata": "涙腺が緩む",
     "bacaan": "るいせんがゆるむ"
-  },
-  {
-    "kosakata": "累卵の危うき",
-    "bacaan": "るいらんのあやうき"
   },
   {
     "kosakata": "留守を預かる",
@@ -11676,10 +11676,6 @@
     "bacaan": "ろくしゃく"
   },
   {
-    "kosakata": "六十の手習い",
-    "bacaan": "ろくじゅうのてならい"
-  },
-  {
     "kosakata": "六根清浄",
     "bacaan": "ろっこんしょうじょう"
   },
@@ -11688,12 +11684,8 @@
     "bacaan": "ろれつがまわらない"
   },
   {
-    "kosakata": "把",
-    "bacaan": "わ"
-  },
-  {
-    "kosakata": "賄賂罪",
-    "bacaan": "わいろざい"
+    "kosakata": "賄賂",
+    "bacaan": "わいろ"
   },
   {
     "kosakata": "若く見える",
@@ -11752,12 +11744,20 @@
     "bacaan": "わざと"
   },
   {
-    "kosakata": "禍を転じて福と為す",
-    "bacaan": "わざわいをてんじてふくとなす"
+    "kosakata": "禍",
+    "bacaan": "わざわい"
   },
   {
     "kosakata": "災いを招く",
     "bacaan": "わざわいをまねく"
+  },
+  {
+    "kosakata": "患う",
+    "bacaan": "わずらう"
+  },
+  {
+    "kosakata": "煩わす",
+    "bacaan": "わずらわす"
   },
   {
     "kosakata": "腸香",
@@ -11780,16 +11780,16 @@
     "bacaan": "わめきちらす"
   },
   {
-    "kosakata": "笑い転げる",
-    "bacaan": "わらいころげる"
-  },
-  {
     "kosakata": "破り籠",
     "bacaan": "わりご"
   },
   {
     "kosakata": "割り普請",
     "bacaan": "わりぶしん"
+  },
+  {
+    "kosakata": "悪賢い",
+    "bacaan": "わるがしこい"
   },
   {
     "kosakata": "悪巧み",
@@ -11848,11 +11848,11 @@
     "bacaan": "ハン"
   },
   {
-    "kosakata": "半荘",
-    "bacaan": "ハンチャン"
-  },
-  {
     "kosakata": "拉葡日対訳辞書",
     "bacaan": "ラポにちたいやくじしょ"
+  },
+  {
+    "kosakata": "連荘",
+    "bacaan": "レンチャン"
   }
 ]

@@ -19,8 +19,8 @@ This is not a study list someone curated by feel; it is the mathematical minimum
 | Readings that can be covered | **5,840** |
 | **Minimum words** | **2,964** |
 | Proven lower bound | 2,962 |
-| Efficiency | 2.48 readings per word |
-| Words that teach only 1 reading | 580 |
+| Efficiency | 2.26 readings per word |
+| Words that teach only 1 reading | 917 |
 | Max readings taught by one word | 14 |
 
 ---
@@ -73,21 +73,21 @@ Full details: [`docs/metode.md`](docs/metode.md) · Indonesian version: [`docs/l
 
 | Readings covered | Words needed |
 |---|---|
-| 50% | 792 |
-| 70% | 1,298 |
-| 80% | 1,527 |
-| 90% | 1,758 |
-| 95% | 1,858 |
-| 99% | 2,060 |
+| 50% | 954 |
+| 70% | 1,538 |
+| 80% | 1,830 |
+| 90% | 2,380 |
+| 95% | 2,672 |
+| 99% | 2,906 |
 | **100%** | **2,964** |
 
-The last 1% (58 readings) costs roughly **900 words**. Those are archaic or ateji readings that exist only in rare vocabulary.
+Beyond 90%, each extra percent costs roughly 60 words: the final 584 readings need 584 words, almost one word per reading, because those readings are witnessed by only one or two words each.
 
 ### What the list looks like
 
 - 2,964 words, 2,930 unique (34 words appear twice with different readings, e.g. 生 き / 生 なま).
-- 580 words teach exactly one reading; 1,282 teach two; the maximum is 14.
-- About 430 entries are phrases (e.g. 真偽を確かめる), because JMdict contains multiword expressions.
+- 917 words teach exactly one reading; 1,156 teach two; the maximum is 14.
+- About 320 entries are phrases (e.g. 真偽を確かめる), because JMdict contains multiword expressions.
 - Common words such as 食べる or 学校 are **not** in the list — their readings are covered more cheaply by other words.
 
 ### Kyōiku only
